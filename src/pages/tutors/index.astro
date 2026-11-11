@@ -5,7 +5,7 @@ const tutor = tutors[0];
 const title = tutor ? `AQA A-level sociology tutor: ${tutor.name}, online one-to-one` : 'AQA A-level sociology tutor: online one-to-one lessons';
 const desc = tutor ? tutor.bio[0] : 'Online one-to-one A-level Sociology tutoring for the AQA specification, from an experienced specialist tutor. Paid trial lesson, no packages, lesson by lesson.';
 ---
-<Base title={title} description={desc} context="tutors" leadLine="Tell us the year group, target grade and availability, and we will arrange a trial lesson.">
+<Base title={title} description={desc} context="tutors" leadLine="Tell us the year group, target grade and availability, and Mark will arrange a trial lesson.">
   {tutor ? <>
     <div class="tutor-head">
       {tutor.photo && <img class="tutor-photo" src={tutor.photo} alt={tutor.name} width="160" height="160" />}
@@ -33,7 +33,7 @@ const desc = tutor ? tutor.bio[0] : 'Online one-to-one A-level Sociology tutorin
   <ol>
     <li>Message us on WhatsApp or send the enquiry form with the year, target grade and the times that work for you.</li>
     <li>{tutor ? tutor.name : 'The tutor'} gets in touch to arrange the trial lesson.</li>
-    <li>Lessons are booked directly with {tutor ? 'her' : 'the tutor'} from then on.</li>
+    <li>Lessons are booked directly with {tutor ? 'him' : 'the tutor'} from then on.</li>
   </ol>
   <p class="muted">DBS-checked; references available.</p>
   {tutor?.reviews?.length > 0 && <>

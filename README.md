@@ -26,7 +26,7 @@ Set `CROPS=off` in Netlify's environment to replace every AQA crop with a link t
 - Question-type pages: definitions, brief explain, outline, outline and explain, analyse, Methods in Context, essays.
 - `/practice/define/` drills the 2-mark AS define and brief-explain questions.
 - Flashcards are key-term decks (`src/data/decks/*.json`, picked up by `src/lib/decks.ts`). Decks with `"checked": false` show a "being checked by our tutor" line.
-- `src/data/tutors.json` is empty, so `/tutors/` shows the generic tutoring page. Add a tutor object (see the Economics repo) to switch to a profile.
+- `src/data/tutors.json` holds Mark (photo `public/tutors/mark.webp`, fee £100 per hour, one Google review).
 
 ## Content that needs a tutor's check before launch
 - The twelve key-term decks in `src/data/decks/`.

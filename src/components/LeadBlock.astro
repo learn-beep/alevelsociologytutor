@@ -1,14 +1,14 @@
 ---
 import { waLink } from '../lib/site';
 import site from '../data/site.json';
-const { context = 'site', line = 'Essays stuck in the middle band, or losing marks on the 10-markers? Book a trial lesson with a specialist AQA Sociology tutor.' } = Astro.props;
+const { context = 'site', line = 'Essays stuck in the middle band, or losing marks on the 10-markers? Book a trial lesson with Mark, a former AQA examiner.' } = Astro.props;
 ---
 <section class="lead-block" id="tutor">
   <h2>Work with an AQA sociology tutor</h2>
   <p>{line}</p>
   <div class="btn-row">
     <a class="btn btn-wa" href={waLink(context)} rel="noopener">Message us on WhatsApp</a>
-    <a class="btn" href="/tutors/">About the tutoring</a>
+    <a class="btn" href="/tutors/">About Mark</a>
   </div>
   <details class="form-toggle">
     <summary>Prefer email? Send an enquiry</summary>

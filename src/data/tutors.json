@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "slug": "mark",
+    "name": "Mark",
+    "title": "AQA A-level Sociology tutor and former AQA examiner",
+    "photo": "/tutors/mark.webp",
+    "bio": [
+      "With over 25 years of A-level Sociology teaching experience, Mark is a real expert and passionate about teaching Sociology. He leads a very large and successful department.",
+      "He is able to teach all A-level Sociology specifications, with an especially comprehensive knowledge of AQA, where he has been an examiner. Lessons are built around what AQA's mark schemes reward: applying the Item in the 10-mark questions, developed points in the outline-and-explain answers, and the analysis and evaluation that take a 30-mark essay into the top level."
+    ],
+    "offers": [
+      "One-to-one online sessions for Year 12 and Year 13, at a regular weekly slot",
+      "Essay marking against the AQA levels, with written feedback",
+      "Theory and Methods and Methods in Context practice, and mock-paper walk-throughs before the May exams"
+    ],
+    "reviews": [
+      {
+        "who": "Antonia Krummeck",
+        "when": "September 2022",
+        "stars": 5,
+        "text": "I sought Mark‘s help for A level sociology later in the year nearer to the exams. His tuition helped me tremendously within that short period of time before my exams and I ended up receiving a result for sociology that I never thought I was capable of! Mark went above and beyond to ensure that I had all of the resources I could have possible needed to aid my revision and was happy to answer all of my 1000s of questions. Mark was always open and honest during our lessons and could explain theories and concepts that would take me months to wrap my head around in just an hour session. Very much recommend him for anyone in need of extra support for A level sociology!"
+      }
+    ],
+    "reviewSource": "Google reviews of A-level Tutors Online",
+    "fee": "£100 per hour"
+  }
+]
