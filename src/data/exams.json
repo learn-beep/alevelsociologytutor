@@ -1,0 +1,14 @@
+{
+  "series": "Summer 2027",
+  "source": "AQA exam timetable May/June 2027",
+  "alevel": [
+    {"code": "7192/1", "name": "Paper 1: Education with Theory and Methods", "date": "2027-05-14", "session": "Afternoon", "length": "2 hours", "marks": 80},
+    {"code": "7192/2", "name": "Paper 2: Topics in Sociology", "date": "2027-05-21", "session": "Morning", "length": "2 hours", "marks": 80},
+    {"code": "7192/3", "name": "Paper 3: Crime and Deviance with Theory and Methods", "date": "2027-06-10", "session": "Morning", "length": "2 hours", "marks": 80}
+  ],
+  "as": [
+    {"code": "7191/1", "name": "Paper 1: Education with Methods in Context", "date": "2027-05-11", "session": "Morning", "length": "1 hour 30 minutes", "marks": 60},
+    {"code": "7191/2", "name": "Paper 2: Research Methods and Topics in Sociology", "date": "2027-05-18", "session": "Morning", "length": "1 hour 30 minutes", "marks": 60}
+  ],
+  "asNote": "AS marks do not count towards the A level."
+}

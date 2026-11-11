@@ -1,0 +1,91 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+---
+<Base title="AQA A-level Sociology mini-mock builder: timed papers from real questions" description="Build a timed mock from real AQA Sociology past-paper questions in the exact shape of A-level Paper 1, 2 or 3 or the AS papers, with your Paper 2 topics. Play it on screen or print it with the mark schemes." context="mock" leadLine="Want a mock marked properly and gone through? Message us.">
+  <h1>Mini-mock builder</h1>
+  <p>Builds a paper in the exact shape of the AQA exam, one real question for each question number, each drawn from a different year. A-level Paper 1 is Education (4, 6, 10 and 30 marks), Methods in Context (20) and Theory and Methods (10). Paper 2 is your two topics, each 10, 10 and 20 marks. Paper 3 is Crime and Deviance (4, 6, 10, 30) and Theory and Methods (10, 20). Timed at 1.5 minutes a mark, like the real papers.</p>
+  <div class="panel" id="setup">
+    <h3>Level</h3>
+    <div class="chips" data-group="level"><button class="chip" type="button" data-v="A level" aria-pressed="true">A level</button><button class="chip" type="button" data-v="AS">AS</button></div>
+    <h3>Paper</h3>
+    <div class="chips" data-group="paper"><button class="chip" type="button" data-v="Paper 1" aria-pressed="true">Paper 1</button><button class="chip" type="button" data-v="Paper 2">Paper 2</button><button class="chip" type="button" data-v="Paper 3" data-alonly>Paper 3</button></div>
+    <div id="topicpick" hidden>
+      <h3>Your Paper 2 topics</h3>
+      <div class="chips" data-group="ta"><span class="muted" style="align-self:center">Section A:</span><button class="chip" type="button" data-v="Culture and Identity" aria-pressed="true">Culture and Identity</button><button class="chip" type="button" data-v="Families and Households">Families and Households</button><button class="chip" type="button" data-v="Health">Health</button><button class="chip" type="button" data-v="Work, Poverty and Welfare">Work, Poverty and Welfare</button></div>
+      <div class="chips" data-group="tb" id="tbrow"><span class="muted" style="align-self:center">Section B:</span><button class="chip" type="button" data-v="Beliefs in Society" aria-pressed="true">Beliefs in Society</button><button class="chip" type="button" data-v="Global Development">Global Development</button><button class="chip" type="button" data-v="The Media">The Media</button><button class="chip" type="button" data-v="Stratification and Differentiation">Stratification and Differentiation</button></div>
+    </div>
+    <h3>Length</h3>
+    <div class="chips" data-group="part"><button class="chip" type="button" data-v="A" aria-pressed="true">Section A</button><button class="chip" type="button" data-v="B">Section B</button><button class="chip" type="button" data-v="full">Full paper</button></div>
+    <p class="muted" id="shape"></p>
+    <div><button class="btn btn-accent" type="button" id="build">Build my mock</button></div>
+  </div>
+  <div id="paper" hidden>
+    <div class="playbar"><span id="title"></span><span class="timer" id="timer"></span><span><button class="btn" type="button" id="starttimer"><Icon name="timer" />Start timer</button> <button class="btn" type="button" id="print"><Icon name="printer" />Print</button> <button class="btn" type="button" id="share"><Icon name="link" />Copy link</button></span></div>
+    <div id="cards"></div>
+    <div class="btn-row"><button class="btn btn-accent" type="button" id="rebuild">Build another</button></div>
+  </div>
+  <script>
+    import { loadBank, card, shuffle, fmtTime } from '../../scripts/player.js';
+    const $ = (s) => document.querySelector(s);
+    const sel = { level: 'A level', paper: 'Paper 1', part: 'A', ta: 'Culture and Identity', tb: 'Beliefs in Society' };
+    let bank = null, timer = null, secs = 0;
+    // [question numbers in Section A, in Section B] for each paper; Paper 2 positions are within a topic block
+    const SHAPE = {
+      'A level|Paper 1': { A: [1, 2, 3, 4], B: [5, 6], text: { A: 'Section A, Education: 4, 6, 10 and 30 marks (50 marks, 75 minutes).', B: 'Section B: Methods in Context (20) and Theory and Methods (10) (30 marks, 45 minutes).', full: 'The whole paper (80 marks, 2 hours).' } },
+      'A level|Paper 3': { A: [1, 2, 3, 4], B: [5, 6], text: { A: 'Section A, Crime and Deviance: 4, 6, 10 and 30 marks (50 marks, 75 minutes).', B: 'Section B, Theory and Methods: 10 and 20 marks (30 marks, 45 minutes).', full: 'The whole paper (80 marks, 2 hours).' } },
+      'A level|Paper 2': { block: 3, text: { A: 'Your Section A topic: 10, 10 and 20 marks (40 marks, 1 hour).', B: 'Your Section B topic: 10, 10 and 20 marks (40 marks, 1 hour).', full: 'Both topics (80 marks, 2 hours).' } },
+      'AS|Paper 1': { A: [1, 2, 3, 4, 5], B: [6], text: { A: 'Section A, Education: 2, 2, 6, 10 and 20 marks (40 marks, 1 hour).', B: 'Section B: Methods in Context (20 marks, 30 minutes).', full: 'The whole paper (60 marks, 1 hour 30).' } },
+      'AS|Paper 2': { A: [1, 2], block: 5, text: { A: 'Section A, Research Methods: 4 and 16 marks (20 marks, 30 minutes).', B: 'Your topic: 2, 2, 6, 10 and 20 marks (40 marks, 1 hour).', full: 'The whole paper (60 marks, 1 hour 30).' } },
+    };
+    const key = () => `${sel.level}|${sel.paper}`;
+    function shape() {
+      if (sel.level === 'AS' && sel.paper === 'Paper 3') { $('#shape').textContent = 'There is no AS Paper 3.'; return; }
+      $('#topicpick').hidden = sel.paper !== 'Paper 2'; $('#tbrow').hidden = sel.level === 'AS';
+      $('#shape').textContent = SHAPE[key()].text[sel.part];
+    }
+    document.querySelectorAll('[data-group]').forEach((g) => g.querySelectorAll('.chip').forEach((b) => b.addEventListener('click', () => { g.querySelectorAll('.chip').forEach((x) => x.setAttribute('aria-pressed', 'false')); b.setAttribute('aria-pressed', 'true'); sel[g.dataset.group] = b.dataset.v; shape(); })));
+    shape();
+    loadBank().then((b) => { bank = b; });
+    // one real part for each position, each from a different series where possible
+    function fill(pool, positions, posOf) {
+      const used = new Set(), out = [];
+      for (const n of positions) {
+        const c = shuffle(pool.filter((q) => posOf(q) === n));
+        const q = c.find((x) => !used.has(x.s)) || c[0];
+        if (q) { used.add(q.s); out.push(q); }
+      }
+      return out;
+    }
+    $('#build').addEventListener('click', () => {
+      if (!bank || (sel.level === 'AS' && sel.paper === 'Paper 3')) return;
+      const S = SHAPE[key()];
+      const pool = bank.q.filter((q) => !q.old && q.c && q.l === sel.level && q.p === sel.paper);
+      let picked = [];
+      if (sel.paper === 'Paper 2') {
+        const blockPos = (q) => sel.level === 'AS' ? (q.n - 3) % 5 + 1 : (q.n - 1) % 3 + 1;
+        const topicPart = (topic) => fill(pool.filter((q) => q.a === topic && (sel.level === 'A level' || q.n >= 3)), sel.level === 'AS' ? [1, 2, 3, 4, 5] : [1, 2, 3], blockPos);
+        const rm = () => fill(pool, [1, 2], (q) => q.n);
+        if (sel.level === 'AS') picked = sel.part === 'A' ? rm() : sel.part === 'B' ? topicPart(sel.ta) : rm().concat(topicPart(sel.ta));
+        else picked = sel.part === 'A' ? topicPart(sel.ta) : sel.part === 'B' ? topicPart(sel.tb) : topicPart(sel.ta).concat(topicPart(sel.tb));
+      } else {
+        const pos = sel.part === 'A' ? S.A : sel.part === 'B' ? S.B : S.A.concat(S.B);
+        picked = fill(pool, pos, (q) => q.n);
+      }
+      if (!picked.length) { $('#shape').textContent = 'Nothing matched; try another combination.'; return; }
+      const total = picked.reduce((a, q) => a + q.m, 0);
+      $('#setup').hidden = true; $('#paper').hidden = false;
+      $('#title').textContent = `${sel.level} ${sel.paper}: ${picked.length} questions, ${total} marks`;
+      secs = Math.round(total * 90); $('#timer').textContent = fmtTime(secs); if (timer) clearInterval(timer);
+      renderPicked(picked);
+      location.hash = 'set=' + picked.map((q) => q.id).join(',');
+      window.scrollTo({ top: 0 });
+    });
+    function renderPicked(picked) { const holder = $('#cards'); holder.innerHTML = ''; picked.forEach((q, n) => { const c = card(q); c.querySelector('.meta strong').textContent = `Question ${n + 1} (from ${q.s} ${q.l === 'AS' ? 'AS ' : ''}${q.p} Q${q.q})`; holder.appendChild(c); }); }
+    $('#share').addEventListener('click', async () => { const url = location.href.split('#')[0] + location.hash; try { await navigator.clipboard.writeText(url); window.maltToast && window.maltToast('Link copied'); } catch { prompt('Copy this link', url); } });
+    loadBank().then(() => { const m = location.hash.match(/set=([^&]+)/); if (!m || !bank) return; const ids = m[1].split(','); const picked = ids.map((id) => bank.q.find((q) => q.id === id)).filter(Boolean); if (!picked.length) return; const total = picked.reduce((a, q) => a + q.m, 0); $('#setup').hidden = true; $('#paper').hidden = false; $('#title').textContent = `Shared mock: ${picked.length} questions, ${total} marks`; secs = Math.round(total * 90); $("#timer").textContent = fmtTime(secs); renderPicked(picked); });
+    $('#starttimer').addEventListener('click', () => { if (timer) clearInterval(timer); timer = setInterval(() => { secs--; $('#timer').textContent = fmtTime(Math.max(secs, 0)); if (secs <= 0) { clearInterval(timer); $('#timer').textContent = "Time's up"; } }, 1000); });
+    $('#print').addEventListener('click', () => { document.querySelectorAll('#cards img[data-src]').forEach((img) => { img.src = img.dataset.src; img.removeAttribute('data-src'); }); setTimeout(() => window.print(), 300); });
+    $('#rebuild').addEventListener('click', () => { if (timer) clearInterval(timer); $('#paper').hidden = true; $('#setup').hidden = false; window.scrollTo({ top: 0 }); });
+  </script>
+</Base>

@@ -1,0 +1,67 @@
+{
+ "topic": "social-distribution-of-crime",
+ "name": "The social distribution of crime",
+ "checked": false,
+ "terms": [
+  {
+   "term": "Official statistics",
+   "definition": "Figures on crime collected by the state, such as police recorded crime and conviction data.",
+   "examiner": "They miss the 'dark figure'. Say what the statistics show and why it may be misleading."
+  },
+  {
+   "term": "Dark figure of crime",
+   "definition": "The crime that is never reported to or recorded by the police.",
+   "examiner": "Use victim and self-report studies to show it."
+  },
+  {
+   "term": "Victim surveys",
+   "definition": "Surveys asking people about crimes committed against them, such as the Crime Survey for England and Wales.",
+   "examiner": "They find more crime than the police record, but miss crimes without an individual victim."
+  },
+  {
+   "term": "Self-report studies",
+   "definition": "Surveys asking people to admit to crimes they have committed.",
+   "examiner": "They show crime is more evenly spread across classes than official figures suggest."
+  },
+  {
+   "term": "Chivalry thesis",
+   "definition": "The claim that the justice system treats women more leniently than men.",
+   "examiner": "Pollak. Evaluate with Heidensohn and Carlen, who show women may be treated more harshly when they break gender norms."
+  },
+  {
+   "term": "Double deviance",
+   "definition": "The idea that female offenders are punished for breaking the law and for breaking gender norms.",
+   "examiner": "Heidensohn. A good counter to the chivalry thesis."
+  },
+  {
+   "term": "Liberation thesis",
+   "definition": "Adler's claim that as women become more equal, their crime rates will rise.",
+   "examiner": "Evaluate: the rise in female crime began before the women's movement."
+  },
+  {
+   "term": "Masculinity and crime",
+   "definition": "The idea that some men commit crime to achieve a masculine identity.",
+   "examiner": "Messerschmidt's 'accomplishing masculinity'. Applies across classes."
+  },
+  {
+   "term": "Ethnicity and crime",
+   "definition": "The patterns of offending and victimisation among different ethnic groups, and the debate over whether they reflect real differences or the justice system.",
+   "examiner": "Separate left realism (real differences) from neo-Marxist views (Hall's policing the crisis)."
+  },
+  {
+   "term": "Stop and search",
+   "definition": "Police powers to stop and search people they suspect of carrying something illegal.",
+   "examiner": "Black people are stopped at much higher rates. Use it to discuss bias in the system."
+  },
+  {
+   "term": "Relative deprivation",
+   "definition": "Feeling deprived in comparison with others, such as people of the same age or with similar backgrounds.",
+   "examiner": "Key to left realism; links class and ethnicity to crime."
+  },
+  {
+   "term": "Victimisation",
+   "definition": "The experience of being a victim of crime.",
+   "examiner": "The poor, the young and some minority ethnic groups are more likely to be victims: a point often missed."
+  }
+ ]
+}

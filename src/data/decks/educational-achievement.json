@@ -1,0 +1,67 @@
+{
+ "topic": "educational-achievement",
+ "name": "Differential educational achievement",
+ "checked": false,
+ "terms": [
+  {
+   "term": "Cultural deprivation",
+   "definition": "The idea that some groups underachieve because they lack the norms, values, skills and knowledge needed for success at school.",
+   "examiner": "Separate it from material deprivation. Critics such as Keddie call it a myth that blames the victim."
+  },
+  {
+   "term": "Material deprivation",
+   "definition": "Lack of money and the things it buys, such as a good diet, housing, books and a quiet place to study.",
+   "examiner": "Give a specific effect on schooling (cost of trips, part-time work, illness) rather than just 'poverty'."
+  },
+  {
+   "term": "Cultural capital",
+   "definition": "The knowledge, attitudes, values and tastes of the middle class, which give their children an advantage at school.",
+   "examiner": "Bourdieu's term. Use it alongside economic and educational capital to show how the three reinforce each other."
+  },
+  {
+   "term": "Restricted and elaborated code",
+   "definition": "Bernstein's two speech codes: restricted is short, context-bound and used by the working class; elaborated is explicit and used by the middle class and by schools.",
+   "examiner": "Bernstein says the school's use of the elaborated code advantages middle-class pupils; he is not saying working-class speech is inferior."
+  },
+  {
+   "term": "Immediate gratification",
+   "definition": "Wanting rewards now rather than working for them later; Sugarman saw it as a working-class value.",
+   "examiner": "Pair it with deferred gratification. An outline answer needs the link to lower achievement, not just the definition."
+  },
+  {
+   "term": "Labelling",
+   "definition": "Attaching a meaning or definition to a person, such as 'bright' or 'troublemaker', which can shape how others treat them.",
+   "examiner": "An interactionist idea. Develop it into the self-fulfilling prophecy to reach the top band."
+  },
+  {
+   "term": "Self-fulfilling prophecy",
+   "definition": "A prediction that comes true simply because it has been made, for example a pupil labelled as a failure who then fails.",
+   "examiner": "Explain the three steps: the label, the treatment, the pupil's response. Cite Rosenthal and Jacobson."
+  },
+  {
+   "term": "Institutional racism",
+   "definition": "Discrimination built into the routine workings of an organisation rather than coming from individuals.",
+   "examiner": "Gillborn and Youdell's 'A-to-C economy' and the ethnocentric curriculum are good examples to apply."
+  },
+  {
+   "term": "Ethnocentric curriculum",
+   "definition": "A curriculum that reflects the culture of one ethnic group, usually the white majority, and ignores or downgrades others.",
+   "examiner": "Use with examples such as a history curriculum centred on Britain. Evaluate: its effect on achievement is debated."
+  },
+  {
+   "term": "Feminisation of education",
+   "definition": "The claim that schools now value 'feminine' traits such as organisation and attentiveness, disadvantaging boys.",
+   "examiner": "Sewell's argument. Do not use it for girls' improvement alone: link it to explanations of boys' underachievement."
+  },
+  {
+   "term": "Gender domains",
+   "definition": "The tasks and activities that boys and girls see as belonging to their own gender.",
+   "examiner": "Browne and Ross. Useful for subject choice questions, not achievement questions."
+  },
+  {
+   "term": "Habitus",
+   "definition": "The learned, taken-for-granted ways of thinking and being shared by a social class, including tastes and expectations.",
+   "examiner": "Bourdieu. Archer used it to explain why working-class pupils may see university as 'not for the likes of us'."
+  }
+ ]
+}

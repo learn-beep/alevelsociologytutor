@@ -1,0 +1,81 @@
+---
+import Base from '../layouts/Base.astro';
+import { allTopics, allQuestions, allPapers, groupInfo } from '../lib/data';
+import { decks } from '../lib/decks';
+import Icon from '../components/Icon.astro';
+const order = ['educational-achievement','role-of-education','processes-within-schools','education-policy','methods-in-context','research-methods','positivism-and-interpretivism','marriage-divorce-and-family-diversity','identity-class-gender-ethnicity','secularisation','development-and-underdevelopment','media-ownership-and-control','health-inequalities','poverty','social-distribution-of-crime','globalisation-green-and-state-crime'];
+const top = order.map((s) => allTopics.find((t) => t.slug === s)).filter(Boolean);
+const topics = allTopics.map((t) => ({ slug: t.slug, name: t.name, parts: t.parts }));
+const essays = allQuestions.filter((q) => q.marks >= 16).length;
+const current = allQuestions.filter((q) => !q.notCurrentSpec).length;
+const latest = allPapers.filter((p) => p.kind === 'exam').map((p) => p.series).sort((a, b) => Number(b.split(' ')[1]) - Number(a.split(' ')[1]))[0];
+---
+<Base title="AQA A-level Sociology: past-paper questions by topic, mark schemes and tutors" context="home" leadLine="Not sure where to start? Tell us the year group and target grade and we will arrange a trial session.">
+  <h1>AQA A-level Sociology, one topic at a time</h1>
+  <p>{current.toLocaleString()} question parts from {allPapers.length} AQA Sociology papers from June 2016 to {latest}, sorted by topic, with the Item, the mark scheme and the examiner's comment one tap away. Free, no sign-up.</p>
+  <p class="muted">AQA A-level 7192 and AS 7191: Education, Theory and Methods, all eight Paper 2 options, and Crime and Deviance. The June 2026 papers will be added when AQA publishes them.</p>
+
+  <div class="progress-box" id="progress" hidden>
+    <strong>Your progress</strong>
+    <dl><div><dt>Checklist ticks</dt><dd id="pr-ticks">0</dd></div><div><dt>Questions marked</dt><dd id="pr-q">0</dd></div><div><dt>Weakest topic</dt><dd id="pr-weak">—</dd></div></dl>
+    <a href="/planner/">Build a plan from these</a> · <a href="/specification/">Checklist</a>
+  </div>
+
+  <nav class="tool-strip" aria-label="Key tools">
+    <a href="/practice/"><Icon name="target" />Practice</a>
+    <a href="/past-papers/"><Icon name="file" />Past papers</a>
+    <a href="/essays/"><Icon name="pen" />Essays</a>
+    <a href="/flashcards/"><Icon name="layers" />Key terms</a>
+    <a href="/mock/"><Icon name="timer" />Mock</a>
+  </nav>
+
+  <label for="topic-search" class="muted">Find a topic</label>
+  <input id="topic-search" class="search" type="search" placeholder="e.g. secularisation, labelling, family diversity" autocomplete="off" />
+
+  <h2 class="strand-head">Most-examined topics</h2>
+  <ul class="topic-list" id="topic-list">
+    {top.map((t) => <li><a href={`/questions/${t.slug}/`}><span>{t.name}</span><span class="strand"><span class={`badge badge-${groupInfo(t.group).badge}`}>{groupInfo(t.group).short}</span> {t.parts} parts</span></a></li>)}
+  </ul>
+  <p><a href="/questions/">All {allTopics.length} topics by paper and option</a></p>
+
+  <h2>Everything on the site</h2>
+  <div class="tiles">
+    <a class="tile-card" href="/past-papers/"><Icon name="file" /><strong>Past papers</strong><span>Every 7192 and 7191 paper since 2016 with a question-by-question table, including the 2016–2019 series AQA no longer hosts</span></a>
+    <a class="tile-card" href="/practice/"><Icon name="target" /><strong>Practice</strong><span>Real questions one at a time, self-marked against the mark scheme and the level bands</span></a>
+    <a class="tile-card" href="/essays/"><Icon name="pen" /><strong>Essays</strong><span>All {essays} essay titles ever set (16, 20 and 30 marks), by topic, and a timed essay tool</span></a>
+    <a class="tile-card" href="/questions/type/methods-in-context/"><Icon name="lightbulb" /><strong>Methods in Context</strong><span>Every 20-mark research-methods-in-education question, with the Item and mark scheme</span></a>
+    <a class="tile-card" href="/flashcards/"><Icon name="layers" /><strong>Flashcards</strong><span>Key terms for {decks.length} topics with spaced repetition, and a 2-mark define-it drill</span></a>
+    <a class="tile-card" href="/mock/"><Icon name="timer" /><strong>Mini-mock builder</strong><span>A paper-shaped timed mock from real questions: any A-level or AS paper, your Paper 2 options</span></a>
+    <a class="tile-card" href="/specification/"><Icon name="checklist" /><strong>Spec checklist</strong><span>Every content bullet of the specification, tickable, linked to its questions</span></a>
+    <a class="tile-card" href="/analysis/"><Icon name="chart" /><strong>What comes up</strong><span>Which topics carried the essays each year, the latest papers, every paper as a timeline</span></a>
+    <a class="tile-card" href="/grade-boundaries/"><Icon name="calendar" /><strong>Boundaries and dates</strong><span>Grade calculator and the 2027 exam dates with a countdown</span></a>
+    <a class="tile-card" href="/planner/"><Icon name="lightbulb" /><strong>Revision planner</strong><span>A week-by-week plan to Paper 1 from your weak topics</span></a>
+    <a class="tile-card" href="/tutors/"><Icon name="users" /><strong>A tutor</strong><span>Online one-to-one AQA Sociology lessons, lesson by lesson, with essay marking</span></a>
+  </div>
+
+  <script define:vars={{ topics }}>
+    try {
+      const ticks = JSON.parse(localStorage.getItem('malt-spec') || '{}'), scores = JSON.parse(localStorage.getItem('malt-scores') || '{}');
+      const nTicks = Object.values(ticks).filter(Boolean).length, rows = Object.entries(scores);
+      const nQ = rows.reduce((n, [, r]) => n + (r.n || 0), 0);
+      if (nTicks || nQ) {
+        document.getElementById('progress').hidden = false;
+        document.getElementById('pr-ticks').textContent = nTicks;
+        document.getElementById('pr-q').textContent = nQ;
+        const weak = rows.filter(([, r]) => r.total).sort((a, b) => a[1].earned / a[1].total - b[1].earned / b[1].total)[0];
+        if (weak) { const t = topics.find((x) => x.slug === weak[0]); document.getElementById('pr-weak').innerHTML = t ? `<a href="/questions/${t.slug}/">${t.name.split(':')[0]}</a> ${Math.round(100 * weak[1].earned / weak[1].total)}%` : '—'; }
+      }
+    } catch {}
+    const input = document.getElementById('topic-search');
+    const list = document.getElementById('topic-list');
+    const initial = list.innerHTML;
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      if (!q) { list.innerHTML = initial; return; }
+      const items = topics.filter((t) => t.name.toLowerCase().includes(q) || t.slug.includes(q.replace(/\s+/g, '-')));
+      list.innerHTML = items.length
+        ? items.map((t) => `<li><a href="/questions/${t.slug}/"><span>${t.name}</span><span class="strand">${t.parts} parts</span></a></li>`).join('')
+        : '<li class="muted">No topic matches that. <a href="/questions/">Browse all topics</a>.</li>';
+    });
+  </script>
+</Base>

@@ -1,0 +1,67 @@
+{
+ "topic": "role-of-education",
+ "name": "Role of education",
+ "checked": false,
+ "terms": [
+  {
+   "term": "Meritocracy",
+   "definition": "A system in which rewards and positions go to people on the basis of ability and effort rather than background.",
+   "examiner": "Functionalists (Davis and Moore, Parsons) claim education is meritocratic; Marxists call this the myth of meritocracy. Say whose view you are giving."
+  },
+  {
+   "term": "Social solidarity",
+   "definition": "The sense of belonging and shared values that binds members of a society together.",
+   "examiner": "Durkheim's term: education passes on a shared culture, for example through history lessons. Link it to the 'specialist skills' function for a second point."
+  },
+  {
+   "term": "Universalistic standards",
+   "definition": "Rules and judgements applied equally to everyone, such as the same exams and school rules for all pupils.",
+   "examiner": "Parsons contrasts them with the particularistic standards of the family. A clear contrast with the family earns the application marks."
+  },
+  {
+   "term": "Role allocation",
+   "definition": "The sifting and sorting of people into the jobs best suited to their abilities.",
+   "examiner": "Davis and Moore's function of education. Evaluate with evidence that class, not ability, still predicts outcomes."
+  },
+  {
+   "term": "Human capital",
+   "definition": "The knowledge and skills of the workforce, seen by neoliberals as a source of economic growth.",
+   "examiner": "The New Right and neoliberal view of what schools are for; useful to link to marketisation and vocational policies."
+  },
+  {
+   "term": "Ideological state apparatus",
+   "definition": "Institutions that control people by shaping their ideas rather than by force; Althusser includes education.",
+   "examiner": "Althusser says education reproduces class inequality and legitimates it. Contrast with the repressive state apparatus (police, courts)."
+  },
+  {
+   "term": "Correspondence principle",
+   "definition": "The idea that the relationships and rules of school mirror those of the capitalist workplace.",
+   "examiner": "Bowles and Gintis. Give an example of a parallel, such as obeying teachers and obeying managers, rather than just naming the principle."
+  },
+  {
+   "term": "Hidden curriculum",
+   "definition": "The lessons pupils learn from the way school is organised, such as obedience, punctuality and accepting hierarchy, without being formally taught.",
+   "examiner": "Do not confuse it with the formal curriculum. Marxists and feminists use it in different ways: say which you mean."
+  },
+  {
+   "term": "Myth of meritocracy",
+   "definition": "The Marxist claim that education only appears to reward merit, so that inequality looks fair.",
+   "examiner": "Bowles and Gintis. Pair it with evidence that middle-class pupils get better results at the same ability level."
+  },
+  {
+   "term": "Learning to labour",
+   "definition": "Willis's study of twelve working-class 'lads' whose counter-school culture led them into manual jobs.",
+   "examiner": "Shows that pupils are not passive, which challenges Bowles and Gintis's correspondence theory: good evaluation material."
+  },
+  {
+   "term": "Neoliberalism",
+   "definition": "The view that the state should do less and markets should do more, including in public services such as education.",
+   "examiner": "Often paired with the New Right. Link it to competition between schools and to the human capital idea."
+  },
+  {
+   "term": "Social reproduction",
+   "definition": "The passing on of class inequality from one generation to the next.",
+   "examiner": "The core Marxist claim about education. State who is reproduced and how, for example through cultural capital (Bourdieu)."
+  }
+ ]
+}

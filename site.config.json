@@ -1,0 +1,158 @@
+{
+  "site": {
+    "name": "A-level Sociology Tutor",
+    "domain": "https://www.alevelsociologytutor.com",
+    "whatsapp": "447888786687",
+    "email": "enquiries@alevelsociologytutor.com",
+    "company": "aleveltutors.online Limited",
+    "companyNumber": "14401016",
+    "registeredOffice": "5 Northbrook Court, Northbrook Avenue, Winchester SO23 0JP",
+    "spec": "AQA A-level Sociology (7192) and AS (7191), specification version 1.2.",
+    "examYear": 2027
+  },
+  "whatsappMessage": "Hi, I'm looking for an AQA Sociology Tutor. The student is in Year ..... Their name is ..................... we would like ........ lessons per week, the best two times for tutoring are ................. and ......................",
+  "faviconLetter": "S",
+  "ogTitle": [
+    "AQA A-level Sociology",
+    "past papers, by topic"
+  ],
+  "ogSubtitle": "Mark schemes, examiner comments, practice and online tutors · alevelsociologytutor.com",
+  "paperNames": {
+    "7192-1": "Paper 1",
+    "7192-2": "Paper 2",
+    "7192-3": "Paper 3",
+    "7191-1": "Paper 1",
+    "7191-2": "Paper 2"
+  },
+  "oldSpecFlag": "not_current_spec",
+  "replace": {
+    "Edexcel A-level Economics": "AQA A-level Sociology",
+    "Edexcel Economics": "AQA Sociology",
+    "economicsaleveltutor.com": "alevelsociologytutor.com",
+    "Economics": "Sociology",
+    "economics": "sociology",
+    "Pearson Edexcel": "AQA"
+  },
+  "removePages": [
+    "src/pages/diagrams",
+    "src/pages/quantitative-skills",
+    "src/pages/hardest-questions"
+  ],
+  "exams": {
+    "series": "Summer 2027",
+    "source": "AQA exam timetable May/June 2027",
+    "alevel": [
+      {
+        "code": "7192/1",
+        "name": "Paper 1: Education with Theory and Methods",
+        "date": "2027-05-14",
+        "session": "Afternoon",
+        "length": "2 hours",
+        "marks": 80
+      },
+      {
+        "code": "7192/2",
+        "name": "Paper 2: Topics in Sociology",
+        "date": "2027-05-21",
+        "session": "Morning",
+        "length": "2 hours",
+        "marks": 80
+      },
+      {
+        "code": "7192/3",
+        "name": "Paper 3: Crime and Deviance with Theory and Methods",
+        "date": "2027-06-10",
+        "session": "Morning",
+        "length": "2 hours",
+        "marks": 80
+      }
+    ],
+    "as": [
+      {
+        "code": "7191/1",
+        "name": "Paper 1: Education with Methods in Context",
+        "date": "2027-05-11",
+        "session": "Morning",
+        "length": "1 hour 30 minutes",
+        "marks": 60
+      },
+      {
+        "code": "7191/2",
+        "name": "Paper 2: Research Methods and Topics in Sociology",
+        "date": "2027-05-18",
+        "session": "Morning",
+        "length": "1 hour 30 minutes",
+        "marks": 60
+      }
+    ],
+    "asNote": "AS marks do not count towards the A level."
+  },
+  "boundaries": {
+    "source": "AQA's published subject grade boundaries for A-level Sociology (7192), out of 240: the three 80-mark papers added together with no weighting. 2022–2024 and 2026 as compiled by tutor2u from AQA's figures; June 2025 checked against AQA's boundary document.",
+    "alevel": [
+      {
+        "series": "June 2026",
+        "max": 240,
+        "A*": 186,
+        "A": 167,
+        "B": 142,
+        "C": 118,
+        "D": 94,
+        "E": 70
+      },
+      {
+        "series": "June 2025",
+        "max": 240,
+        "A*": 190,
+        "A": 171,
+        "B": 147,
+        "C": 123,
+        "D": 99,
+        "E": 76
+      },
+      {
+        "series": "June 2024",
+        "max": 240,
+        "A*": 186,
+        "A": 167,
+        "B": 142,
+        "C": 117,
+        "D": 92,
+        "E": 67
+      },
+      {
+        "series": "June 2023",
+        "max": 240,
+        "A*": 185,
+        "A": 165,
+        "B": 139,
+        "C": 114,
+        "D": 89,
+        "E": 64
+      },
+      {
+        "series": "June 2022",
+        "max": 240,
+        "A*": 177,
+        "A": 157,
+        "B": 131,
+        "C": 105,
+        "D": 79,
+        "E": 54
+      }
+    ],
+    "asSource": "AQA's AS grade boundaries document, June 2025. AS Sociology is out of 120 (two 60-mark papers).",
+    "as": [
+      {
+        "series": "June 2025",
+        "max": 120,
+        "A": 83,
+        "B": 75,
+        "C": 67,
+        "D": 59,
+        "E": 51
+      }
+    ]
+  },
+  "tutors": []
+}

@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hint from '../../components/Hint.astro';
+import spec from '../../data/spec.json';
+const sections = spec.filter((s) => s.statements.length);
+const total = sections.reduce((n, s) => n + s.statements.length, 0);
+const papers = [['4.1', 'Paper 1: Education with Theory and Methods'], ['4.2', 'Paper 2: Topics in Sociology (two topics, one from each section)'], ['4.3', 'Paper 3: Crime and Deviance with Theory and Methods']];
+---
+<Base title="AQA A-level Sociology specification checklist (7192 and 7191), tickable" description="Every content point of the AQA AS and A-level Sociology specification (7191/7192) as a tickable checklist, with the AS content marked and links to the past-paper questions for each topic." context="specification" leadLine="Big gaps on the checklist? A tutor can plan the order to close them.">
+  <h1>Specification checklist</h1>
+  <p>Every content point in the AQA Sociology specification (7192 and AS 7191, version 1.2), in AQA's own words. Tick what you're confident with; ticks are saved in this browser only. Points marked AS are also in the AS specification. Theory and Methods is listed once: it is the same list for Paper 1 and Paper 3, and its first five points are the AS research methods. In Paper 2 you study two topics, one from each section.</p>
+  <Hint id="ticks" text="Ticks are saved in this browser only. The revision planner uses them to pick your weak topics." />
+  <p class="muted"><span id="done">0</span> of {total} ticked · <button class="chip" type="button" id="clear">Clear my ticks</button></p>
+  {papers.map(([n, h]) => (
+    <>
+      <h2 class="strand-head">{h}</h2>
+      {sections.filter((s) => s.code.startsWith(n + '.')).map((s) => (
+        <section>
+          <h3>{s.code} {s.title} {s.option && <span class="muted small-text">{s.option}</span>} {s.topic && <a class="small-text" href={`/questions/${s.topic}/`}>questions</a>}</h3>
+          <ul class="spec-list">
+            {s.statements.map((st) => (
+              <li><label><input type="checkbox" data-spec={st.id} /><span><strong>{st.id.split('-')[1]}</strong> {st.text}{st.as && <span class="pill pill-easy" style="margin-left:.4rem">AS</span>}</span></label></li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </>
+  ))}
+  <script>
+    const KEY = 'malt-spec';
+    const boxes = document.querySelectorAll('input[data-spec]');
+    const done = document.getElementById('done');
+    let state = {};
+    try { state = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch {}
+    const paint = () => { let n = 0; boxes.forEach((b) => { b.checked = !!state[b.dataset.spec]; if (b.checked) n++; }); done.textContent = String(n); };
+    boxes.forEach((b) => b.addEventListener('change', () => { state[b.dataset.spec] = b.checked; try { localStorage.setItem(KEY, JSON.stringify(state)); } catch {} paint(); }));
+    document.getElementById('clear').addEventListener('click', () => { state = {}; try { localStorage.removeItem(KEY); } catch {} paint(); });
+    paint();
+  </script>
+</Base>

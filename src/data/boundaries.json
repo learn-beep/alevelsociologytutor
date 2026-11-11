@@ -1,0 +1,14 @@
+{
+  "source": "AQA's published subject grade boundaries for A-level Sociology (7192), out of 240: the three 80-mark papers added together with no weighting. 2022–2024 and 2026 as compiled by tutor2u from AQA's figures; June 2025 checked against AQA's boundary document.",
+  "alevel": [
+    {"series": "June 2026", "max": 240, "A*": 186, "A": 167, "B": 142, "C": 118, "D": 94, "E": 70},
+    {"series": "June 2025", "max": 240, "A*": 190, "A": 171, "B": 147, "C": 123, "D": 99, "E": 76},
+    {"series": "June 2024", "max": 240, "A*": 186, "A": 167, "B": 142, "C": 117, "D": 92, "E": 67},
+    {"series": "June 2023", "max": 240, "A*": 185, "A": 165, "B": 139, "C": 114, "D": 89, "E": 64},
+    {"series": "June 2022", "max": 240, "A*": 177, "A": 157, "B": 131, "C": 105, "D": 79, "E": 54}
+  ],
+  "asSource": "AQA's AS grade boundaries document, June 2025. AS Sociology is out of 120 (two 60-mark papers).",
+  "as": [
+    {"series": "June 2025", "max": 120, "A": 83, "B": 75, "C": 67, "D": 59, "E": 51}
+  ]
+}

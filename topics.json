@@ -1,0 +1,535 @@
+[
+ {
+  "slug": "role-of-education",
+  "name": "Role and functions of education (functionalist, Marxist, New Right)",
+  "group": "Paper 1: Education",
+  "code": "4.1.1",
+  "statements": [
+   "4.1.1-01"
+  ]
+ },
+ {
+  "slug": "educational-achievement",
+  "name": "Differential educational achievement: class, gender and ethnicity",
+  "group": "Paper 1: Education",
+  "code": "4.1.1",
+  "statements": [
+   "4.1.1-02"
+  ]
+ },
+ {
+  "slug": "processes-within-schools",
+  "name": "Processes within schools: labelling, subcultures and the hidden curriculum",
+  "group": "Paper 1: Education",
+  "code": "4.1.1",
+  "statements": [
+   "4.1.1-03"
+  ]
+ },
+ {
+  "slug": "education-policy",
+  "name": "Educational policy, marketisation and globalisation",
+  "group": "Paper 1: Education",
+  "code": "4.1.1",
+  "statements": [
+   "4.1.1-04"
+  ]
+ },
+ {
+  "slug": "methods-in-context",
+  "name": "Methods in Context: research methods applied to education",
+  "group": "Paper 1: Education",
+  "code": "4.1.1",
+  "statements": [
+   "4.1.2-01"
+  ]
+ },
+ {
+  "slug": "quantitative-and-qualitative-methods",
+  "name": "Quantitative and qualitative methods and research design",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-01"
+  ]
+ },
+ {
+  "slug": "research-methods",
+  "name": "Research methods: questionnaires, interviews, observation, experiments, documents and official statistics",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-02"
+  ]
+ },
+ {
+  "slug": "primary-and-secondary-data",
+  "name": "Primary and secondary data, quantitative and qualitative data",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-03"
+  ]
+ },
+ {
+  "slug": "positivism-and-interpretivism",
+  "name": "Positivism, interpretivism and social facts",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-04"
+  ]
+ },
+ {
+  "slug": "choice-of-research-method",
+  "name": "Theoretical, practical and ethical issues in research",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-05"
+  ]
+ },
+ {
+  "slug": "sociological-theories",
+  "name": "Consensus, conflict, structural and social action theories",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-06"
+  ]
+ },
+ {
+  "slug": "modernity-and-postmodernity",
+  "name": "Modernity and postmodernity",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-07"
+  ]
+ },
+ {
+  "slug": "is-sociology-a-science",
+  "name": "Is sociology a science?",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-08"
+  ]
+ },
+ {
+  "slug": "value-freedom-and-social-policy",
+  "name": "Theory and methods, value freedom and social policy",
+  "group": "Theory and Methods",
+  "code": "4.1.3",
+  "statements": [
+   "4.1.3-09",
+   "4.1.3-10",
+   "4.1.3-11"
+  ]
+ },
+ {
+  "slug": "conceptions-of-culture",
+  "name": "Conceptions of culture: subculture, mass, folk, high, popular and global culture",
+  "group": "Paper 2: Culture and Identity",
+  "code": "4.2.1",
+  "statements": [
+   "4.2.1-01"
+  ]
+ },
+ {
+  "slug": "socialisation",
+  "name": "Socialisation and the agencies of socialisation",
+  "group": "Paper 2: Culture and Identity",
+  "code": "4.2.1",
+  "statements": [
+   "4.2.1-02"
+  ]
+ },
+ {
+  "slug": "self-identity-and-difference",
+  "name": "Self, identity and difference",
+  "group": "Paper 2: Culture and Identity",
+  "code": "4.2.1",
+  "statements": [
+   "4.2.1-03"
+  ]
+ },
+ {
+  "slug": "identity-class-gender-ethnicity",
+  "name": "Identity and age, disability, ethnicity, gender, nationality, sexuality and class",
+  "group": "Paper 2: Culture and Identity",
+  "code": "4.2.1",
+  "statements": [
+   "4.2.1-04"
+  ]
+ },
+ {
+  "slug": "identity-consumption-and-globalisation",
+  "name": "Identity, production, consumption and globalisation",
+  "group": "Paper 2: Culture and Identity",
+  "code": "4.2.1",
+  "statements": [
+   "4.2.1-05"
+  ]
+ },
+ {
+  "slug": "family-and-social-structure",
+  "name": "The family, social structure, the economy and state policies",
+  "group": "Paper 2: Families and Households",
+  "code": "4.2.2",
+  "statements": [
+   "4.2.2-01"
+  ]
+ },
+ {
+  "slug": "marriage-divorce-and-family-diversity",
+  "name": "Marriage, divorce, cohabitation and family diversity",
+  "group": "Paper 2: Families and Households",
+  "code": "4.2.2",
+  "statements": [
+   "4.2.2-02"
+  ]
+ },
+ {
+  "slug": "gender-roles-and-domestic-labour",
+  "name": "Gender roles, domestic labour and power in the family",
+  "group": "Paper 2: Families and Households",
+  "code": "4.2.2",
+  "statements": [
+   "4.2.2-03"
+  ]
+ },
+ {
+  "slug": "childhood",
+  "name": "Childhood and the changing status of children",
+  "group": "Paper 2: Families and Households",
+  "code": "4.2.2",
+  "statements": [
+   "4.2.2-04"
+  ]
+ },
+ {
+  "slug": "demographic-trends",
+  "name": "Demographic trends: birth rates, death rates, ageing and migration",
+  "group": "Paper 2: Families and Households",
+  "code": "4.2.2",
+  "statements": [
+   "4.2.2-05"
+  ]
+ },
+ {
+  "slug": "social-construction-of-health",
+  "name": "The social construction of health, illness, disability and the body",
+  "group": "Paper 2: Health",
+  "code": "4.2.3",
+  "statements": [
+   "4.2.3-01"
+  ]
+ },
+ {
+  "slug": "health-inequalities",
+  "name": "Health inequalities by class, gender, ethnicity and region",
+  "group": "Paper 2: Health",
+  "code": "4.2.3",
+  "statements": [
+   "4.2.3-02"
+  ]
+ },
+ {
+  "slug": "access-to-health-care",
+  "name": "Inequalities in the provision of and access to health care",
+  "group": "Paper 2: Health",
+  "code": "4.2.3",
+  "statements": [
+   "4.2.3-03"
+  ]
+ },
+ {
+  "slug": "mental-illness",
+  "name": "Mental illness",
+  "group": "Paper 2: Health",
+  "code": "4.2.3",
+  "statements": [
+   "4.2.3-04"
+  ]
+ },
+ {
+  "slug": "medicine-and-health-professions",
+  "name": "Medicine, the health professions and the globalised health industry",
+  "group": "Paper 2: Health",
+  "code": "4.2.3",
+  "statements": [
+   "4.2.3-05"
+  ]
+ },
+ {
+  "slug": "poverty",
+  "name": "The nature, existence and persistence of poverty",
+  "group": "Paper 2: Work, Poverty and Welfare",
+  "code": "4.2.4",
+  "statements": [
+   "4.2.4-01"
+  ]
+ },
+ {
+  "slug": "distribution-of-wealth-and-income",
+  "name": "The distribution of poverty, wealth and income",
+  "group": "Paper 2: Work, Poverty and Welfare",
+  "code": "4.2.4",
+  "statements": [
+   "4.2.4-02"
+  ]
+ },
+ {
+  "slug": "responses-to-poverty",
+  "name": "Responses and solutions to poverty: the state and welfare providers",
+  "group": "Paper 2: Work, Poverty and Welfare",
+  "code": "4.2.4",
+  "statements": [
+   "4.2.4-03"
+  ]
+ },
+ {
+  "slug": "labour-process",
+  "name": "The labour process: division of labour, technology and deskilling",
+  "group": "Paper 2: Work, Poverty and Welfare",
+  "code": "4.2.4",
+  "statements": [
+   "4.2.4-04"
+  ]
+ },
+ {
+  "slug": "work-and-worklessness",
+  "name": "Work, worklessness and life chances",
+  "group": "Paper 2: Work, Poverty and Welfare",
+  "code": "4.2.4",
+  "statements": [
+   "4.2.4-05"
+  ]
+ },
+ {
+  "slug": "ideology-science-and-religion",
+  "name": "Ideology, science and religion",
+  "group": "Paper 2: Beliefs in Society",
+  "code": "4.2.5",
+  "statements": [
+   "4.2.5-01"
+  ]
+ },
+ {
+  "slug": "religion-and-social-change",
+  "name": "Religion, social change and social stability",
+  "group": "Paper 2: Beliefs in Society",
+  "code": "4.2.5",
+  "statements": [
+   "4.2.5-02"
+  ]
+ },
+ {
+  "slug": "religious-organisations",
+  "name": "Religious organisations: churches, sects, cults and New Age movements",
+  "group": "Paper 2: Beliefs in Society",
+  "code": "4.2.5",
+  "statements": [
+   "4.2.5-03"
+  ]
+ },
+ {
+  "slug": "religion-and-social-groups",
+  "name": "Religion and social groups: gender, ethnicity, age and class",
+  "group": "Paper 2: Beliefs in Society",
+  "code": "4.2.5",
+  "statements": [
+   "4.2.5-04"
+  ]
+ },
+ {
+  "slug": "secularisation",
+  "name": "Secularisation and the global spread of religion",
+  "group": "Paper 2: Beliefs in Society",
+  "code": "4.2.5",
+  "statements": [
+   "4.2.5-05"
+  ]
+ },
+ {
+  "slug": "development-and-underdevelopment",
+  "name": "Development, underdevelopment and global inequality (modernisation and dependency theory)",
+  "group": "Paper 2: Global Development",
+  "code": "4.2.6",
+  "statements": [
+   "4.2.6-01"
+  ]
+ },
+ {
+  "slug": "globalisation-and-development",
+  "name": "Globalisation and development",
+  "group": "Paper 2: Global Development",
+  "code": "4.2.6",
+  "statements": [
+   "4.2.6-02"
+  ]
+ },
+ {
+  "slug": "tncs-ngos-and-international-agencies",
+  "name": "Transnational corporations, NGOs and international agencies",
+  "group": "Paper 2: Global Development",
+  "code": "4.2.6",
+  "statements": [
+   "4.2.6-03"
+  ]
+ },
+ {
+  "slug": "aid-trade-and-industrialisation",
+  "name": "Aid, trade, industrialisation, urbanisation, environment and war",
+  "group": "Paper 2: Global Development",
+  "code": "4.2.6",
+  "statements": [
+   "4.2.6-04"
+  ]
+ },
+ {
+  "slug": "development-gender-health-education",
+  "name": "Employment, education, health, demography and gender in development",
+  "group": "Paper 2: Global Development",
+  "code": "4.2.6",
+  "statements": [
+   "4.2.6-05"
+  ]
+ },
+ {
+  "slug": "new-media",
+  "name": "The new media",
+  "group": "Paper 2: The Media",
+  "code": "4.2.7",
+  "statements": [
+   "4.2.7-01"
+  ]
+ },
+ {
+  "slug": "media-ownership-and-control",
+  "name": "Ownership and control of the media",
+  "group": "Paper 2: The Media",
+  "code": "4.2.7",
+  "statements": [
+   "4.2.7-02"
+  ]
+ },
+ {
+  "slug": "media-globalisation-and-popular-culture",
+  "name": "The media, globalisation and popular culture",
+  "group": "Paper 2: The Media",
+  "code": "4.2.7",
+  "statements": [
+   "4.2.7-03"
+  ]
+ },
+ {
+  "slug": "news-selection-and-presentation",
+  "name": "Selection and presentation of the news",
+  "group": "Paper 2: The Media",
+  "code": "4.2.7",
+  "statements": [
+   "4.2.7-04"
+  ]
+ },
+ {
+  "slug": "media-representations",
+  "name": "Media representations of age, class, ethnicity, gender, sexuality and disability",
+  "group": "Paper 2: The Media",
+  "code": "4.2.7",
+  "statements": [
+   "4.2.7-05"
+  ]
+ },
+ {
+  "slug": "media-audiences",
+  "name": "The media and audiences",
+  "group": "Paper 2: The Media",
+  "code": "4.2.7",
+  "statements": [
+   "4.2.7-06"
+  ]
+ },
+ {
+  "slug": "stratification-and-differentiation",
+  "name": "Stratification and differentiation by class, gender, ethnicity and age",
+  "group": "Paper 2: Stratification and Differentiation",
+  "code": "4.2.8",
+  "statements": [
+   "4.2.8-01"
+  ]
+ },
+ {
+  "slug": "class-status-and-power",
+  "name": "Class, status, power and life chances",
+  "group": "Paper 2: Stratification and Differentiation",
+  "code": "4.2.8",
+  "statements": [
+   "4.2.8-02"
+  ]
+ },
+ {
+  "slug": "measuring-social-class",
+  "name": "Defining and measuring social class",
+  "group": "Paper 2: Stratification and Differentiation",
+  "code": "4.2.8",
+  "statements": [
+   "4.2.8-03"
+  ]
+ },
+ {
+  "slug": "changing-structures-of-inequality",
+  "name": "Changing structures of inequality and the transnational capitalist class",
+  "group": "Paper 2: Stratification and Differentiation",
+  "code": "4.2.8",
+  "statements": [
+   "4.2.8-04"
+  ]
+ },
+ {
+  "slug": "social-mobility",
+  "name": "Social mobility",
+  "group": "Paper 2: Stratification and Differentiation",
+  "code": "4.2.8",
+  "statements": [
+   "4.2.8-05"
+  ]
+ },
+ {
+  "slug": "crime-deviance-and-social-control",
+  "name": "Crime, deviance, social order and social control",
+  "group": "Paper 3: Crime and Deviance",
+  "code": "4.3.1",
+  "statements": [
+   "4.3.1-01"
+  ]
+ },
+ {
+  "slug": "social-distribution-of-crime",
+  "name": "Crime by ethnicity, gender and social class",
+  "group": "Paper 3: Crime and Deviance",
+  "code": "4.3.1",
+  "statements": [
+   "4.3.1-02"
+  ]
+ },
+ {
+  "slug": "globalisation-green-and-state-crime",
+  "name": "Globalisation, the media, green crime and state crime",
+  "group": "Paper 3: Crime and Deviance",
+  "code": "4.3.1",
+  "statements": [
+   "4.3.1-03"
+  ]
+ },
+ {
+  "slug": "crime-control-and-punishment",
+  "name": "Crime control, surveillance, punishment and victims",
+  "group": "Paper 3: Crime and Deviance",
+  "code": "4.3.1",
+  "statements": [
+   "4.3.1-04"
+  ]
+ }
+]

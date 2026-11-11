@@ -1,0 +1,44 @@
+---
+import Base from '../../../layouts/Base.astro';
+import QuestionCard from '../../../components/QuestionCard.astro';
+import { allQuestions } from '../../../lib/data';
+export function getStaticPaths() {
+  // [slug, matcher, title, intro]. A matcher is a format name, or "feature:<name>" for a feature flag from the bank.
+  const T = [
+    ['definitions', 'Define', 'Define the term (2 marks)', 'AS Paper 1 and Paper 2 open with "Define the term…". Two marks for a precise definition, one for a partial one or an example on its own.'],
+    ['brief-explain', 'Brief explain', 'Using one example, briefly explain (2 marks)', 'AS questions worth 2 marks: one example, and a sentence that explains it. The examiners want the example linked to the question, not just named.'],
+    ['outline', 'Outline', 'Outline two or three (4 and 6 marks)', 'Two marks for each point clearly outlined, one if it is only partly outlined. No evaluation needed; reports keep warning that long answers here cost time later in the paper.'],
+    ['outline-and-explain', 'Outline and explain', 'Outline and explain two (10 marks)', 'Two points, each developed with sociological concepts, evidence and analysis. There are no marks for evaluation in this question type; listing more than two points does not help.'],
+    ['analyse', 'Analyse', 'Applying material from the Item, analyse two (10 marks)', 'Find two "hooks" in the Item and develop each one. Without clear use of the Item an answer cannot get out of the bottom band; the last line of the Item usually restates the question and is not a hook.'],
+    ['methods-in-context', 'Methods in context', 'Methods in Context (20 marks)', 'Paper 1 Section B (and AS Paper 1): evaluate a research method for studying a particular issue in education. The top band needs the method, the issue and the research characteristics of the people and settings involved.'],
+    ['essays', 'Essay', 'Essays (16, 20 and 30 marks)', 'Every evaluate question: the 30-markers on Papers 1 and 3, the 20-markers on Paper 2 and Theory and Methods, and the AS 16- and 20-markers. Most give an Item to apply.'],
+  ];
+  return T.map(([slug, matcher, title, intro]) => ({ params: { type: slug }, props: { slug, matcher, title, intro, others: T.filter((t) => t[0] !== slug) } }));
+}
+const { slug, matcher, title, intro, others } = Astro.props;
+const match = (q) => q.format === matcher;
+const qs = allQuestions.filter((q) => match(q) && !q.notCurrentSpec).sort((a, b) => b.year - a.year);
+const papers = [...new Set(qs.map((q) => q.paper))].sort();
+---
+<Base title={`${title}: AQA A-level Sociology past-paper questions`} description={`${qs.length} ${title.toLowerCase()} from AQA AS and A-level Sociology papers since 2016, with mark schemes and examiner comments.`} context={`type:${slug}`}>
+  <h1>{title}</h1>
+  <p>{intro} {qs.length} questions.</p>
+  <p class="muted">Other types: {others.map((t, i) => <>{i ? ' · ' : ''}<a href={`/questions/type/${t[0]}/`}>{t[2]}</a></>)}</p>
+  <div class="filterbar"><div class="chips" role="group" aria-label="Filter">
+    <button class="chip" type="button" aria-pressed="true" data-filter="">All</button>
+    {papers.map((p) => <button class="chip" type="button" aria-pressed="false" data-filter={`paper:${p}`}>{p}</button>)}
+    <button class="chip" type="button" aria-pressed="false" data-filter="level:AS">AS</button>
+    <button class="chip" type="button" aria-pressed="false" data-filter="level:A level">A level</button>
+  </div><div class="count" id="count"></div></div>
+  {qs.map((q) => <div data-paper={q.paper}><QuestionCard q={q} showTopics={true} /></div>)}
+  <script>
+    const chips = document.querySelectorAll('.chip[data-filter]');
+    const wraps = document.querySelectorAll('[data-paper]');
+    chips.forEach((c) => c.addEventListener('click', () => {
+      chips.forEach((x) => x.setAttribute('aria-pressed', 'false')); c.setAttribute('aria-pressed', 'true');
+      const [key, val] = (c.getAttribute('data-filter') || '').split(':');
+      wraps.forEach((w) => { const card = w.querySelector('.qcard'); const v = key === 'paper' ? w.dataset.paper : card.getAttribute('data-' + key); w.hidden = !!key && v !== val; });
+      document.getElementById('count').textContent = `Showing ${[...wraps].filter((w) => !w.hidden).length} of ${wraps.length}`;
+    }));
+  </script>
+</Base>

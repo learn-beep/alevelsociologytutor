@@ -1,0 +1,67 @@
+{
+ "topic": "education-policy",
+ "name": "Educational policy",
+ "checked": false,
+ "terms": [
+  {
+   "term": "Marketisation",
+   "definition": "Bringing market forces of supply, demand, competition and choice into education.",
+   "examiner": "The 1988 Education Reform Act is the key starting point. Explain its effect on inequality, not just what it is."
+  },
+  {
+   "term": "Parentocracy",
+   "definition": "Rule by parents: the idea that parents, as consumers, drive education through school choice.",
+   "examiner": "David's term. Evaluate with Ball: the 'choice' mainly benefits middle-class parents."
+  },
+  {
+   "term": "League tables",
+   "definition": "Published rankings of schools by results, such as GCSE scores.",
+   "examiner": "Link them to cream-skimming and silt-shifting: schools want pupils who will raise their ranking."
+  },
+  {
+   "term": "Cream-skimming",
+   "definition": "Popular schools selecting the most able pupils, who are mostly middle class.",
+   "examiner": "Bartlett's term, usually paired with silt-shifting."
+  },
+  {
+   "term": "Silt-shifting",
+   "definition": "Schools avoiding pupils with learning difficulties or behaviour problems who might lower results.",
+   "examiner": "Bartlett. Use it to explain how marketisation reproduces inequality."
+  },
+  {
+   "term": "Formula funding",
+   "definition": "Paying schools a fixed sum for each pupil, so popular schools get more money.",
+   "examiner": "Shows how inequality between schools grows: oversubscribed schools gain, unpopular ones lose."
+  },
+  {
+   "term": "Selection",
+   "definition": "Admitting pupils on the basis of ability, for example by the eleven-plus exam in the tripartite system.",
+   "examiner": "Know the 1944 tripartite system and the 1965 move to comprehensives. Evaluate both from functionalist and Marxist views."
+  },
+  {
+   "term": "Comprehensive system",
+   "definition": "Non-selective state schools that take pupils of all abilities.",
+   "examiner": "Functionalists see it as promoting meritocracy; Marxists point out that streaming kept inequality inside the school."
+  },
+  {
+   "term": "Academies",
+   "definition": "State-funded schools run independently of the local authority, with control over the curriculum and pay.",
+   "examiner": "A post-2010 expansion. Link to fragmentation and to the privatisation of education."
+  },
+  {
+   "term": "Privatisation of education",
+   "definition": "The transfer of public services and assets to private companies, for example academy chains and outsourced exam services.",
+   "examiner": "Ball and Whitty. Connect it to globalisation: some providers are multinational companies."
+  },
+  {
+   "term": "Compensatory education",
+   "definition": "Policies that put extra resources into schools or areas with disadvantaged pupils.",
+   "examiner": "Examples: Education Action Zones, Sure Start, the pupil premium. Evaluate their effect on the class gap."
+  },
+  {
+   "term": "Fragmented centralisation",
+   "definition": "Ball's description of policy that breaks up local authority control while giving central government more power.",
+   "examiner": "Useful in essays on post-2010 policy, alongside academies and free schools."
+  }
+ ]
+}

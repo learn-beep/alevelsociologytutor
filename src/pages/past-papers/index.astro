@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allPapers, AQA_MATERIALS } from '../../lib/data';
+const seriesList = [...new Set([...allPapers].sort((a, b) => b.year - a.year).map((p) => p.series))];
+const cell = (series, spec, n) => allPapers.find((p) => p.series === series && p.spec === spec && p.paperNo === n);
+---
+<Base title="AQA A-level Sociology past papers (7192 and AS 7191) 2016–2025 with question-by-question tables" context="past-papers">
+  <h1>AQA A-level Sociology past papers</h1>
+  <p>Every 7192 and 7191 series since 2016, plus AQA's specimen papers. Each paper page lists every question with its topic, marks, assessment objectives and type, and shows the questions with their mark schemes and examiner's comments. AQA's own site now starts at November 2020; the June 2016–2019 papers here are AQA's original papers, taken from copies kept online.</p>
+  <p><a class="btn" href={AQA_MATERIALS} rel="noopener">AQA's assessment resources</a></p>
+  <h2>A level (7192)</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Series</th><th>Paper 1</th><th>Paper 2</th><th>Paper 3</th></tr></thead>
+    <tbody>{seriesList.map((s) => <tr><td>{s}</td>{[1, 2, 3].map((n) => { const p = cell(s, '7192', n); return <td>{p ? <a href={`/past-papers/${p.slug}/`}>{p.paper}</a> : '—'}</td>; })}</tr>)}</tbody>
+  </table></div>
+  <h2 id="as">AS (7191)</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Series</th><th>Paper 1</th><th>Paper 2</th></tr></thead>
+    <tbody>{seriesList.map((s) => <tr><td>{s}</td>{[1, 2].map((n) => { const p = cell(s, '7191', n); return <td>{p ? <a href={`/past-papers/${p.slug}/`}>{p.paper}</a> : '—'}</td>; })}</tr>)}</tbody>
+  </table></div>
+  <p class="muted">The November 2020 papers are the papers printed for the cancelled summer 2020 exams, and the November 2021 papers the ones printed for summer 2021 (there was no AS series in November 2021). June 2018 A-level Paper 3 and June 2019 AS Paper 2 were sat as replacement papers (7192/3R and 7191/2R); those are the papers shown. The June 2026 papers will be added when AQA releases them, expected after the summer 2027 exams.</p>
+</Base>

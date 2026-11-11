@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allTopics, groupInfo } from '../../lib/data';
+import { GROUPS } from '../../lib/data';
+const groups = GROUPS.map((g) => [g[0] + ' · ' + g[4], g[0]]);
+---
+<Base title="AQA A-level Sociology questions by topic (every paper since 2016)" description="Every AQA AS and A-level Sociology past-paper question since 2016 sorted into 59 topics, each with its Items, mark schemes, examiner comments and every essay title set." context="questions-index">
+  <h1>Questions by topic</h1>
+  <p>Every AQA AS (7191) and A-level (7192) Sociology past-paper question since June 2016, sorted into topics by the specification content each question assesses. Each topic page shows every question with its Item, the mark scheme with its level descriptors and the examiner's comment, every essay title set, and filters by paper, year and question type. Theory and Methods questions from Papers 1 and 3 and AS research-methods questions sit together.</p>
+  {groups.map(([h, key]) => (
+    <>
+      <h2 class="strand-head">{h}</h2>
+      <ul class="topic-list">
+        {allTopics.filter((t) => t.group === key).map((t) => <li><a href={`/questions/${t.slug}/`}><span>{t.name}</span><span class="strand"><span class={`badge badge-${groupInfo(t.group).badge}`}>{groupInfo(t.group).short}</span> {t.parts} parts</span></a></li>)}
+      </ul>
+    </>
+  ))}
+  <h2>By question type</h2>
+  <p>Or work on a kind of question across every topic: <a href="/questions/type/definitions/">2-mark definitions</a>, <a href="/questions/type/brief-explain/">2-mark "using one example" questions</a>, <a href="/questions/type/outline/">4- and 6-mark outline questions</a>, <a href="/questions/type/outline-and-explain/">10-mark outline and explain</a>, <a href="/questions/type/analyse/">10-mark Item questions (analyse)</a>, <a href="/questions/type/methods-in-context/">Methods in Context</a>, <a href="/questions/type/essays/">16-, 20- and 30-mark essays</a>.</p>
+</Base>

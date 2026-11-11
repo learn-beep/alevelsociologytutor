@@ -1,0 +1,67 @@
+{
+ "topic": "research-methods",
+ "name": "Research methods",
+ "checked": false,
+ "terms": [
+  {
+   "term": "Validity",
+   "definition": "Whether research gives a true picture of what is being studied.",
+   "examiner": "Interpretivists prize it. In Methods in Context answers, link validity to the particular group in the Item."
+  },
+  {
+   "term": "Reliability",
+   "definition": "Whether the research can be repeated by another researcher and get the same results.",
+   "examiner": "Positivists prize it. Standardised methods such as structured questionnaires are reliable."
+  },
+  {
+   "term": "Representativeness",
+   "definition": "Whether the sample has the same characteristics as the wider group it is drawn from.",
+   "examiner": "Allows generalisation. Say what makes a particular sample unrepresentative, not just that it is."
+  },
+  {
+   "term": "Generalisability",
+   "definition": "Whether findings from a sample can be applied to the wider population.",
+   "examiner": "Depends on representativeness and sample size."
+  },
+  {
+   "term": "Operationalisation",
+   "definition": "Turning a sociological concept into something that can be measured, such as defining class by occupation.",
+   "examiner": "Common in questions on questionnaires and official statistics."
+  },
+  {
+   "term": "Sampling frame",
+   "definition": "The list of people from whom a sample is drawn, such as a school register.",
+   "examiner": "Problems: it may be out of date or exclude groups. Apply it to the Item's setting."
+  },
+  {
+   "term": "Snowball sampling",
+   "definition": "Finding participants by asking each one to put the researcher in touch with others.",
+   "examiner": "Used for hard-to-reach groups such as gang members. Not representative."
+  },
+  {
+   "term": "Hawthorne effect",
+   "definition": "People changing their behaviour because they know they are being studied.",
+   "examiner": "A problem for overt observation and for lab experiments; covert observation avoids it."
+  },
+  {
+   "term": "Interviewer bias",
+   "definition": "The interviewer's presence, appearance or questions influencing the answers.",
+   "examiner": "Applies to interviews; contrast with the impersonal postal questionnaire."
+  },
+  {
+   "term": "Informed consent",
+   "definition": "Participants agreeing to take part after being told what the research involves and that they can withdraw.",
+   "examiner": "An ethical issue. With pupils, parents and schools must consent too: a strong application point."
+  },
+  {
+   "term": "Verstehen",
+   "definition": "Weber's term for understanding behaviour from the actor's point of view by putting yourself in their position.",
+   "examiner": "The goal of interpretivist methods such as participant observation and unstructured interviews."
+  },
+  {
+   "term": "Triangulation",
+   "definition": "Using more than one method or source to check findings.",
+   "examiner": "Shows methodological pluralism; useful in evaluation paragraphs."
+  }
+ ]
+}

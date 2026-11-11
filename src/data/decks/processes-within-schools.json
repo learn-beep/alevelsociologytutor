@@ -1,0 +1,67 @@
+{
+ "topic": "processes-within-schools",
+ "name": "Processes within schools",
+ "checked": false,
+ "terms": [
+  {
+   "term": "Streaming",
+   "definition": "Placing pupils in a class for all subjects according to their ability.",
+   "examiner": "Distinguish it from setting (ability groups subject by subject). Ball and Gillborn and Youdell show the lower streams are disproportionately working class."
+  },
+  {
+   "term": "Setting",
+   "definition": "Grouping pupils by ability separately in each subject.",
+   "examiner": "Do not treat setting and streaming as the same thing; mark schemes credit the distinction."
+  },
+  {
+   "term": "Educational triage",
+   "definition": "Sorting pupils into those who will pass anyway, those who can be helped to pass, and hopeless cases, then focusing on the middle group.",
+   "examiner": "Gillborn and Youdell. Link it to league tables and the A-to-C economy."
+  },
+  {
+   "term": "Ideal pupil",
+   "definition": "The teacher's picture of the perfect pupil, usually one with middle-class, white, often female characteristics.",
+   "examiner": "Becker's idea, extended by Archer. Use it to explain labelling of working-class and minority ethnic pupils."
+  },
+  {
+   "term": "Pupil subculture",
+   "definition": "A group of pupils who share similar values and behaviour patterns.",
+   "examiner": "Lacey: they form as a result of streaming. Name the type (pro- or anti-school) when you apply it."
+  },
+  {
+   "term": "Differentiation",
+   "definition": "The process of teachers categorising pupils according to how they see their ability or attitude.",
+   "examiner": "Lacey's term, paired with polarisation. Explain the link between the two for a developed point."
+  },
+  {
+   "term": "Polarisation",
+   "definition": "Pupils responding to streaming by moving to one of two opposite poles, pro-school or anti-school.",
+   "examiner": "Lacey's term. Show how it leads to subcultures rather than just defining it."
+  },
+  {
+   "term": "Anti-school subculture",
+   "definition": "A group that gains status by rejecting the school's values, for example by truanting or messing around.",
+   "examiner": "Willis's lads are an example. Say how it lowers achievement and why pupils join it (status frustration)."
+  },
+  {
+   "term": "Counter-school culture",
+   "definition": "Willis's term for the lads' culture of resistance, which prepared them for manual work.",
+   "examiner": "Use it to challenge correspondence theory: the lads chose their path."
+  },
+  {
+   "term": "Pupil identities",
+   "definition": "The sense of self pupils form at school, shaped by class, gender and ethnicity and by how teachers see them.",
+   "examiner": "Archer's 'Nike identities' are a good example of working-class identity clashing with school."
+  },
+  {
+   "term": "Teacher expectations",
+   "definition": "The beliefs a teacher holds about how well a pupil will do, which may shape how the teacher treats them.",
+   "examiner": "Rosenthal and Jacobson's Oak School study is the classic evidence; later studies have struggled to repeat it, which gives you an evaluation point."
+  },
+  {
+   "term": "Subculture types",
+   "definition": "Woods's range of pupil responses: ingratiation, ritualism, retreatism and rebellion.",
+   "examiner": "Use them to evaluate Lacey's simple pro/anti split: real responses are more varied."
+  }
+ ]
+}

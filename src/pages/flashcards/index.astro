@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import { decks } from '../../lib/decks';
+---
+<Base title="AQA A-level Sociology flashcards: key terms and definitions by topic" description="Free flashcards for AQA A-level Sociology: the key terms and definitions for each topic, with an exam tip on each, spaced repetition saved in your browser, and a define-it drill from real 2-mark questions." context="flashcards" leadLine="Cards learned but the essays still stuck in the middle band? That's what a tutor fixes.">
+  <h1>Flashcards</h1>
+  <p>Key terms and definitions for each topic as flip cards, with spaced repetition saved in your browser. Each card carries a tip on how to use the term in an answer. On the AS papers a precise definition is worth 2 marks, and at A level the same precision is what lifts an outline point from 1 mark to 2. Decks for the remaining topics are being written; the <a href="/practice/define/">define-it drill</a> already covers every real definition question.</p>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Topic</th><th>Terms</th><th>Drill</th></tr></thead>
+    <tbody>{decks.map((d) => <tr><td><a href={`/questions/${d.topic}/`}>{d.name}</a></td><td><a href={`/questions/${d.topic}/terms/`}>{d.terms.length} terms</a></td><td><a href="/practice/define/">Define it</a></td></tr>)}</tbody>
+  </table></div>
+  <h2>How to use them</h2>
+  <ul>
+    <li>Say the answer out loud before you flip. Then be honest with "Knew it" or "Didn't know it": the cards you miss come back every round, the ones you know come back less often.</li>
+    <li>A definition that would score 2 marks in the exam is the target: the term's meaning in one precise sentence, in the words sociologists use, with a short example only where the question asks for one.</li>
+    <li>"Print all" on any deck gives you paper cards.</li>
+  </ul>
+</Base>

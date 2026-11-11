@@ -1,0 +1,1854 @@
+[
+{
+"slug": "role-of-education",
+"name": "Role and functions of education (functionalist, Marxist, New Right)",
+"group": "Paper 1: Education",
+"strand": "Paper 1: Education",
+"paper": "Paper 1: Education",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-01"
+],
+"statementText": {
+"4.1.1-01": "the role and functions of the education system, including its relationship to the economy and to class structure"
+},
+"statementShort": {
+"4.1.1-01": ""
+},
+"asStatements": [
+"4.1.1-01"
+],
+"levels": {
+"4.1.1-01": null
+},
+"parts": 22,
+"marks": 258,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "educational-achievement",
+"name": "Differential educational achievement: class, gender and ethnicity",
+"group": "Paper 1: Education",
+"strand": "Paper 1: Education",
+"paper": "Paper 1: Education",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-02"
+],
+"statementText": {
+"4.1.1-02": "differential educational achievement of social groups by social class, gender and ethnicity in contemporary society"
+},
+"statementShort": {
+"4.1.1-02": ""
+},
+"asStatements": [
+"4.1.1-02"
+],
+"levels": {
+"4.1.1-02": null
+},
+"parts": 47,
+"marks": 540,
+"essays": 13,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "processes-within-schools",
+"name": "Processes within schools: labelling, subcultures and the hidden curriculum",
+"group": "Paper 1: Education",
+"strand": "Paper 1: Education",
+"paper": "Paper 1: Education",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-03"
+],
+"statementText": {
+"4.1.1-03": "relationships and processes within schools, with particular reference to teacher/pupil relationships, pupil identities and subcultures, the hidden curriculum, and the organisation of teaching and learning"
+},
+"statementShort": {
+"4.1.1-03": ""
+},
+"asStatements": [
+"4.1.1-03"
+],
+"levels": {
+"4.1.1-03": null
+},
+"parts": 29,
+"marks": 304,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "education-policy",
+"name": "Educational policy, marketisation and globalisation",
+"group": "Paper 1: Education",
+"strand": "Paper 1: Education",
+"paper": "Paper 1: Education",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.1-04"
+],
+"statementText": {
+"4.1.1-04": "the significance of educational policies, including policies of selection, marketisation and privatisation, and policies to achieve greater equality of opportunity or outcome, for an understanding of the structure, role, impact and experience of and access to education; the impact of globalisation on educational policy"
+},
+"statementShort": {
+"4.1.1-04": ""
+},
+"asStatements": [
+"4.1.1-04"
+],
+"levels": {
+"4.1.1-04": null
+},
+"parts": 26,
+"marks": 186,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "methods-in-context",
+"name": "Methods in Context: research methods applied to education",
+"group": "Paper 1: Education",
+"strand": "Paper 1: Education",
+"paper": "Paper 1: Education",
+"code": "4.1.1",
+"option": null,
+"statements": [
+"4.1.2-01"
+],
+"statementText": {
+"4.1.2-01": "Students must be able to apply sociological research methods to the study of education"
+},
+"statementShort": {
+"4.1.2-01": ""
+},
+"asStatements": [
+"4.1.2-01"
+],
+"levels": {
+"4.1.2-01": null
+},
+"parts": 19,
+"marks": 380,
+"essays": 19,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "quantitative-and-qualitative-methods",
+"name": "Quantitative and qualitative methods and research design",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-01"
+],
+"statementText": {
+"4.1.3-01": "quantitative and qualitative methods of research; research design"
+},
+"statementShort": {
+"4.1.3-01": ""
+},
+"asStatements": [
+"4.1.3-01"
+],
+"levels": {
+"4.1.3-01": null
+},
+"parts": 11,
+"marks": 120,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "research-methods",
+"name": "Research methods: questionnaires, interviews, observation, experiments, documents and official statistics",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-02"
+],
+"statementText": {
+"4.1.3-02": "sources of data, including questionnaires, interviews, participant and non-participant observation, experiments, documents and official statistics"
+},
+"statementShort": {
+"4.1.3-02": ""
+},
+"asStatements": [
+"4.1.3-02"
+],
+"levels": {
+"4.1.3-02": null
+},
+"parts": 40,
+"marks": 600,
+"essays": 26,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "primary-and-secondary-data",
+"name": "Primary and secondary data, quantitative and qualitative data",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-03"
+],
+"statementText": {
+"4.1.3-03": "the distinction between primary and secondary data, and between quantitative and qualitative data"
+},
+"statementShort": {
+"4.1.3-03": ""
+},
+"asStatements": [
+"4.1.3-03"
+],
+"levels": {
+"4.1.3-03": null
+},
+"parts": 11,
+"marks": 154,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "positivism-and-interpretivism",
+"name": "Positivism, interpretivism and social facts",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-04"
+],
+"statementText": {
+"4.1.3-04": "the relationship between positivism, interpretivism and sociological methods; the nature of ‘social facts’"
+},
+"statementShort": {
+"4.1.3-04": ""
+},
+"asStatements": [
+"4.1.3-04"
+],
+"levels": {
+"4.1.3-04": null
+},
+"parts": 18,
+"marks": 244,
+"essays": 8,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "choice-of-research-method",
+"name": "Theoretical, practical and ethical issues in research",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-05"
+],
+"statementText": {
+"4.1.3-05": "the theoretical, practical and ethical considerations influencing choice of topic, choice of method(s) and the conduct of research"
+},
+"statementShort": {
+"4.1.3-05": ""
+},
+"asStatements": [
+"4.1.3-05"
+],
+"levels": {
+"4.1.3-05": null
+},
+"parts": 28,
+"marks": 398,
+"essays": 17,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "sociological-theories",
+"name": "Consensus, conflict, structural and social action theories",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-06"
+],
+"statementText": {
+"4.1.3-06": "consensus, conflict, structural and social action theories"
+},
+"statementShort": {
+"4.1.3-06": ""
+},
+"asStatements": [],
+"levels": {
+"4.1.3-06": null
+},
+"parts": 7,
+"marks": 120,
+"essays": 5,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "modernity-and-postmodernity",
+"name": "Modernity and postmodernity",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-07"
+],
+"statementText": {
+"4.1.3-07": "the concepts of modernity and post-modernity in relation to sociological theory"
+},
+"statementShort": {
+"4.1.3-07": ""
+},
+"asStatements": [],
+"levels": {
+"4.1.3-07": null
+},
+"parts": 3,
+"marks": 50,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "is-sociology-a-science",
+"name": "Is sociology a science?",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-08"
+],
+"statementText": {
+"4.1.3-08": "the nature of science and the extent to which Sociology can be regarded as scientific"
+},
+"statementShort": {
+"4.1.3-08": ""
+},
+"asStatements": [],
+"levels": {
+"4.1.3-08": null
+},
+"parts": 3,
+"marks": 40,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "value-freedom-and-social-policy",
+"name": "Theory and methods, value freedom and social policy",
+"group": "Theory and Methods",
+"strand": "Theory and Methods",
+"paper": "Theory and Methods",
+"code": "4.1.3",
+"option": null,
+"statements": [
+"4.1.3-09",
+"4.1.3-10",
+"4.1.3-11"
+],
+"statementText": {
+"4.1.3-09": "the relationship between theory and methods",
+"4.1.3-10": "debates about subjectivity, objectivity and value freedom",
+"4.1.3-11": "the relationship between Sociology and social policy"
+},
+"statementShort": {
+"4.1.3-09": "",
+"4.1.3-10": "",
+"4.1.3-11": ""
+},
+"asStatements": [],
+"levels": {
+"4.1.3-09": null,
+"4.1.3-10": null,
+"4.1.3-11": null
+},
+"parts": 5,
+"marks": 70,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "conceptions-of-culture",
+"name": "Conceptions of culture: subculture, mass, folk, high, popular and global culture",
+"group": "Paper 2: Culture and Identity",
+"strand": "Paper 2: Culture and Identity",
+"paper": "Paper 2: Culture and Identity",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-01"
+],
+"statementText": {
+"4.2.1-01": "different conceptions of culture, including subculture, mass culture, folk culture, high and low culture, popular culture and global culture"
+},
+"statementShort": {
+"4.2.1-01": ""
+},
+"asStatements": [
+"4.2.1-01"
+],
+"levels": {
+"4.2.1-01": null
+},
+"parts": 18,
+"marks": 172,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "socialisation",
+"name": "Socialisation and the agencies of socialisation",
+"group": "Paper 2: Culture and Identity",
+"strand": "Paper 2: Culture and Identity",
+"paper": "Paper 2: Culture and Identity",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-02"
+],
+"statementText": {
+"4.2.1-02": "the socialisation process and the role of the agencies of socialisation"
+},
+"statementShort": {
+"4.2.1-02": ""
+},
+"asStatements": [
+"4.2.1-02"
+],
+"levels": {
+"4.2.1-02": null
+},
+"parts": 20,
+"marks": 246,
+"essays": 7,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "self-identity-and-difference",
+"name": "Self, identity and difference",
+"group": "Paper 2: Culture and Identity",
+"strand": "Paper 2: Culture and Identity",
+"paper": "Paper 2: Culture and Identity",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-03"
+],
+"statementText": {
+"4.2.1-03": "the self, identity and difference as both socially caused and socially constructed"
+},
+"statementShort": {
+"4.2.1-03": ""
+},
+"asStatements": [
+"4.2.1-03"
+],
+"levels": {
+"4.2.1-03": null
+},
+"parts": 18,
+"marks": 180,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "identity-class-gender-ethnicity",
+"name": "Identity and age, disability, ethnicity, gender, nationality, sexuality and class",
+"group": "Paper 2: Culture and Identity",
+"strand": "Paper 2: Culture and Identity",
+"paper": "Paper 2: Culture and Identity",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-04"
+],
+"statementText": {
+"4.2.1-04": "the relationship of identity to age, disability, ethnicity, gender, nationality, sexuality and social class in contemporary society"
+},
+"statementShort": {
+"4.2.1-04": ""
+},
+"asStatements": [
+"4.2.1-04"
+],
+"levels": {
+"4.2.1-04": null
+},
+"parts": 38,
+"marks": 376,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "identity-consumption-and-globalisation",
+"name": "Identity, production, consumption and globalisation",
+"group": "Paper 2: Culture and Identity",
+"strand": "Paper 2: Culture and Identity",
+"paper": "Paper 2: Culture and Identity",
+"code": "4.2.1",
+"option": null,
+"statements": [
+"4.2.1-05"
+],
+"statementText": {
+"4.2.1-05": "the relationship of identity to production, consumption and globalisation"
+},
+"statementShort": {
+"4.2.1-05": ""
+},
+"asStatements": [
+"4.2.1-05"
+],
+"levels": {
+"4.2.1-05": null
+},
+"parts": 21,
+"marks": 218,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "family-and-social-structure",
+"name": "The family, social structure, the economy and state policies",
+"group": "Paper 2: Families and Households",
+"strand": "Paper 2: Families and Households",
+"paper": "Paper 2: Families and Households",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-01"
+],
+"statementText": {
+"4.2.2-01": "the relationship of the family to the social structure and social change, with particular reference to the economy and to state policies"
+},
+"statementShort": {
+"4.2.2-01": ""
+},
+"asStatements": [
+"4.2.2-01"
+],
+"levels": {
+"4.2.2-01": null
+},
+"parts": 19,
+"marks": 230,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "marriage-divorce-and-family-diversity",
+"name": "Marriage, divorce, cohabitation and family diversity",
+"group": "Paper 2: Families and Households",
+"strand": "Paper 2: Families and Households",
+"paper": "Paper 2: Families and Households",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-02"
+],
+"statementText": {
+"4.2.2-02": "changing patterns of marriage, cohabitation, separation, divorce, childbearing and the life course, including the sociology of personal life, and the diversity of contemporary family and household structures"
+},
+"statementShort": {
+"4.2.2-02": ""
+},
+"asStatements": [
+"4.2.2-02"
+],
+"levels": {
+"4.2.2-02": null
+},
+"parts": 35,
+"marks": 342,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "gender-roles-and-domestic-labour",
+"name": "Gender roles, domestic labour and power in the family",
+"group": "Paper 2: Families and Households",
+"strand": "Paper 2: Families and Households",
+"paper": "Paper 2: Families and Households",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-03"
+],
+"statementText": {
+"4.2.2-03": "gender roles, domestic labour and power relationships within the family in contemporary society"
+},
+"statementShort": {
+"4.2.2-03": ""
+},
+"asStatements": [
+"4.2.2-03"
+],
+"levels": {
+"4.2.2-03": null
+},
+"parts": 18,
+"marks": 184,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "childhood",
+"name": "Childhood and the changing status of children",
+"group": "Paper 2: Families and Households",
+"strand": "Paper 2: Families and Households",
+"paper": "Paper 2: Families and Households",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-04"
+],
+"statementText": {
+"4.2.2-04": "the nature of childhood, and changes in the status of children in the family and society"
+},
+"statementShort": {
+"4.2.2-04": ""
+},
+"asStatements": [
+"4.2.2-04"
+],
+"levels": {
+"4.2.2-04": null
+},
+"parts": 16,
+"marks": 168,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "demographic-trends",
+"name": "Demographic trends: birth rates, death rates, ageing and migration",
+"group": "Paper 2: Families and Households",
+"strand": "Paper 2: Families and Households",
+"paper": "Paper 2: Families and Households",
+"code": "4.2.2",
+"option": null,
+"statements": [
+"4.2.2-05"
+],
+"statementText": {
+"4.2.2-05": "demographic trends in the United Kingdom since 1900: birth rates, death rates, family size, life expectancy, ageing population, and migration and globalisation"
+},
+"statementShort": {
+"4.2.2-05": ""
+},
+"asStatements": [
+"4.2.2-05"
+],
+"levels": {
+"4.2.2-05": null
+},
+"parts": 20,
+"marks": 172,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "social-construction-of-health",
+"name": "The social construction of health, illness, disability and the body",
+"group": "Paper 2: Health",
+"strand": "Paper 2: Health",
+"paper": "Paper 2: Health",
+"code": "4.2.3",
+"option": null,
+"statements": [
+"4.2.3-01"
+],
+"statementText": {
+"4.2.3-01": "the social construction of health, illness, disability and the body, and models of health and illness"
+},
+"statementShort": {
+"4.2.3-01": ""
+},
+"asStatements": [
+"4.2.3-01"
+],
+"levels": {
+"4.2.3-01": null
+},
+"parts": 19,
+"marks": 202,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "health-inequalities",
+"name": "Health inequalities by class, gender, ethnicity and region",
+"group": "Paper 2: Health",
+"strand": "Paper 2: Health",
+"paper": "Paper 2: Health",
+"code": "4.2.3",
+"option": null,
+"statements": [
+"4.2.3-02"
+],
+"statementText": {
+"4.2.3-02": "the unequal social distribution of health chances in the United Kingdom by social class, gender, ethnicity and region"
+},
+"statementShort": {
+"4.2.3-02": ""
+},
+"asStatements": [
+"4.2.3-02"
+],
+"levels": {
+"4.2.3-02": null
+},
+"parts": 24,
+"marks": 258,
+"essays": 7,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "access-to-health-care",
+"name": "Inequalities in the provision of and access to health care",
+"group": "Paper 2: Health",
+"strand": "Paper 2: Health",
+"paper": "Paper 2: Health",
+"code": "4.2.3",
+"option": null,
+"statements": [
+"4.2.3-03"
+],
+"statementText": {
+"4.2.3-03": "inequalities in the provision of, and access to, health care in contemporary society"
+},
+"statementShort": {
+"4.2.3-03": ""
+},
+"asStatements": [
+"4.2.3-03"
+],
+"levels": {
+"4.2.3-03": null
+},
+"parts": 19,
+"marks": 176,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "mental-illness",
+"name": "Mental illness",
+"group": "Paper 2: Health",
+"strand": "Paper 2: Health",
+"paper": "Paper 2: Health",
+"code": "4.2.3",
+"option": null,
+"statements": [
+"4.2.3-04"
+],
+"statementText": {
+"4.2.3-04": "the nature and social distribution of mental illness"
+},
+"statementShort": {
+"4.2.3-04": ""
+},
+"asStatements": [
+"4.2.3-04"
+],
+"levels": {
+"4.2.3-04": null
+},
+"parts": 15,
+"marks": 144,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "medicine-and-health-professions",
+"name": "Medicine, the health professions and the globalised health industry",
+"group": "Paper 2: Health",
+"strand": "Paper 2: Health",
+"paper": "Paper 2: Health",
+"code": "4.2.3",
+"option": null,
+"statements": [
+"4.2.3-05"
+],
+"statementText": {
+"4.2.3-05": "the role of medicine, the health professions and the globalised health industry"
+},
+"statementShort": {
+"4.2.3-05": ""
+},
+"asStatements": [
+"4.2.3-05"
+],
+"levels": {
+"4.2.3-05": null
+},
+"parts": 20,
+"marks": 224,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "poverty",
+"name": "The nature, existence and persistence of poverty",
+"group": "Paper 2: Work, Poverty and Welfare",
+"strand": "Paper 2: Work, Poverty and Welfare",
+"paper": "Paper 2: Work, Poverty and Welfare",
+"code": "4.2.4",
+"option": null,
+"statements": [
+"4.2.4-01"
+],
+"statementText": {
+"4.2.4-01": "the nature, existence and persistence of poverty in contemporary society"
+},
+"statementShort": {
+"4.2.4-01": ""
+},
+"asStatements": [
+"4.2.4-01"
+],
+"levels": {
+"4.2.4-01": null
+},
+"parts": 26,
+"marks": 296,
+"essays": 10,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "distribution-of-wealth-and-income",
+"name": "The distribution of poverty, wealth and income",
+"group": "Paper 2: Work, Poverty and Welfare",
+"strand": "Paper 2: Work, Poverty and Welfare",
+"paper": "Paper 2: Work, Poverty and Welfare",
+"code": "4.2.4",
+"option": null,
+"statements": [
+"4.2.4-02"
+],
+"statementText": {
+"4.2.4-02": "the distribution of poverty, wealth and income between different social groups"
+},
+"statementShort": {
+"4.2.4-02": ""
+},
+"asStatements": [
+"4.2.4-02"
+],
+"levels": {
+"4.2.4-02": null
+},
+"parts": 22,
+"marks": 226,
+"essays": 5,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "responses-to-poverty",
+"name": "Responses and solutions to poverty: the state and welfare providers",
+"group": "Paper 2: Work, Poverty and Welfare",
+"strand": "Paper 2: Work, Poverty and Welfare",
+"paper": "Paper 2: Work, Poverty and Welfare",
+"code": "4.2.4",
+"option": null,
+"statements": [
+"4.2.4-03"
+],
+"statementText": {
+"4.2.4-03": "responses and solutions to poverty by the state and by private, voluntary and informal welfare providers in contemporary society"
+},
+"statementShort": {
+"4.2.4-03": ""
+},
+"asStatements": [
+"4.2.4-03"
+],
+"levels": {
+"4.2.4-03": null
+},
+"parts": 20,
+"marks": 182,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "labour-process",
+"name": "The labour process: division of labour, technology and deskilling",
+"group": "Paper 2: Work, Poverty and Welfare",
+"strand": "Paper 2: Work, Poverty and Welfare",
+"paper": "Paper 2: Work, Poverty and Welfare",
+"code": "4.2.4",
+"option": null,
+"statements": [
+"4.2.4-04"
+],
+"statementText": {
+"4.2.4-04": "organisation and control of the labour process, including the division of labour, the role of technology, skill and de-skilling"
+},
+"statementShort": {
+"4.2.4-04": ""
+},
+"asStatements": [
+"4.2.4-04"
+],
+"levels": {
+"4.2.4-04": null
+},
+"parts": 15,
+"marks": 188,
+"essays": 5,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "work-and-worklessness",
+"name": "Work, worklessness and life chances",
+"group": "Paper 2: Work, Poverty and Welfare",
+"strand": "Paper 2: Work, Poverty and Welfare",
+"paper": "Paper 2: Work, Poverty and Welfare",
+"code": "4.2.4",
+"option": null,
+"statements": [
+"4.2.4-05"
+],
+"statementText": {
+"4.2.4-05": "the significance of work and worklessness for people's lives and life chances, including the effects of globalisation"
+},
+"statementShort": {
+"4.2.4-05": ""
+},
+"asStatements": [
+"4.2.4-05"
+],
+"levels": {
+"4.2.4-05": null
+},
+"parts": 24,
+"marks": 252,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "ideology-science-and-religion",
+"name": "Ideology, science and religion",
+"group": "Paper 2: Beliefs in Society",
+"strand": "Paper 2: Beliefs in Society",
+"paper": "Paper 2: Beliefs in Society",
+"code": "4.2.5",
+"option": null,
+"statements": [
+"4.2.5-01"
+],
+"statementText": {
+"4.2.5-01": "ideology, science and religion, including both Christian and non-Christian religious traditions"
+},
+"statementShort": {
+"4.2.5-01": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.5-01": null
+},
+"parts": 8,
+"marks": 120,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "religion-and-social-change",
+"name": "Religion, social change and social stability",
+"group": "Paper 2: Beliefs in Society",
+"strand": "Paper 2: Beliefs in Society",
+"paper": "Paper 2: Beliefs in Society",
+"code": "4.2.5",
+"option": null,
+"statements": [
+"4.2.5-02"
+],
+"statementText": {
+"4.2.5-02": "the relationship between social change and social stability, and religious beliefs, practices and organisations"
+},
+"statementShort": {
+"4.2.5-02": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.5-02": null
+},
+"parts": 10,
+"marks": 130,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "religious-organisations",
+"name": "Religious organisations: churches, sects, cults and New Age movements",
+"group": "Paper 2: Beliefs in Society",
+"strand": "Paper 2: Beliefs in Society",
+"paper": "Paper 2: Beliefs in Society",
+"code": "4.2.5",
+"option": null,
+"statements": [
+"4.2.5-03"
+],
+"statementText": {
+"4.2.5-03": "religious organisations, including cults, sects, denominations, churches and New Age movements, and their relationship to religious and spiritual belief and practice"
+},
+"statementShort": {
+"4.2.5-03": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.5-03": null
+},
+"parts": 7,
+"marks": 80,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "religion-and-social-groups",
+"name": "Religion and social groups: gender, ethnicity, age and class",
+"group": "Paper 2: Beliefs in Society",
+"strand": "Paper 2: Beliefs in Society",
+"paper": "Paper 2: Beliefs in Society",
+"code": "4.2.5",
+"option": null,
+"statements": [
+"4.2.5-04"
+],
+"statementText": {
+"4.2.5-04": "the relationship between different social groups and religious/spiritual organisations and movements, beliefs and practices"
+},
+"statementShort": {
+"4.2.5-04": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.5-04": null
+},
+"parts": 7,
+"marks": 90,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "secularisation",
+"name": "Secularisation and the global spread of religion",
+"group": "Paper 2: Beliefs in Society",
+"strand": "Paper 2: Beliefs in Society",
+"paper": "Paper 2: Beliefs in Society",
+"code": "4.2.5",
+"option": null,
+"statements": [
+"4.2.5-05"
+],
+"statementText": {
+"4.2.5-05": "the significance of religion and religiosity in the contemporary world, including the nature and extent of secularisation in a global context, and globalisation and the spread of religions"
+},
+"statementShort": {
+"4.2.5-05": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.5-05": null
+},
+"parts": 15,
+"marks": 210,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "development-and-underdevelopment",
+"name": "Development, underdevelopment and global inequality (modernisation and dependency theory)",
+"group": "Paper 2: Global Development",
+"strand": "Paper 2: Global Development",
+"paper": "Paper 2: Global Development",
+"code": "4.2.6",
+"option": null,
+"statements": [
+"4.2.6-01"
+],
+"statementText": {
+"4.2.6-01": "development, underdevelopment and global inequality"
+},
+"statementShort": {
+"4.2.6-01": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.6-01": null
+},
+"parts": 10,
+"marks": 170,
+"essays": 7,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "globalisation-and-development",
+"name": "Globalisation and development",
+"group": "Paper 2: Global Development",
+"strand": "Paper 2: Global Development",
+"paper": "Paper 2: Global Development",
+"code": "4.2.6",
+"option": null,
+"statements": [
+"4.2.6-02"
+],
+"statementText": {
+"4.2.6-02": "globalisation and its influence on the cultural, political and economic relationships between societies"
+},
+"statementShort": {
+"4.2.6-02": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.6-02": null
+},
+"parts": 7,
+"marks": 80,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "tncs-ngos-and-international-agencies",
+"name": "Transnational corporations, NGOs and international agencies",
+"group": "Paper 2: Global Development",
+"strand": "Paper 2: Global Development",
+"paper": "Paper 2: Global Development",
+"code": "4.2.6",
+"option": null,
+"statements": [
+"4.2.6-03"
+],
+"statementText": {
+"4.2.6-03": "the role of transnational corporations, non-governmental organisations and international agencies in local and global strategies for development"
+},
+"statementShort": {
+"4.2.6-03": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.6-03": null
+},
+"parts": 7,
+"marks": 100,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "aid-trade-and-industrialisation",
+"name": "Aid, trade, industrialisation, urbanisation, environment and war",
+"group": "Paper 2: Global Development",
+"strand": "Paper 2: Global Development",
+"paper": "Paper 2: Global Development",
+"code": "4.2.6",
+"option": null,
+"statements": [
+"4.2.6-04"
+],
+"statementText": {
+"4.2.6-04": "development in relation to aid and trade, industrialisation, urbanisation, the environment, and war and conflict"
+},
+"statementShort": {
+"4.2.6-04": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.6-04": null
+},
+"parts": 12,
+"marks": 160,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "development-gender-health-education",
+"name": "Employment, education, health, demography and gender in development",
+"group": "Paper 2: Global Development",
+"strand": "Paper 2: Global Development",
+"paper": "Paper 2: Global Development",
+"code": "4.2.6",
+"option": null,
+"statements": [
+"4.2.6-05"
+],
+"statementText": {
+"4.2.6-05": "employment, education, health, demographic change and gender as aspects of development"
+},
+"statementShort": {
+"4.2.6-05": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.6-05": null
+},
+"parts": 13,
+"marks": 150,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "new-media",
+"name": "The new media",
+"group": "Paper 2: The Media",
+"strand": "Paper 2: The Media",
+"paper": "Paper 2: The Media",
+"code": "4.2.7",
+"option": null,
+"statements": [
+"4.2.7-01"
+],
+"statementText": {
+"4.2.7-01": "the new media and their significance for an understanding of the role of the media in contemporary society"
+},
+"statementShort": {
+"4.2.7-01": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.7-01": null
+},
+"parts": 9,
+"marks": 110,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "media-ownership-and-control",
+"name": "Ownership and control of the media",
+"group": "Paper 2: The Media",
+"strand": "Paper 2: The Media",
+"paper": "Paper 2: The Media",
+"code": "4.2.7",
+"option": null,
+"statements": [
+"4.2.7-02"
+],
+"statementText": {
+"4.2.7-02": "the relationship between ownership and control of the media"
+},
+"statementShort": {
+"4.2.7-02": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.7-02": null
+},
+"parts": 10,
+"marks": 150,
+"essays": 5,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "media-globalisation-and-popular-culture",
+"name": "The media, globalisation and popular culture",
+"group": "Paper 2: The Media",
+"strand": "Paper 2: The Media",
+"paper": "Paper 2: The Media",
+"code": "4.2.7",
+"option": null,
+"statements": [
+"4.2.7-03"
+],
+"statementText": {
+"4.2.7-03": "the media, globalisation and popular culture"
+},
+"statementShort": {
+"4.2.7-03": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.7-03": null
+},
+"parts": 6,
+"marks": 70,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "news-selection-and-presentation",
+"name": "Selection and presentation of the news",
+"group": "Paper 2: The Media",
+"strand": "Paper 2: The Media",
+"paper": "Paper 2: The Media",
+"code": "4.2.7",
+"option": null,
+"statements": [
+"4.2.7-04"
+],
+"statementText": {
+"4.2.7-04": "the processes of selection and presentation of the content of the news"
+},
+"statementShort": {
+"4.2.7-04": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.7-04": null
+},
+"parts": 7,
+"marks": 80,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "media-representations",
+"name": "Media representations of age, class, ethnicity, gender, sexuality and disability",
+"group": "Paper 2: The Media",
+"strand": "Paper 2: The Media",
+"paper": "Paper 2: The Media",
+"code": "4.2.7",
+"option": null,
+"statements": [
+"4.2.7-05"
+],
+"statementText": {
+"4.2.7-05": "media representations of age, social class, ethnicity, gender, sexuality and disability"
+},
+"statementShort": {
+"4.2.7-05": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.7-05": null
+},
+"parts": 9,
+"marks": 120,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "media-audiences",
+"name": "The media and audiences",
+"group": "Paper 2: The Media",
+"strand": "Paper 2: The Media",
+"paper": "Paper 2: The Media",
+"code": "4.2.7",
+"option": null,
+"statements": [
+"4.2.7-06"
+],
+"statementText": {
+"4.2.7-06": "the relationship between the media, their content and presentation, and audiences"
+},
+"statementShort": {
+"4.2.7-06": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.7-06": null
+},
+"parts": 9,
+"marks": 120,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "stratification-and-differentiation",
+"name": "Stratification and differentiation by class, gender, ethnicity and age",
+"group": "Paper 2: Stratification and Differentiation",
+"strand": "Paper 2: Stratification and Differentiation",
+"paper": "Paper 2: Stratification and Differentiation",
+"code": "4.2.8",
+"option": null,
+"statements": [
+"4.2.8-01"
+],
+"statementText": {
+"4.2.8-01": "stratification and differentiation by social class, gender, ethnicity and age"
+},
+"statementShort": {
+"4.2.8-01": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.8-01": null
+},
+"parts": 15,
+"marks": 230,
+"essays": 8,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "class-status-and-power",
+"name": "Class, status, power and life chances",
+"group": "Paper 2: Stratification and Differentiation",
+"strand": "Paper 2: Stratification and Differentiation",
+"paper": "Paper 2: Stratification and Differentiation",
+"code": "4.2.8",
+"option": null,
+"statements": [
+"4.2.8-02"
+],
+"statementText": {
+"4.2.8-02": "dimensions of inequality: class, status and power; differences in life-chances by social class, gender, ethnicity, age and disability"
+},
+"statementShort": {
+"4.2.8-02": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.8-02": null
+},
+"parts": 16,
+"marks": 240,
+"essays": 8,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "measuring-social-class",
+"name": "Defining and measuring social class",
+"group": "Paper 2: Stratification and Differentiation",
+"strand": "Paper 2: Stratification and Differentiation",
+"paper": "Paper 2: Stratification and Differentiation",
+"code": "4.2.8",
+"option": null,
+"statements": [
+"4.2.8-03"
+],
+"statementText": {
+"4.2.8-03": "the problems of defining and measuring social class; occupation, gender and social class"
+},
+"statementShort": {
+"4.2.8-03": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.8-03": null
+},
+"parts": 5,
+"marks": 50,
+"essays": 0,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "changing-structures-of-inequality",
+"name": "Changing structures of inequality and the transnational capitalist class",
+"group": "Paper 2: Stratification and Differentiation",
+"strand": "Paper 2: Stratification and Differentiation",
+"paper": "Paper 2: Stratification and Differentiation",
+"code": "4.2.8",
+"option": null,
+"statements": [
+"4.2.8-04"
+],
+"statementText": {
+"4.2.8-04": "changes in structures of inequality, including globalisation and the transnational capitalist class, and the implications of these changes"
+},
+"statementShort": {
+"4.2.8-04": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.8-04": null
+},
+"parts": 7,
+"marks": 70,
+"essays": 0,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "social-mobility",
+"name": "Social mobility",
+"group": "Paper 2: Stratification and Differentiation",
+"strand": "Paper 2: Stratification and Differentiation",
+"paper": "Paper 2: Stratification and Differentiation",
+"code": "4.2.8",
+"option": null,
+"statements": [
+"4.2.8-05"
+],
+"statementText": {
+"4.2.8-05": "the nature, extent and significance of patterns of social mobility"
+},
+"statementShort": {
+"4.2.8-05": ""
+},
+"asStatements": [],
+"levels": {
+"4.2.8-05": null
+},
+"parts": 8,
+"marks": 90,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "crime-deviance-and-social-control",
+"name": "Crime, deviance, social order and social control",
+"group": "Paper 3: Crime and Deviance",
+"strand": "Paper 3: Crime and Deviance",
+"paper": "Paper 3: Crime and Deviance",
+"code": "4.3.1",
+"option": null,
+"statements": [
+"4.3.1-01"
+],
+"statementText": {
+"4.3.1-01": "crime, deviance, social order and social control"
+},
+"statementShort": {
+"4.3.1-01": ""
+},
+"asStatements": [],
+"levels": {
+"4.3.1-01": null
+},
+"parts": 13,
+"marks": 204,
+"essays": 5,
+"mcq": 0,
+"papers": [
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "social-distribution-of-crime",
+"name": "Crime by ethnicity, gender and social class",
+"group": "Paper 3: Crime and Deviance",
+"strand": "Paper 3: Crime and Deviance",
+"paper": "Paper 3: Crime and Deviance",
+"code": "4.3.1",
+"option": null,
+"statements": [
+"4.3.1-02"
+],
+"statementText": {
+"4.3.1-02": "the social distribution of crime and deviance by ethnicity, gender and social class, including recent patterns and trends in crime"
+},
+"statementShort": {
+"4.3.1-02": ""
+},
+"asStatements": [],
+"levels": {
+"4.3.1-02": null
+},
+"parts": 15,
+"marks": 198,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "globalisation-green-and-state-crime",
+"name": "Globalisation, the media, green crime and state crime",
+"group": "Paper 3: Crime and Deviance",
+"strand": "Paper 3: Crime and Deviance",
+"paper": "Paper 3: Crime and Deviance",
+"code": "4.3.1",
+"option": null,
+"statements": [
+"4.3.1-03"
+],
+"statementText": {
+"4.3.1-03": "globalisation and crime in contemporary society; the media and crime; green crime; human rights and state crimes"
+},
+"statementShort": {
+"4.3.1-03": ""
+},
+"asStatements": [],
+"levels": {
+"4.3.1-03": null
+},
+"parts": 8,
+"marks": 98,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "crime-control-and-punishment",
+"name": "Crime control, surveillance, punishment and victims",
+"group": "Paper 3: Crime and Deviance",
+"strand": "Paper 3: Crime and Deviance",
+"paper": "Paper 3: Crime and Deviance",
+"code": "4.3.1",
+"option": null,
+"statements": [
+"4.3.1-04"
+],
+"statementText": {
+"4.3.1-04": "crime control, surveillance, prevention and punishment, victims, and the role of the criminal justice system and other agencies"
+},
+"statementShort": {
+"4.3.1-04": ""
+},
+"asStatements": [],
+"levels": {
+"4.3.1-04": null
+},
+"parts": 14,
+"marks": 170,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 3"
+],
+"asOrA": "A level only"
+}
+]

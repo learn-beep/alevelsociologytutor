@@ -1,0 +1,1033 @@
+[
+{
+"code": "4.1",
+"title": "Education with Theory and Methods (Paper 1)",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "4.2",
+"title": "Topics in Sociology (Paper 2)",
+"paper": 2,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "4.3",
+"title": "Crime and Deviance with Theory and Methods (Paper 3)",
+"paper": 3,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "4.1.1",
+"title": "Education",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "role-of-education",
+"statements": [
+{
+"id": "4.1.1-01",
+"short": "",
+"text": "the role and functions of the education system, including its relationship to the economy and to class structure",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"role-of-education"
+]
+},
+{
+"id": "4.1.1-02",
+"short": "",
+"text": "differential educational achievement of social groups by social class, gender and ethnicity in contemporary society",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"educational-achievement"
+]
+},
+{
+"id": "4.1.1-03",
+"short": "",
+"text": "relationships and processes within schools, with particular reference to teacher/pupil relationships, pupil identities and subcultures, the hidden curriculum, and the organisation of teaching and learning",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"processes-within-schools"
+]
+},
+{
+"id": "4.1.1-04",
+"short": "",
+"text": "the significance of educational policies, including policies of selection, marketisation and privatisation, and policies to achieve greater equality of opportunity or outcome, for an understanding of the structure, role, impact and experience of and access to education; the impact of globalisation on educational policy",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"education-policy"
+]
+}
+]
+},
+{
+"code": "4.1.2",
+"title": "Methods in Context",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "methods-in-context",
+"statements": [
+{
+"id": "4.1.2-01",
+"short": "",
+"text": "Students must be able to apply sociological research methods to the study of education",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"methods-in-context"
+]
+}
+]
+},
+{
+"code": "4.1.3",
+"title": "Theory and Methods (Papers 1 and 3; AS Paper 2 research methods)",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "quantitative-and-qualitative-methods",
+"statements": [
+{
+"id": "4.1.3-01",
+"short": "",
+"text": "quantitative and qualitative methods of research; research design",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"quantitative-and-qualitative-methods"
+]
+},
+{
+"id": "4.1.3-02",
+"short": "",
+"text": "sources of data, including questionnaires, interviews, participant and non-participant observation, experiments, documents and official statistics",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"research-methods"
+]
+},
+{
+"id": "4.1.3-03",
+"short": "",
+"text": "the distinction between primary and secondary data, and between quantitative and qualitative data",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"primary-and-secondary-data"
+]
+},
+{
+"id": "4.1.3-04",
+"short": "",
+"text": "the relationship between positivism, interpretivism and sociological methods; the nature of ‘social facts’",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"positivism-and-interpretivism"
+]
+},
+{
+"id": "4.1.3-05",
+"short": "",
+"text": "the theoretical, practical and ethical considerations influencing choice of topic, choice of method(s) and the conduct of research",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"choice-of-research-method"
+]
+},
+{
+"id": "4.1.3-06",
+"short": "",
+"text": "consensus, conflict, structural and social action theories",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"sociological-theories"
+]
+},
+{
+"id": "4.1.3-07",
+"short": "",
+"text": "the concepts of modernity and post-modernity in relation to sociological theory",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"modernity-and-postmodernity"
+]
+},
+{
+"id": "4.1.3-08",
+"short": "",
+"text": "the nature of science and the extent to which Sociology can be regarded as scientific",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"is-sociology-a-science"
+]
+},
+{
+"id": "4.1.3-09",
+"short": "",
+"text": "the relationship between theory and methods",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"value-freedom-and-social-policy"
+]
+},
+{
+"id": "4.1.3-10",
+"short": "",
+"text": "debates about subjectivity, objectivity and value freedom",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"value-freedom-and-social-policy"
+]
+},
+{
+"id": "4.1.3-11",
+"short": "",
+"text": "the relationship between Sociology and social policy",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"value-freedom-and-social-policy"
+]
+}
+]
+},
+{
+"code": "4.2.1",
+"title": "Culture and Identity",
+"paper": 2,
+"option": "Section A",
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "conceptions-of-culture",
+"statements": [
+{
+"id": "4.2.1-01",
+"short": "",
+"text": "different conceptions of culture, including subculture, mass culture, folk culture, high and low culture, popular culture and global culture",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"conceptions-of-culture"
+]
+},
+{
+"id": "4.2.1-02",
+"short": "",
+"text": "the socialisation process and the role of the agencies of socialisation",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"socialisation"
+]
+},
+{
+"id": "4.2.1-03",
+"short": "",
+"text": "the self, identity and difference as both socially caused and socially constructed",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"self-identity-and-difference"
+]
+},
+{
+"id": "4.2.1-04",
+"short": "",
+"text": "the relationship of identity to age, disability, ethnicity, gender, nationality, sexuality and social class in contemporary society",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"identity-class-gender-ethnicity"
+]
+},
+{
+"id": "4.2.1-05",
+"short": "",
+"text": "the relationship of identity to production, consumption and globalisation",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"identity-consumption-and-globalisation"
+]
+}
+]
+},
+{
+"code": "4.2.2",
+"title": "Families and Households",
+"paper": 2,
+"option": "Section A",
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "family-and-social-structure",
+"statements": [
+{
+"id": "4.2.2-01",
+"short": "",
+"text": "the relationship of the family to the social structure and social change, with particular reference to the economy and to state policies",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"family-and-social-structure"
+]
+},
+{
+"id": "4.2.2-02",
+"short": "",
+"text": "changing patterns of marriage, cohabitation, separation, divorce, childbearing and the life course, including the sociology of personal life, and the diversity of contemporary family and household structures",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"marriage-divorce-and-family-diversity"
+]
+},
+{
+"id": "4.2.2-03",
+"short": "",
+"text": "gender roles, domestic labour and power relationships within the family in contemporary society",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"gender-roles-and-domestic-labour"
+]
+},
+{
+"id": "4.2.2-04",
+"short": "",
+"text": "the nature of childhood, and changes in the status of children in the family and society",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"childhood"
+]
+},
+{
+"id": "4.2.2-05",
+"short": "",
+"text": "demographic trends in the United Kingdom since 1900: birth rates, death rates, family size, life expectancy, ageing population, and migration and globalisation",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"demographic-trends"
+]
+}
+]
+},
+{
+"code": "4.2.3",
+"title": "Health",
+"paper": 2,
+"option": "Section A",
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "social-construction-of-health",
+"statements": [
+{
+"id": "4.2.3-01",
+"short": "",
+"text": "the social construction of health, illness, disability and the body, and models of health and illness",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"social-construction-of-health"
+]
+},
+{
+"id": "4.2.3-02",
+"short": "",
+"text": "the unequal social distribution of health chances in the United Kingdom by social class, gender, ethnicity and region",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"health-inequalities"
+]
+},
+{
+"id": "4.2.3-03",
+"short": "",
+"text": "inequalities in the provision of, and access to, health care in contemporary society",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"access-to-health-care"
+]
+},
+{
+"id": "4.2.3-04",
+"short": "",
+"text": "the nature and social distribution of mental illness",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"mental-illness"
+]
+},
+{
+"id": "4.2.3-05",
+"short": "",
+"text": "the role of medicine, the health professions and the globalised health industry",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"medicine-and-health-professions"
+]
+}
+]
+},
+{
+"code": "4.2.4",
+"title": "Work, Poverty and Welfare",
+"paper": 2,
+"option": "Section A",
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "poverty",
+"statements": [
+{
+"id": "4.2.4-01",
+"short": "",
+"text": "the nature, existence and persistence of poverty in contemporary society",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"poverty"
+]
+},
+{
+"id": "4.2.4-02",
+"short": "",
+"text": "the distribution of poverty, wealth and income between different social groups",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"distribution-of-wealth-and-income"
+]
+},
+{
+"id": "4.2.4-03",
+"short": "",
+"text": "responses and solutions to poverty by the state and by private, voluntary and informal welfare providers in contemporary society",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"responses-to-poverty"
+]
+},
+{
+"id": "4.2.4-04",
+"short": "",
+"text": "organisation and control of the labour process, including the division of labour, the role of technology, skill and de-skilling",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"labour-process"
+]
+},
+{
+"id": "4.2.4-05",
+"short": "",
+"text": "the significance of work and worklessness for people's lives and life chances, including the effects of globalisation",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"work-and-worklessness"
+]
+}
+]
+},
+{
+"code": "4.2.5",
+"title": "Beliefs in Society",
+"paper": 2,
+"option": "Section B",
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "ideology-science-and-religion",
+"statements": [
+{
+"id": "4.2.5-01",
+"short": "",
+"text": "ideology, science and religion, including both Christian and non-Christian religious traditions",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"ideology-science-and-religion"
+]
+},
+{
+"id": "4.2.5-02",
+"short": "",
+"text": "the relationship between social change and social stability, and religious beliefs, practices and organisations",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"religion-and-social-change"
+]
+},
+{
+"id": "4.2.5-03",
+"short": "",
+"text": "religious organisations, including cults, sects, denominations, churches and New Age movements, and their relationship to religious and spiritual belief and practice",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"religious-organisations"
+]
+},
+{
+"id": "4.2.5-04",
+"short": "",
+"text": "the relationship between different social groups and religious/spiritual organisations and movements, beliefs and practices",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"religion-and-social-groups"
+]
+},
+{
+"id": "4.2.5-05",
+"short": "",
+"text": "the significance of religion and religiosity in the contemporary world, including the nature and extent of secularisation in a global context, and globalisation and the spread of religions",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"secularisation"
+]
+}
+]
+},
+{
+"code": "4.2.6",
+"title": "Global Development",
+"paper": 2,
+"option": "Section B",
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "development-and-underdevelopment",
+"statements": [
+{
+"id": "4.2.6-01",
+"short": "",
+"text": "development, underdevelopment and global inequality",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"development-and-underdevelopment"
+]
+},
+{
+"id": "4.2.6-02",
+"short": "",
+"text": "globalisation and its influence on the cultural, political and economic relationships between societies",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"globalisation-and-development"
+]
+},
+{
+"id": "4.2.6-03",
+"short": "",
+"text": "the role of transnational corporations, non-governmental organisations and international agencies in local and global strategies for development",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"tncs-ngos-and-international-agencies"
+]
+},
+{
+"id": "4.2.6-04",
+"short": "",
+"text": "development in relation to aid and trade, industrialisation, urbanisation, the environment, and war and conflict",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"aid-trade-and-industrialisation"
+]
+},
+{
+"id": "4.2.6-05",
+"short": "",
+"text": "employment, education, health, demographic change and gender as aspects of development",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"development-gender-health-education"
+]
+}
+]
+},
+{
+"code": "4.2.7",
+"title": "The Media",
+"paper": 2,
+"option": "Section B",
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "new-media",
+"statements": [
+{
+"id": "4.2.7-01",
+"short": "",
+"text": "the new media and their significance for an understanding of the role of the media in contemporary society",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"new-media"
+]
+},
+{
+"id": "4.2.7-02",
+"short": "",
+"text": "the relationship between ownership and control of the media",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"media-ownership-and-control"
+]
+},
+{
+"id": "4.2.7-03",
+"short": "",
+"text": "the media, globalisation and popular culture",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"media-globalisation-and-popular-culture"
+]
+},
+{
+"id": "4.2.7-04",
+"short": "",
+"text": "the processes of selection and presentation of the content of the news",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"news-selection-and-presentation"
+]
+},
+{
+"id": "4.2.7-05",
+"short": "",
+"text": "media representations of age, social class, ethnicity, gender, sexuality and disability",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"media-representations"
+]
+},
+{
+"id": "4.2.7-06",
+"short": "",
+"text": "the relationship between the media, their content and presentation, and audiences",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"media-audiences"
+]
+}
+]
+},
+{
+"code": "4.2.8",
+"title": "Stratification and Differentiation",
+"paper": 2,
+"option": "Section B",
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "stratification-and-differentiation",
+"statements": [
+{
+"id": "4.2.8-01",
+"short": "",
+"text": "stratification and differentiation by social class, gender, ethnicity and age",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"stratification-and-differentiation"
+]
+},
+{
+"id": "4.2.8-02",
+"short": "",
+"text": "dimensions of inequality: class, status and power; differences in life-chances by social class, gender, ethnicity, age and disability",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"class-status-and-power"
+]
+},
+{
+"id": "4.2.8-03",
+"short": "",
+"text": "the problems of defining and measuring social class; occupation, gender and social class",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"measuring-social-class"
+]
+},
+{
+"id": "4.2.8-04",
+"short": "",
+"text": "changes in structures of inequality, including globalisation and the transnational capitalist class, and the implications of these changes",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"changing-structures-of-inequality"
+]
+},
+{
+"id": "4.2.8-05",
+"short": "",
+"text": "the nature, extent and significance of patterns of social mobility",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"social-mobility"
+]
+}
+]
+},
+{
+"code": "4.3.1",
+"title": "Crime and Deviance",
+"paper": 3,
+"option": null,
+"area": null,
+"theme": null,
+"aLevelOnly": false,
+"topic": "crime-deviance-and-social-control",
+"statements": [
+{
+"id": "4.3.1-01",
+"short": "",
+"text": "crime, deviance, social order and social control",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"crime-deviance-and-social-control"
+]
+},
+{
+"id": "4.3.1-02",
+"short": "",
+"text": "the social distribution of crime and deviance by ethnicity, gender and social class, including recent patterns and trends in crime",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"social-distribution-of-crime"
+]
+},
+{
+"id": "4.3.1-03",
+"short": "",
+"text": "globalisation and crime in contemporary society; the media and crime; green crime; human rights and state crimes",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"globalisation-green-and-state-crime"
+]
+},
+{
+"id": "4.3.1-04",
+"short": "",
+"text": "crime control, surveillance, prevention and punishment, victims, and the role of the criminal justice system and other agencies",
+"guidance": "",
+"level": "",
+"points": [],
+"page": null,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"crime-control-and-punishment"
+]
+}
+]
+}
+]
