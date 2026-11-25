@@ -1,0 +1,54 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { allQuestions, allTopics, essayTitle, seriesRank } from '../../lib/data';
+const essays = allQuestions.filter((q) => q.format === 'Essay' && !q.notCurrentSpec).sort((a, b) => seriesRank(b.series) - seriesRank(a.series));
+const title = (q) => essayTitle(q.text).slice(0, 260);
+const byTopic = allTopics.map((t) => [t, essays.filter((q) => q.topics.includes(t.slug))]).filter(([, qs]) => qs.length);
+const n35 = essays.filter((q) => q.marks === 35).length, n26 = essays.filter((q) => q.marks === 26).length;
+---
+<Base title="Every Cambridge A Level Sociology 9699 essay question since 2021, by topic, with a timed essay tool" description="All 26- and 35-mark essay questions set on Cambridge International AS and A Level Sociology (9699) since 2021, grouped by topic with the paper each was set on, and a timed-essay tool that reveals the mark scheme and levels." context="essays" leadLine="Want your essays marked against Cambridge's levels? Message us.">
+  <h1>Every essay question, and a timed practice tool</h1>
+  <p>{n26} twenty-six-mark essays (Papers 1, 2 and 3) and {n35} thirty-five-mark essays (Paper 4), grouped by topic with the series and paper each appeared in. Pick one to write under timed conditions (about 1.5 minutes a mark: 40 minutes for a 26-marker, 50 for a 35-marker), then open the mark scheme with its indicative content and levels and award yourself a band.</p>
+  <p class="muted">Cambridge marks the essays AO by AO. On Papers 1 and 2: knowledge and understanding 8 marks, interpretation and application 8, analysis and evaluation 10 (Paper 3: 10, 6, 10). On Paper 4: 9, 11 and 15. The evaluation marks are the biggest share, so a balanced answer that reaches a supported conclusion matters most.</p>
+  <h2>Timed essay</h2>
+  <div class="panel">
+    <div class="chips" id="topic-chips">{byTopic.map(([t]) => <button class="chip" type="button" data-topic={t.slug} aria-pressed="false">{t.name.split(':')[0]}</button>)}</div>
+    <div class="chips" data-group="marks"><button class="chip" type="button" data-v="" aria-pressed="true">Any</button><button class="chip" type="button" data-v="26">26-mark (Papers 1–3)</button><button class="chip" type="button" data-v="35">35-mark (Paper 4)</button></div>
+    <div><button class="btn btn-accent" type="button" id="draw">Give me a title</button> <span class="muted">(random from the selected topics, or from all)</span></div>
+  </div>
+  <div id="play" hidden>
+    <div class="playbar"><span id="which"></span><span class="timer" id="timer">40:00</span><button class="btn" type="button" id="starttimer"><Icon name="timer" />Start the clock</button></div>
+    <div id="card"></div>
+    <div class="panel"><h3>Award yourself a band</h3><div class="markrow" id="levels"><span>Band:</span>{[1, 2, 3, 4, 5].map((l) => <button class="chip" type="button" data-level={l}>{l}</button>)}</div><p class="muted" id="levelnote"></p></div>
+  </div>
+  <h2>All titles by topic</h2>
+  {byTopic.map(([t, qs]) => <><h3><a href={`/questions/${t.slug}/`}>{t.name}</a> <span class="muted">({qs.length})</span></h3>
+    <div class="table-wrap"><table><thead><tr><th>Series</th><th>Paper</th><th>Marks</th><th>Title</th></tr></thead>
+    <tbody>{qs.map((q) => <tr><td>{q.series}</td><td>{q.paper}{q.comp ? ` (9699/${q.comp})` : ''} Q{q.question}</td><td>{q.marks}</td><td><a href={`/questions/${t.slug}/#${q.id}`}>{title(q)}</a></td></tr>)}</tbody></table></div></>)}
+  <script>
+    import { loadBank, card, saveScore, shuffle, fmtTime } from '../../scripts/player.js';
+    const $ = (s) => document.querySelector(s);
+    const sel = new Set(); let marks = '', bank = null, timer = null, secs = 1800, current = null;
+    document.querySelectorAll('[data-topic]').forEach((b) => b.addEventListener('click', () => { const on = b.getAttribute('aria-pressed') !== 'true'; b.setAttribute('aria-pressed', String(on)); on ? sel.add(b.dataset.topic) : sel.delete(b.dataset.topic); }));
+    document.querySelectorAll('[data-group="marks"] .chip').forEach((b) => b.addEventListener('click', () => { document.querySelectorAll('[data-group="marks"] .chip').forEach((x) => x.setAttribute('aria-pressed', 'false')); b.setAttribute('aria-pressed', 'true'); marks = b.dataset.v; }));
+    loadBank().then((b) => { bank = b; });
+    $('#draw').addEventListener('click', () => {
+      if (!bank) return;
+      const pool = bank.q.filter((q) => q.f === 'Essay' && !q.old && q.c && (!marks || q.m === Number(marks)) && (!sel.size || q.t.some((t) => sel.has(t))));
+      if (!pool.length) return;
+      current = shuffle(pool)[0];
+      secs = Math.round(current.m * 90);
+      $('#play').hidden = false; $('#which').textContent = `${current.s} ${current.p}${current.cp ? ` (9699/${current.cp})` : ''} Q${current.q} (${current.m} marks)`; $('#timer').textContent = fmtTime(secs); if (timer) clearInterval(timer);
+      $('#levelnote').innerHTML = current.m === 35 ? 'Paper 4 essays are marked on three grids: AO1 out of 9, AO2 out of 11, AO3 out of 15. The top band needs a wide range of detailed knowledge, material applied consistently to the question, and sustained evaluation that reaches a supported conclusion; a one-sided account stays in the middle bands. <em>Bands summarised by the site, to be checked by our tutor.</em>' : 'The 26-mark essays are marked on three grids: AO1 out of 8, AO2 out of 8 (6 on Paper 3), AO3 out of 10. The top band needs detailed knowledge with concepts and evidence, accurately applied, and clear, sustained evaluation; arguments side by side with no judgement stay in the middle. <em>Bands summarised by the site, to be checked by our tutor.</em>';
+      const holder = $('#card'); holder.innerHTML = ''; holder.appendChild(card(current));
+      document.querySelectorAll('[data-level]').forEach((x) => x.setAttribute('aria-pressed', 'false'));
+      window.scrollTo({ top: $('#play').offsetTop - 80, behavior: 'smooth' });
+    });
+    $('#starttimer').addEventListener('click', () => { if (timer) clearInterval(timer); timer = setInterval(() => { secs--; $('#timer').textContent = fmtTime(Math.max(secs, 0)); if (secs <= 0) { clearInterval(timer); $('#timer').textContent = "Time's up"; } }, 1000); });
+    document.querySelectorAll('[data-level]').forEach((b) => b.addEventListener('click', () => {
+      document.querySelectorAll('[data-level]').forEach((x) => x.setAttribute('aria-pressed', 'false')); b.setAttribute('aria-pressed', 'true');
+      if (current) { const table = { 26: [0, 3, 8, 13, 18, 24], 35: [0, 4, 11, 18, 25, 32] }[current.m] || [0, 3, 8, 13, 18, 24]; saveScore(current.t, table[Number(b.dataset.level)], current.m, current.id); }
+    }));
+  </script>
+</Base>

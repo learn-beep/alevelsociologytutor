@@ -9,7 +9,7 @@ const hasStem = showStem && cropsOn && q.stemCrop;
 ---
 <article class="qcard" id={q.id} data-level={q.level} data-difficulty={q.difficulty || ''} data-year={String(q.year)} data-format={q.format || ''} data-paper={q.paper} data-old={q.notCurrentSpec ? '1' : '0'} hidden={q.notCurrentSpec}>
   <div class="meta">
-    <strong>{q.series} · {q.level === 'AS' ? 'AS ' : ''}{q.paper} · Q{q.question}</strong>
+    <strong>{q.series} · {q.level === 'AS' ? 'AS ' : ''}{q.paper}{q.comp ? ` (${q.spec}/${q.comp})` : ''} · Q{q.question}</strong>
     <span>{q.marks} mark{q.marks === 1 ? '' : 's'}</span>
     {q.aoText && <span>{q.aoText.replace(/,/g, ', ')}</span>}
     {fmt && <span>{fmt}</span>}

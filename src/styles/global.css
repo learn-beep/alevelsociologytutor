@@ -325,3 +325,16 @@ blockquote.review footer { color: var(--ink-2); font-size: .9rem; }
 .qcard details.stem img.crop { margin: 0 .5rem .5rem; width: calc(100% - 1rem); }
 .spec-list b { font-weight: 600; }
 .spec-list ul { margin: .25rem 0 0 1rem; padding: 0; }
+
+/* Exam board switch (AQA at the root, Cambridge International under /cambridge/) */
+.board-switch { display: inline-flex; border: 1px solid var(--rule); border-radius: 999px; overflow: hidden; font-size: .8rem; font-weight: 700; flex-shrink: 0; }
+.board-switch a { padding: .2rem .6rem; text-decoration: none; color: inherit; }
+.board-switch a[aria-current="page"] { background: var(--accent); color: #fff; }
+.board-note { border: 1px solid var(--rule); border-left: 4px solid var(--accent); border-radius: .5rem; padding: .6rem .9rem; margin: 1rem 0; background: var(--paper); }
+@media (max-width: 480px) {
+  .brand { white-space: nowrap; font-size: .95rem; min-width: 0; overflow: hidden; }
+  .brand span { overflow: hidden; text-overflow: ellipsis; }
+  .site-header .wrap { gap: .5rem; }
+  .board-switch { font-size: .75rem; }
+  .board-switch a { padding: .2rem .5rem; }
+}

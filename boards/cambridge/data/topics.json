@@ -1,0 +1,1529 @@
+[
+{
+"slug": "socialisation-and-culture",
+"name": "Socialisation, culture and the social construction of reality",
+"code": "1.1",
+"group": "Paper 1: Socialisation and identity",
+"strand": "Paper 1: Socialisation and identity",
+"paper": "Paper 1: Socialisation and identity",
+"papers": [
+"Paper 1"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"1.1(a)",
+"1.1(b)",
+"1.1(c)"
+],
+"statementText": {
+"1.1(a)": "Culture, roles, norms, values, beliefs, customs, ideology, power and status as elements in the social construction of reality.",
+"1.1(b)": "The importance of socialisation in influencing human behaviour, including the nurture versus nature debate.",
+"1.1(c)": "Agencies of socialisation and social control, including family, education, peer group, media and religion."
+},
+"statementShort": {
+"1.1(a)": "",
+"1.1(b)": "",
+"1.1(c)": ""
+},
+"asStatements": [
+"1.1(a)",
+"1.1(b)",
+"1.1(c)"
+],
+"levels": {
+"1.1(a)": null,
+"1.1(b)": null,
+"1.1(c)": null
+},
+"parts": 54,
+"marks": 598,
+"essays": 10,
+"mcq": 0,
+"syllabusTopic": "Socialisation and the creation of social identity (Paper 1)"
+},
+{
+"slug": "social-control-and-deviance",
+"name": "Social control, conformity and resistance",
+"code": "1.2",
+"group": "Paper 1: Socialisation and identity",
+"strand": "Paper 1: Socialisation and identity",
+"paper": "Paper 1: Socialisation and identity",
+"papers": [
+"Paper 1"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"1.2(a)",
+"1.2(b)",
+"1.2(c)",
+"1.2(d)"
+],
+"statementText": {
+"1.2(a)": "The role of structure and agency in shaping the relationship between the individual and society, including an awareness of the differences between structuralist and interactionist views.",
+"1.2(b)": "Factors explaining why individuals conform to social expectations, including sanctions, social pressure, self-interest and social exchange.",
+"1.2(c)": "The mechanisms through which order is maintained, including power, ideology, force and consensus.",
+"1.2(d)": "How sociologists explain deviance and non-conformity, including subcultures, under-socialisation, marginalisation, cultural deprivation and social resistance."
+},
+"statementShort": {
+"1.2(a)": "",
+"1.2(b)": "",
+"1.2(c)": "",
+"1.2(d)": ""
+},
+"asStatements": [
+"1.2(a)",
+"1.2(b)",
+"1.2(c)",
+"1.2(d)"
+],
+"levels": {
+"1.2(a)": null,
+"1.2(b)": null,
+"1.2(c)": null,
+"1.2(d)": null
+},
+"parts": 28,
+"marks": 244,
+"essays": 2,
+"mcq": 0,
+"syllabusTopic": "Socialisation and the creation of social identity (Paper 1)"
+},
+{
+"slug": "social-identity",
+"name": "Social identity and change: class, gender, ethnicity and age",
+"code": "1.3",
+"group": "Paper 1: Socialisation and identity",
+"strand": "Paper 1: Socialisation and identity",
+"paper": "Paper 1: Socialisation and identity",
+"papers": [
+"Paper 1"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"1.3(a)",
+"1.3(b)"
+],
+"statementText": {
+"1.3(a)": "Social class, gender, ethnicity and age as elements in the construction of social identity.",
+"1.3(b)": "How social class, gender, ethnicity and age identities may be changing due to globalisation, increased choice and the creation of new/hybrid identities."
+},
+"statementShort": {
+"1.3(a)": "",
+"1.3(b)": ""
+},
+"asStatements": [
+"1.3(a)",
+"1.3(b)"
+],
+"levels": {
+"1.3(a)": null,
+"1.3(b)": null
+},
+"parts": 56,
+"marks": 768,
+"essays": 20,
+"mcq": 0,
+"syllabusTopic": "Socialisation and the creation of social identity (Paper 1)"
+},
+{
+"slug": "research-methods",
+"name": "Types of data, research methods and research design",
+"code": "2.1",
+"group": "Paper 1: Methods of research",
+"strand": "Paper 1: Methods of research",
+"paper": "Paper 1: Methods of research",
+"papers": [
+"Paper 1"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"2.1(a)",
+"2.1(b)",
+"2.1(c)",
+"2.1(d)",
+"2.1(e)"
+],
+"statementText": {
+"2.1(a)": "The differences between primary and secondary sources of data and between quantitative and qualitative data.",
+"2.1(b)": "The strengths and limitations of different secondary sources of data, including official statistics, personal documents, digital content and media sources.",
+"2.1(c)": "The strengths and limitations of different quantitative research methods, including questionnaires, structured interviews, experiments and content analysis.",
+"2.1(d)": "The strengths and limitations of different qualitative research methods, including overt and covert participant and non-participant observation, unstructured interviews, semi-structured interviews and group interviews.",
+"2.1(e)": "Stages of research design, including deciding on research strategy, formulating research questions and hypotheses, sampling frames, sampling techniques, pilot studies, operationalisation, conducting research and interpreting results."
+},
+"statementShort": {
+"2.1(a)": "",
+"2.1(b)": "",
+"2.1(c)": "",
+"2.1(d)": "",
+"2.1(e)": ""
+},
+"asStatements": [
+"2.1(a)",
+"2.1(b)",
+"2.1(c)",
+"2.1(d)",
+"2.1(e)"
+],
+"levels": {
+"2.1(a)": null,
+"2.1(b)": null,
+"2.1(c)": null,
+"2.1(d)": null,
+"2.1(e)": null
+},
+"parts": 65,
+"marks": 702,
+"essays": 16,
+"mcq": 0,
+"syllabusTopic": "Methods of research (Paper 1)"
+},
+{
+"slug": "positivism-and-interpretivism",
+"name": "Approaches to research: positivism, interpretivism and realism",
+"code": "2.2",
+"group": "Paper 1: Methods of research",
+"strand": "Paper 1: Methods of research",
+"paper": "Paper 1: Methods of research",
+"papers": [
+"Paper 1"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"2.2(a)",
+"2.2(b)",
+"2.2(c)",
+"2.2(d)",
+"2.2(e)"
+],
+"statementText": {
+"2.2(a)": "The use of approaches drawing on different research methods, including case studies, social surveys, ethnography and longitudinal studies.",
+"2.2(b)": "The mixed methods approach to research, including triangulation and methodological pluralism.",
+"2.2(c)": "The positivist approach, with reference to scientific method, objectivity, reliability and value-freedom.",
+"2.2(d)": "The interpretivist approach, with reference to verstehen, meaning, subjectivity and validity.",
+"2.2(e)": "The debates about whether sociology can/should be based on the methods and procedures of the natural sciences and the role of values in sociological research."
+},
+"statementShort": {
+"2.2(a)": "",
+"2.2(b)": "",
+"2.2(c)": "",
+"2.2(d)": "",
+"2.2(e)": ""
+},
+"asStatements": [
+"2.2(a)",
+"2.2(b)",
+"2.2(c)",
+"2.2(d)",
+"2.2(e)"
+],
+"levels": {
+"2.2(a)": null,
+"2.2(b)": null,
+"2.2(c)": null,
+"2.2(d)": null,
+"2.2(e)": null
+},
+"parts": 24,
+"marks": 418,
+"essays": 13,
+"mcq": 0,
+"syllabusTopic": "Methods of research (Paper 1)"
+},
+{
+"slug": "research-issues",
+"name": "Research issues: validity, reliability, ethics and bias",
+"code": "2.3",
+"group": "Paper 1: Methods of research",
+"strand": "Paper 1: Methods of research",
+"paper": "Paper 1: Methods of research",
+"papers": [
+"Paper 1"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"2.3(a)",
+"2.3(b)",
+"2.3(c)"
+],
+"statementText": {
+"2.3(a)": "The theoretical, practical and ethical considerations influencing the choice of topic, choice of method(s) and conduct of research.",
+"2.3(b)": "How research findings may be biased by the actions and values of the sociologist and by choices made in funding, designing and conducting the research.",
+"2.3(c)": "Validity, reliability, objectivity, representativeness and ethics as important concepts in assessing the value of different research methods."
+},
+"statementShort": {
+"2.3(a)": "",
+"2.3(b)": "",
+"2.3(c)": ""
+},
+"asStatements": [
+"2.3(a)",
+"2.3(b)",
+"2.3(c)"
+],
+"levels": {
+"2.3(a)": null,
+"2.3(b)": null,
+"2.3(c)": null
+},
+"parts": 30,
+"marks": 402,
+"essays": 9,
+"mcq": 0,
+"syllabusTopic": "Methods of research (Paper 1)"
+},
+{
+"slug": "perspectives-on-the-family",
+"name": "Perspectives on the role of the family",
+"code": "3.1",
+"group": "Paper 2: The family",
+"strand": "Paper 2: The family",
+"paper": "Paper 2: The family",
+"papers": [
+"Paper 2"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"3.1(a)",
+"3.1(b)",
+"3.1(c)"
+],
+"statementText": {
+"3.1(a)": "Functionalist accounts of how the family benefits its members and society and how the functions of families have changed over time, including the ‘loss of functions’ debate.",
+"3.1(b)": "Marxist accounts of how the family benefits capitalism, including ideological control, reproduction of labour and consumption.",
+"3.1(c)": "Feminist responses to functionalist and Marxist accounts of the role of the family."
+},
+"statementShort": {
+"3.1(a)": "",
+"3.1(b)": "",
+"3.1(c)": ""
+},
+"asStatements": [
+"3.1(a)",
+"3.1(b)",
+"3.1(c)"
+],
+"levels": {
+"3.1(a)": null,
+"3.1(b)": null,
+"3.1(c)": null
+},
+"parts": 50,
+"marks": 534,
+"essays": 10,
+"mcq": 0,
+"syllabusTopic": "Theories of the family and social change (Paper 2)"
+},
+{
+"slug": "family-diversity-and-change",
+"name": "Family diversity and social change",
+"code": "3.2",
+"group": "Paper 2: The family",
+"strand": "Paper 2: The family",
+"paper": "Paper 2: The family",
+"papers": [
+"Paper 2"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"3.2(a)",
+"3.2(b)",
+"3.2(c)",
+"3.2(d)",
+"3.2(e)",
+"3.2(f)"
+],
+"statementText": {
+"3.2(a)": "The causes and consequences of changing patterns of marriage, cohabitation, divorce and separation.",
+"3.2(b)": "Different family and household forms, including nuclear, extended, lone-parent, reconstituted and single- person households. If appropriate to the local context and not restricted by law or regulation, other family and household forms may also be taught, such as same-sex families and families of choice.",
+"3.2(c)": "Dimensions of family diversity, including organisational, cultural and class diversity.",
+"3.2(d)": "The debate about the extent of family diversity and the dominance of the nuclear family.",
+"3.2(e)": "New Right and postmodernist perspectives on family diversity.",
+"3.2(f)": "The state and social policy as influences on the family."
+},
+"statementShort": {
+"3.2(a)": "",
+"3.2(b)": "",
+"3.2(c)": "",
+"3.2(d)": "",
+"3.2(e)": "",
+"3.2(f)": ""
+},
+"asStatements": [
+"3.2(a)",
+"3.2(b)",
+"3.2(c)",
+"3.2(d)",
+"3.2(e)",
+"3.2(f)"
+],
+"levels": {
+"3.2(a)": null,
+"3.2(b)": null,
+"3.2(c)": null,
+"3.2(d)": null,
+"3.2(e)": null,
+"3.2(f)": null
+},
+"parts": 75,
+"marks": 946,
+"essays": 22,
+"mcq": 0,
+"syllabusTopic": "Theories of the family and social change (Paper 2)"
+},
+{
+"slug": "gender-roles-and-family-life",
+"name": "Gender equality and experiences of family life",
+"code": "4.1",
+"group": "Paper 2: The family",
+"strand": "Paper 2: The family",
+"paper": "Paper 2: The family",
+"papers": [
+"Paper 2"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"4.1(a)",
+"4.1(b)",
+"4.1(c)"
+],
+"statementText": {
+"4.1(a)": "Different feminist perspectives on equality and power in the family, including liberal, radical and Marxist feminist.",
+"4.1(b)": "Conjugal roles and debates about gender equality in the family, including housework, childcare, power and emotion work.",
+"4.1(c)": "Debates about whether the experience of family life is positive or negative for family members."
+},
+"statementShort": {
+"4.1(a)": "",
+"4.1(b)": "",
+"4.1(c)": ""
+},
+"asStatements": [
+"4.1(a)",
+"4.1(b)",
+"4.1(c)"
+],
+"levels": {
+"4.1(a)": null,
+"4.1(b)": null,
+"4.1(c)": null
+},
+"parts": 47,
+"marks": 614,
+"essays": 15,
+"mcq": 0,
+"syllabusTopic": "Family roles and changing relationships (Paper 2)"
+},
+{
+"slug": "childhood-and-age",
+"name": "Childhood, youth, old age and family life",
+"code": "4.2",
+"group": "Paper 2: The family",
+"strand": "Paper 2: The family",
+"paper": "Paper 2: The family",
+"papers": [
+"Paper 2"
+],
+"option": null,
+"asOrA": "AS and A level",
+"statements": [
+"4.2(a)",
+"4.2(b)",
+"4.2(c)",
+"4.2(d)"
+],
+"statementText": {
+"4.2(a)": "The social construction of childhood, and changes in the role and social position of children in the family.",
+"4.2(b)": "The role and social position of grandparents in the family, including cross-cultural comparisons and the impact of changing life expectancy upon the family.",
+"4.2(c)": "Social class, gender and ethnicity as factors affecting the experiences of children in the family.",
+"4.2(d)": "Changes in the concepts of motherhood and fatherhood."
+},
+"statementShort": {
+"4.2(a)": "",
+"4.2(b)": "",
+"4.2(c)": "",
+"4.2(d)": ""
+},
+"asStatements": [
+"4.2(a)",
+"4.2(b)",
+"4.2(c)",
+"4.2(d)"
+],
+"levels": {
+"4.2(a)": null,
+"4.2(b)": null,
+"4.2(c)": null,
+"4.2(d)": null
+},
+"parts": 45,
+"marks": 592,
+"essays": 16,
+"mcq": 0,
+"syllabusTopic": "Family roles and changing relationships (Paper 2)"
+},
+{
+"slug": "role-of-education",
+"name": "Theories about the role of education",
+"code": "5.1",
+"group": "Paper 3: Education",
+"strand": "Paper 3: Education",
+"paper": "Paper 3: Education",
+"papers": [
+"Paper 3"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"5.1(a)",
+"5.1(b)",
+"5.1(c)",
+"5.1(d)",
+"5.1(e)"
+],
+"statementText": {
+"5.1(a)": "Functionalist views about how education contributes to value consensus and social solidarity.",
+"5.1(b)": "Education and role allocation.",
+"5.1(c)": "Marxist views about how education contributes to the maintenance of the capitalist economic system.",
+"5.1(d)": "Education as an instrument of ideological control and cultural reproduction.",
+"5.1(e)": "New Right and social democratic views on the relationship between education and the economy."
+},
+"statementShort": {
+"5.1(a)": "",
+"5.1(b)": "",
+"5.1(c)": "",
+"5.1(d)": "",
+"5.1(e)": ""
+},
+"asStatements": [],
+"levels": {
+"5.1(a)": null,
+"5.1(b)": null,
+"5.1(c)": null,
+"5.1(d)": null,
+"5.1(e)": null
+},
+"parts": 36,
+"marks": 594,
+"essays": 17,
+"mcq": 0,
+"syllabusTopic": "Education and society (Paper 3)"
+},
+{
+"slug": "education-and-social-mobility",
+"name": "Education and social mobility",
+"code": "5.2",
+"group": "Paper 3: Education",
+"strand": "Paper 3: Education",
+"paper": "Paper 3: Education",
+"papers": [
+"Paper 3"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"5.2(a)",
+"5.2(b)",
+"5.2(c)",
+"5.2(d)"
+],
+"statementText": {
+"5.2(a)": "Equal opportunity and the idea of meritocracy.",
+"5.2(b)": "The extent to which education systems are meritocratic today.",
+"5.2(c)": "The importance of education in influencing life chances, and the consequences of educational under- achievement for the individual and for society.",
+"5.2(d)": "Evidence and arguments about the links between education and social mobility."
+},
+"statementShort": {
+"5.2(a)": "",
+"5.2(b)": "",
+"5.2(c)": "",
+"5.2(d)": ""
+},
+"asStatements": [],
+"levels": {
+"5.2(a)": null,
+"5.2(b)": null,
+"5.2(c)": null,
+"5.2(d)": null
+},
+"parts": 9,
+"marks": 164,
+"essays": 4,
+"mcq": 0,
+"syllabusTopic": "Education and society (Paper 3)"
+},
+{
+"slug": "curriculum",
+"name": "Influences on the curriculum",
+"code": "5.3",
+"group": "Paper 3: Education",
+"strand": "Paper 3: Education",
+"paper": "Paper 3: Education",
+"papers": [
+"Paper 3"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"5.3(a)",
+"5.3(b)",
+"5.3(c)",
+"5.3(d)"
+],
+"statementText": {
+"5.3(a)": "The social construction of knowledge.",
+"5.3(b)": "Factors influencing the content of the curriculum, including power, status, culture, economic demands, and gender.",
+"5.3(c)": "Education and cultural reproduction, including the ethnocentric curriculum, the gendered curriculum, and the hidden curriculum.",
+"5.3(d)": "The curriculum and the concept of cultural capital."
+},
+"statementShort": {
+"5.3(a)": "",
+"5.3(b)": "",
+"5.3(c)": "",
+"5.3(d)": ""
+},
+"asStatements": [],
+"levels": {
+"5.3(a)": null,
+"5.3(b)": null,
+"5.3(c)": null,
+"5.3(d)": null
+},
+"parts": 11,
+"marks": 126,
+"essays": 3,
+"mcq": 0,
+"syllabusTopic": "Education and society (Paper 3)"
+},
+{
+"slug": "intelligence-and-attainment",
+"name": "Intelligence and educational attainment",
+"code": "6.1",
+"group": "Paper 3: Education",
+"strand": "Paper 3: Education",
+"paper": "Paper 3: Education",
+"papers": [
+"Paper 3"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"6.1(a)",
+"6.1(b)",
+"6.1(c)"
+],
+"statementText": {
+"6.1(a)": "The difficulties in defining intelligence.",
+"6.1(b)": "IQ tests and the extent to which they are influenced by social factors.",
+"6.1(c)": "Intelligence as an influence on educational attainment."
+},
+"statementShort": {
+"6.1(a)": "",
+"6.1(b)": "",
+"6.1(c)": ""
+},
+"asStatements": [],
+"levels": {
+"6.1(a)": null,
+"6.1(b)": null,
+"6.1(c)": null
+},
+"parts": 8,
+"marks": 64,
+"essays": 0,
+"mcq": 0,
+"syllabusTopic": "Education and inequality (Paper 3)"
+},
+{
+"slug": "social-class-and-attainment",
+"name": "Social class and educational attainment",
+"code": "6.2",
+"group": "Paper 3: Education",
+"strand": "Paper 3: Education",
+"paper": "Paper 3: Education",
+"papers": [
+"Paper 3"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"6.2(a)",
+"6.2(b)",
+"6.2(c)",
+"6.2(d)"
+],
+"statementText": {
+"6.2(a)": "The relationship between material factors and educational attainment.",
+"6.2(b)": "Cultural explanations for patterns in social class and educational attainment, including parental attitudes, values, speech codes, and cultural capital.",
+"6.2(c)": "In-school factors, including labelling, ability grouping and pupil subcultures.",
+"6.2(d)": "Compensatory education programmes."
+},
+"statementShort": {
+"6.2(a)": "",
+"6.2(b)": "",
+"6.2(c)": "",
+"6.2(d)": ""
+},
+"asStatements": [],
+"levels": {
+"6.2(a)": null,
+"6.2(b)": null,
+"6.2(c)": null,
+"6.2(d)": null
+},
+"parts": 22,
+"marks": 204,
+"essays": 2,
+"mcq": 0,
+"syllabusTopic": "Education and inequality (Paper 3)"
+},
+{
+"slug": "ethnicity-and-attainment",
+"name": "Ethnicity and educational attainment",
+"code": "6.3",
+"group": "Paper 3: Education",
+"strand": "Paper 3: Education",
+"paper": "Paper 3: Education",
+"papers": [
+"Paper 3"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"6.3(a)",
+"6.3(b)",
+"6.3(c)",
+"6.3(d)"
+],
+"statementText": {
+"6.3(a)": "Racism in schools.",
+"6.3(b)": "Cultural explanations for patterns in ethnicity and educational attainment.",
+"6.3(c)": "Ethnicity and subcultures.",
+"6.3(d)": "The relationship between ethnicity, social class and gender."
+},
+"statementShort": {
+"6.3(a)": "",
+"6.3(b)": "",
+"6.3(c)": "",
+"6.3(d)": ""
+},
+"asStatements": [],
+"levels": {
+"6.3(a)": null,
+"6.3(b)": null,
+"6.3(c)": null,
+"6.3(d)": null
+},
+"parts": 17,
+"marks": 166,
+"essays": 1,
+"mcq": 0,
+"syllabusTopic": "Education and inequality (Paper 3)"
+},
+{
+"slug": "gender-and-attainment",
+"name": "Gender and educational attainment",
+"code": "6.4",
+"group": "Paper 3: Education",
+"strand": "Paper 3: Education",
+"paper": "Paper 3: Education",
+"papers": [
+"Paper 3"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"6.4(a)",
+"6.4(b)",
+"6.4(c)",
+"6.4(d)"
+],
+"statementText": {
+"6.4(a)": "The relationship between gender socialisation and educational attainment.",
+"6.4(b)": "Wider social changes and gendered educational achievement, including changing female expectations and the crisis of masculinity.",
+"6.4(c)": "Gender and subcultures.",
+"6.4(d)": "Teacher expectations and gendered behaviour in the classroom."
+},
+"statementShort": {
+"6.4(a)": "",
+"6.4(b)": "",
+"6.4(c)": "",
+"6.4(d)": ""
+},
+"asStatements": [],
+"levels": {
+"6.4(a)": null,
+"6.4(b)": null,
+"6.4(c)": null,
+"6.4(d)": null
+},
+"parts": 23,
+"marks": 238,
+"essays": 3,
+"mcq": 0,
+"syllabusTopic": "Education and inequality (Paper 3)"
+},
+{
+"slug": "perspectives-on-globalisation",
+"name": "Perspectives on globalisation",
+"code": "7.1",
+"group": "Paper 4: Globalisation",
+"strand": "Paper 4: Globalisation",
+"paper": "Paper 4: Globalisation",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"7.1(a)",
+"7.1(b)",
+"7.1(c)"
+],
+"statementText": {
+"7.1(a)": "Key definitions and issues, including globalisation, glocalisation, global culture, and problems with defining globalisation.",
+"7.1(b)": "Different dimensions of globalisation including cultural, political and economic.",
+"7.1(c)": "Perspectives on who benefits from globalisation, including the Marxist, feminist, postmodernist, globalist, sceptic and transformationalist perspectives."
+},
+"statementShort": {
+"7.1(a)": "",
+"7.1(b)": "",
+"7.1(c)": ""
+},
+"asStatements": [],
+"levels": {
+"7.1(a)": null,
+"7.1(b)": null,
+"7.1(c)": null
+},
+"parts": 6,
+"marks": 210,
+"essays": 6,
+"mcq": 0,
+"syllabusTopic": "Key debates, concepts and perspectives (Paper 4, Globalisation)"
+},
+{
+"slug": "globalisation-and-identity",
+"name": "Globalisation and identity",
+"code": "7.2",
+"group": "Paper 4: Globalisation",
+"strand": "Paper 4: Globalisation",
+"paper": "Paper 4: Globalisation",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"7.2(a)",
+"7.2(b)",
+"7.2(c)"
+],
+"statementText": {
+"7.2(a)": "The impact of globalisation on identity, including ethnic revitalisation, cultural defence and hybrid identity.",
+"7.2(b)": "Cultural divergence versus cultural convergence/homogenisation.",
+"7.2(c)": "The role of Western ideology in shaping identity and the concept of Westernisation."
+},
+"statementShort": {
+"7.2(a)": "",
+"7.2(b)": "",
+"7.2(c)": ""
+},
+"asStatements": [],
+"levels": {
+"7.2(a)": null,
+"7.2(b)": null,
+"7.2(c)": null
+},
+"parts": 9,
+"marks": 315,
+"essays": 9,
+"mcq": 0,
+"syllabusTopic": "Key debates, concepts and perspectives (Paper 4, Globalisation)"
+},
+{
+"slug": "globalisation-power-and-politics",
+"name": "Globalisation, power and politics",
+"code": "7.3",
+"group": "Paper 4: Globalisation",
+"strand": "Paper 4: Globalisation",
+"paper": "Paper 4: Globalisation",
+"papers": [],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"7.3(a)",
+"7.3(b)",
+"7.3(c)"
+],
+"statementText": {
+"7.3(a)": "The spread of liberal democracy and human rights.",
+"7.3(b)": "Global social movements and attempts to oppose globalisation.",
+"7.3(c)": "Debates about the role of the nation state in tackling global social and environmental problems."
+},
+"statementShort": {
+"7.3(a)": "",
+"7.3(b)": "",
+"7.3(c)": ""
+},
+"asStatements": [],
+"levels": {
+"7.3(a)": null,
+"7.3(b)": null,
+"7.3(c)": null
+},
+"parts": 0,
+"marks": 0,
+"essays": 0,
+"mcq": 0,
+"syllabusTopic": "Key debates, concepts and perspectives (Paper 4, Globalisation)"
+},
+{
+"slug": "global-poverty-and-inequality",
+"name": "Globalisation, poverty and inequalities",
+"code": "8.1",
+"group": "Paper 4: Globalisation",
+"strand": "Paper 4: Globalisation",
+"paper": "Paper 4: Globalisation",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"8.1(a)",
+"8.1(b)",
+"8.1(c)"
+],
+"statementText": {
+"8.1(a)": "Debates about the impact of globalisation on life chances in developing countries, in relation to education, income and health.",
+"8.1(b)": "The role of transnational organisations in tackling global inequalities and the extent to which they have been successful.",
+"8.1(c)": "Sociological explanations for global inequalities, including capitalism, colonialism, post-colonialism and patriarchy."
+},
+"statementShort": {
+"8.1(a)": "",
+"8.1(b)": "",
+"8.1(c)": ""
+},
+"asStatements": [],
+"levels": {
+"8.1(a)": null,
+"8.1(b)": null,
+"8.1(c)": null
+},
+"parts": 25,
+"marks": 875,
+"essays": 25,
+"mcq": 0,
+"syllabusTopic": "Contemporary issues (Paper 4, Globalisation)"
+},
+{
+"slug": "globalisation-and-migration",
+"name": "Globalisation and migration",
+"code": "8.2",
+"group": "Paper 4: Globalisation",
+"strand": "Paper 4: Globalisation",
+"paper": "Paper 4: Globalisation",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"8.2(a)",
+"8.2(b)",
+"8.2(c)"
+],
+"statementText": {
+"8.2(a)": "The causes of global migration, including immigration, emigration, net migration, push and pull factors, global labour patterns and tourism.",
+"8.2(b)": "The consequences of global migration, positive and negative, including cultural diversity, economic benefits, concerns over scarce resources and negative perceptions of migration.",
+"8.2(c)": "Debates about who benefits from migration."
+},
+"statementShort": {
+"8.2(a)": "",
+"8.2(b)": "",
+"8.2(c)": ""
+},
+"asStatements": [],
+"levels": {
+"8.2(a)": null,
+"8.2(b)": null,
+"8.2(c)": null
+},
+"parts": 11,
+"marks": 385,
+"essays": 11,
+"mcq": 0,
+"syllabusTopic": "Contemporary issues (Paper 4, Globalisation)"
+},
+{
+"slug": "globalisation-and-crime",
+"name": "Globalisation and crime",
+"code": "8.3",
+"group": "Paper 4: Globalisation",
+"strand": "Paper 4: Globalisation",
+"paper": "Paper 4: Globalisation",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"8.3(a)",
+"8.3(b)",
+"8.3(c)"
+],
+"statementText": {
+"8.3(a)": "Reasons for the emergence of global crimes, such as human trafficking, corporate crime and crimes against the environment.",
+"8.3(b)": "Explanations of who benefits from global crime, including Marxist and feminist perspectives.",
+"8.3(c)": "Policing and prosecuting global crime, including the benefits and challenges resulting from globalisation and new technology."
+},
+"statementShort": {
+"8.3(a)": "",
+"8.3(b)": "",
+"8.3(c)": ""
+},
+"asStatements": [],
+"levels": {
+"8.3(a)": null,
+"8.3(b)": null,
+"8.3(c)": null
+},
+"parts": 12,
+"marks": 420,
+"essays": 12,
+"mcq": 0,
+"syllabusTopic": "Contemporary issues (Paper 4, Globalisation)"
+},
+{
+"slug": "traditional-and-new-media",
+"name": "Traditional media and the new media",
+"code": "9.1",
+"group": "Paper 4: Media",
+"strand": "Paper 4: Media",
+"paper": "Paper 4: Media",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"9.1(a)",
+"9.1(b)",
+"9.1(c)",
+"9.1(d)"
+],
+"statementText": {
+"9.1(a)": "Trends affecting the organisation of the media, including cross-media ownership, digitalisation, media conglomerates and social media.",
+"9.1(b)": "Debates about who controls the media.",
+"9.1(c)": "Differences between the traditional media and the new media.",
+"9.1(d)": "The debate about whether the traditional media has been undermined by the growth of the new media."
+},
+"statementShort": {
+"9.1(a)": "",
+"9.1(b)": "",
+"9.1(c)": "",
+"9.1(d)": ""
+},
+"asStatements": [],
+"levels": {
+"9.1(a)": null,
+"9.1(b)": null,
+"9.1(c)": null,
+"9.1(d)": null
+},
+"parts": 11,
+"marks": 385,
+"essays": 11,
+"mcq": 0,
+"syllabusTopic": "Ownership and control of media (Paper 4, Media)"
+},
+{
+"slug": "media-ownership-and-control",
+"name": "Theories of the media and influences on media content",
+"code": "9.2",
+"group": "Paper 4: Media",
+"strand": "Paper 4: Media",
+"paper": "Paper 4: Media",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"9.2(a)",
+"9.2(b)",
+"9.2(c)",
+"9.2(d)",
+"9.2(e)",
+"9.2(f)",
+"9.2(g)"
+],
+"statementText": {
+"9.2(a)": "Pluralist theories of the media.",
+"9.2(b)": "Marxist and neo-Marxist theories of the media.",
+"9.2(c)": "Factors that influence the selection and presentation of news.",
+"9.2(d)": "The concepts of mass manipulation and hegemony as different ways of understanding the production of media content.",
+"9.2(e)": "The postmodernist contribution to understanding the media.",
+"9.2(f)": "Censorship as a factor influencing media content.",
+"9.2(g)": "How the media may influence the political process, including agenda setting, opinion polls, and news reporting."
+},
+"statementShort": {
+"9.2(a)": "",
+"9.2(b)": "",
+"9.2(c)": "",
+"9.2(d)": "",
+"9.2(e)": "",
+"9.2(f)": "",
+"9.2(g)": ""
+},
+"asStatements": [],
+"levels": {
+"9.2(a)": null,
+"9.2(b)": null,
+"9.2(c)": null,
+"9.2(d)": null,
+"9.2(e)": null,
+"9.2(f)": null,
+"9.2(g)": null
+},
+"parts": 23,
+"marks": 805,
+"essays": 23,
+"mcq": 0,
+"syllabusTopic": "Ownership and control of media (Paper 4, Media)"
+},
+{
+"slug": "impact-of-new-media",
+"name": "The impact of the new media",
+"code": "9.3",
+"group": "Paper 4: Media",
+"strand": "Paper 4: Media",
+"paper": "Paper 4: Media",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"9.3(a)",
+"9.3(b)",
+"9.3(c)",
+"9.3(d)"
+],
+"statementText": {
+"9.3(a)": "How the new media is contributing to globalisation.",
+"9.3(b)": "The new media as a challenge to existing power structures.",
+"9.3(c)": "The debate about digital optimism versus digital pessimism.",
+"9.3(d)": "The impact of the new media on social identities and interpersonal relationships."
+},
+"statementShort": {
+"9.3(a)": "",
+"9.3(b)": "",
+"9.3(c)": "",
+"9.3(d)": ""
+},
+"asStatements": [],
+"levels": {
+"9.3(a)": null,
+"9.3(b)": null,
+"9.3(c)": null,
+"9.3(d)": null
+},
+"parts": 9,
+"marks": 315,
+"essays": 9,
+"mcq": 0,
+"syllabusTopic": "Ownership and control of media (Paper 4, Media)"
+},
+{
+"slug": "media-representations",
+"name": "Media representations of class, gender, ethnicity and age",
+"code": "10.1",
+"group": "Paper 4: Media",
+"strand": "Paper 4: Media",
+"paper": "Paper 4: Media",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"10.1(a)",
+"10.1(b)",
+"10.1(c)",
+"10.1(d)"
+],
+"statementText": {
+"10.1(a)": "How different groups are represented in the media.",
+"10.1(b)": "Ways that the media contributes to gender socialisation.",
+"10.1(c)": "Moral panics around class, gender, ethnicity and age groups.",
+"10.1(d)": "The relationship between the media and popular culture."
+},
+"statementShort": {
+"10.1(a)": "",
+"10.1(b)": "",
+"10.1(c)": "",
+"10.1(d)": ""
+},
+"asStatements": [],
+"levels": {
+"10.1(a)": null,
+"10.1(b)": null,
+"10.1(c)": null,
+"10.1(d)": null
+},
+"parts": 6,
+"marks": 210,
+"essays": 6,
+"mcq": 0,
+"syllabusTopic": "Media representation and effects (Paper 4, Media)"
+},
+{
+"slug": "media-effects",
+"name": "Models of media effects",
+"code": "10.2",
+"group": "Paper 4: Media",
+"strand": "Paper 4: Media",
+"paper": "Paper 4: Media",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"10.2(a)",
+"10.2(b)",
+"10.2(c)",
+"10.2(d)"
+],
+"statementText": {
+"10.2(a)": "Direct effects models of media influence, including the hypodermic syringe model.",
+"10.2(b)": "Indirect effects models of media influence, including the uses and gratification model, the two-step flow model, the normative model and the cultural effects model.",
+"10.2(c)": "Debates about the strengths and limitations of the different models of media effects.",
+"10.2(d)": "Arguments and evidence about the extent to which human behaviour is influenced by the media."
+},
+"statementShort": {
+"10.2(a)": "",
+"10.2(b)": "",
+"10.2(c)": "",
+"10.2(d)": ""
+},
+"asStatements": [],
+"levels": {
+"10.2(a)": null,
+"10.2(b)": null,
+"10.2(c)": null,
+"10.2(d)": null
+},
+"parts": 20,
+"marks": 700,
+"essays": 20,
+"mcq": 0,
+"syllabusTopic": "Media representation and effects (Paper 4, Media)"
+},
+{
+"slug": "media-and-behaviour",
+"name": "The impact of the media on behaviour",
+"code": "10.3",
+"group": "Paper 4: Media",
+"strand": "Paper 4: Media",
+"paper": "Paper 4: Media",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"10.3(a)",
+"10.3(b)",
+"10.3(c)",
+"10.3(d)"
+],
+"statementText": {
+"10.3(a)": "Arguments and evidence about the extent to which violent media leads to violent behaviour.",
+"10.3(b)": "The impact of the media on crime, including deviance amplification and moral panics.",
+"10.3(c)": "Ways in which the media might have a positive impact on human behaviour.",
+"10.3(d)": "Ways in which people may be affected by media sensationalism and stereotyping."
+},
+"statementShort": {
+"10.3(a)": "",
+"10.3(b)": "",
+"10.3(c)": "",
+"10.3(d)": ""
+},
+"asStatements": [],
+"levels": {
+"10.3(a)": null,
+"10.3(b)": null,
+"10.3(c)": null,
+"10.3(d)": null
+},
+"parts": 1,
+"marks": 35,
+"essays": 1,
+"mcq": 0,
+"syllabusTopic": "Media representation and effects (Paper 4, Media)"
+},
+{
+"slug": "religion-and-society",
+"name": "Religion and society: definitions and theories",
+"code": "11.1",
+"group": "Paper 4: Religion",
+"strand": "Paper 4: Religion",
+"paper": "Paper 4: Religion",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"11.1(a)",
+"11.1(b)",
+"11.1(c)",
+"11.1(d)"
+],
+"statementText": {
+"11.1(a)": "Ways of defining religion.",
+"11.1(b)": "Difficulties in measuring religious belief.",
+"11.1(c)": "Social groups and religiosity, including class, gender, ethnicity and age.",
+"11.1(d)": "Religion and other belief systems."
+},
+"statementShort": {
+"11.1(a)": "",
+"11.1(b)": "",
+"11.1(c)": "",
+"11.1(d)": ""
+},
+"asStatements": [],
+"levels": {
+"11.1(a)": null,
+"11.1(b)": null,
+"11.1(c)": null,
+"11.1(d)": null
+},
+"parts": 6,
+"marks": 210,
+"essays": 6,
+"mcq": 0,
+"syllabusTopic": "Religion and social order (Paper 4, Religion)"
+},
+{
+"slug": "religion-and-social-order",
+"name": "Religion and social order",
+"code": "11.2",
+"group": "Paper 4: Religion",
+"strand": "Paper 4: Religion",
+"paper": "Paper 4: Religion",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"11.2(a)",
+"11.2(b)",
+"11.2(c)"
+],
+"statementText": {
+"11.2(a)": "Functionalist accounts of how religion contributes to social order and social solidarity.",
+"11.2(b)": "Marxist accounts of the relationship between religion, oppression and capitalism.",
+"11.2(c)": "Debates about the strengths and limitations of functionalist and Marxist perspectives on religion."
+},
+"statementShort": {
+"11.2(a)": "",
+"11.2(b)": "",
+"11.2(c)": ""
+},
+"asStatements": [],
+"levels": {
+"11.2(a)": null,
+"11.2(b)": null,
+"11.2(c)": null
+},
+"parts": 21,
+"marks": 735,
+"essays": 21,
+"mcq": 0,
+"syllabusTopic": "Religion and social order (Paper 4, Religion)"
+},
+{
+"slug": "religion-and-social-change",
+"name": "Religion as a source of social change",
+"code": "11.3",
+"group": "Paper 4: Religion",
+"strand": "Paper 4: Religion",
+"paper": "Paper 4: Religion",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"11.3(a)",
+"11.3(b)",
+"11.3(c)",
+"11.3(d)"
+],
+"statementText": {
+"11.3(a)": "Weber’s theory of the role of religion in the rise of capitalism.",
+"11.3(b)": "Alternative views about the relationship between religion and the origins of capitalism.",
+"11.3(c)": "Liberation theology as an example of religion acting as a vehicle for social change.",
+"11.3(d)": "The influence of religious movements on political debates and struggles, examined through case studies such as the Evangelical movement in US politics or the influence of the Ayatollahs in the Iranian revolution."
+},
+"statementShort": {
+"11.3(a)": "",
+"11.3(b)": "",
+"11.3(c)": "",
+"11.3(d)": ""
+},
+"asStatements": [],
+"levels": {
+"11.3(a)": null,
+"11.3(b)": null,
+"11.3(c)": null,
+"11.3(d)": null
+},
+"parts": 2,
+"marks": 70,
+"essays": 2,
+"mcq": 0,
+"syllabusTopic": "Religion and social order (Paper 4, Religion)"
+},
+{
+"slug": "secularisation",
+"name": "The secularisation debate",
+"code": "12.1",
+"group": "Paper 4: Religion",
+"strand": "Paper 4: Religion",
+"paper": "Paper 4: Religion",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"12.1(a)",
+"12.1(b)",
+"12.1(c)",
+"12.1(d)"
+],
+"statementText": {
+"12.1(a)": "The secularisation thesis.",
+"12.1(b)": "Evidence for a decline in religious belief.",
+"12.1(c)": "Discussions about whether rationalisation is leading to a decline in religious belief.",
+"12.1(d)": "Debates about whether religion has lost its social significance."
+},
+"statementShort": {
+"12.1(a)": "",
+"12.1(b)": "",
+"12.1(c)": "",
+"12.1(d)": ""
+},
+"asStatements": [],
+"levels": {
+"12.1(a)": null,
+"12.1(b)": null,
+"12.1(c)": null,
+"12.1(d)": null
+},
+"parts": 19,
+"marks": 665,
+"essays": 19,
+"mcq": 0,
+"syllabusTopic": "The influence of religion (Paper 4, Religion)"
+},
+{
+"slug": "gender-feminism-and-religion",
+"name": "Gender, feminism and religion",
+"code": "12.2",
+"group": "Paper 4: Religion",
+"strand": "Paper 4: Religion",
+"paper": "Paper 4: Religion",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"12.2(a)",
+"12.2(b)",
+"12.2(c)"
+],
+"statementText": {
+"12.2(a)": "Feminist perspectives on religion.",
+"12.2(b)": "Explanations for patriarchy and gender inequality in religion.",
+"12.2(c)": "Moves towards gender equality in religious organisations and evidence that religious practices may benefit women."
+},
+"statementShort": {
+"12.2(a)": "",
+"12.2(b)": "",
+"12.2(c)": ""
+},
+"asStatements": [],
+"levels": {
+"12.2(a)": null,
+"12.2(b)": null,
+"12.2(c)": null
+},
+"parts": 8,
+"marks": 280,
+"essays": 8,
+"mcq": 0,
+"syllabusTopic": "The influence of religion (Paper 4, Religion)"
+},
+{
+"slug": "religion-and-postmodernity",
+"name": "Religion and postmodernity",
+"code": "12.3",
+"group": "Paper 4: Religion",
+"strand": "Paper 4: Religion",
+"paper": "Paper 4: Religion",
+"papers": [
+"Paper 4"
+],
+"option": null,
+"asOrA": "A level only",
+"statements": [
+"12.3(a)",
+"12.3(b)",
+"12.3(c)",
+"12.3(d)",
+"12.3(e)"
+],
+"statementText": {
+"12.3(a)": "Discussions about whether there has been a growth in privatised religion.",
+"12.3(b)": "The concept of spiritual shopping and its contribution to understanding religiosity today.",
+"12.3(c)": "Debates about whether resacrilisation is a feature of post-modernity.",
+"12.3(d)": "The significance of new religious movements (NRMs) and New Age ideas for understanding the meaning and significance of religion today.",
+"12.3(e)": "Different explanations for the growth in fundamentalist religions, including cultural defence, cultural transition, disengagement, marginality, and religious revival. 4"
+},
+"statementShort": {
+"12.3(a)": "",
+"12.3(b)": "",
+"12.3(c)": "",
+"12.3(d)": "",
+"12.3(e)": ""
+},
+"asStatements": [],
+"levels": {
+"12.3(a)": null,
+"12.3(b)": null,
+"12.3(c)": null,
+"12.3(d)": null,
+"12.3(e)": null
+},
+"parts": 10,
+"marks": 350,
+"essays": 10,
+"mcq": 0,
+"syllabusTopic": "The influence of religion (Paper 4, Religion)"
+}
+]

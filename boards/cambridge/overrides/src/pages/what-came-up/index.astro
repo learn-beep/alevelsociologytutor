@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allPapers, byId, topicByslug, seriesRank } from '../../lib/data';
+const exams = allPapers.filter((p) => p.kind === 'exam');
+const latest = [...new Set(exams.map((p) => p.series))].sort((a, b) => seriesRank(b) - seriesRank(a))[0];
+const papers = exams.filter((p) => p.series === latest).sort((a, b) => a.paperNo.localeCompare(b.paperNo) || a.comp.localeCompare(b.comp));
+---
+<Base title={`What came up in Cambridge Sociology 9699 ${latest}: every question by topic and marks`} description={`Question-by-question summary of the ${latest} Cambridge International Sociology (9699) papers, every variant: topics, marks and essay questions.`} context="what-came-up" leadLine="Want next series' papers gone through topic by topic? Message us.">
+  <h1>What came up: {latest}</h1>
+  <p class="muted">{latest} is the latest series available publicly. Every variant sat in the series is shown; your school sat one of them.</p>
+  <p>The most recent series, question by question. Use it to see which topics carried the essays and which were examined only through the shorter questions; the <a href="/essays/">essays page</a> shows when each kind of essay was last set.</p>
+  {papers.map((p) => { const qs = p.questions.map((id) => byId.get(id)).filter(Boolean); const essays = qs.filter((q) => q.format === 'Essay'); return <>
+    <h2><a href={`/past-papers/${p.slug}/`}>{p.paper} ({p.spec}/{p.comp})</a> <span class="muted">({p.name}, {p.total} marks)</span></h2>
+    {p.reprints?.length > 0 && <p class="muted">{p.reprints.join(', ')} was a word-for-word reprint of this paper.</p>}
+    {essays.length > 0 && <p><strong>Essays:</strong> {essays.map((q, i) => <>{i ? '; ' : ''}{q.topics.map((t) => topicByslug.get(t)?.name).join(', ')} (Q{q.question})</>)}</p>}
+    <div class="table-wrap"><table><thead><tr><th>Q</th><th>Topic</th><th>Marks</th><th>Type</th></tr></thead>
+      <tbody>{qs.map((q) => <tr><td><a href={`/past-papers/${p.slug}/#${q.id}`}>{q.question}</a></td><td>{q.topics.map((t, i) => <>{i ? ', ' : ''}<a href={`/questions/${t}/`}>{topicByslug.get(t)?.name ?? t}</a></>)}</td><td>{q.marks}</td><td>{q.format}</td></tr>)}</tbody></table></div>
+  </>; })}
+  <p class="muted">This page regenerates when the next series is added.</p>
+</Base>

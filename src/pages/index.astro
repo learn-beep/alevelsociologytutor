@@ -13,6 +13,7 @@ const latest = allPapers.filter((p) => p.kind === 'exam').map((p) => p.series).s
 <Base title="AQA A-level Sociology: past-paper questions by topic, mark schemes and tutors" context="home" leadLine="Not sure where to start? Tell us the year group and target grade and we will arrange a trial session.">
   <h1>AQA A-level Sociology, one topic at a time</h1>
   <p>{current.toLocaleString()} question parts from {allPapers.length} AQA Sociology papers from June 2016 to {latest}, sorted by topic, with the Item, the mark scheme and the examiner's comment one tap away. Free, no sign-up.</p>
+  <p class="board-note">Studying the Cambridge International syllabus (9699)? Its papers, mark schemes and tools are in the <a href="/cambridge/">Cambridge section</a>.</p>
   <p class="muted">AQA A-level 7192 and AS 7191: Education, Theory and Methods, all eight Paper 2 options, and Crime and Deviance. The June 2026 papers will be added when AQA publishes them.</p>
 
   <div class="progress-box" id="progress" hidden>

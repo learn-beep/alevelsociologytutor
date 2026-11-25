@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import b from '../../data/boundaries.json';
+const grades = ['A*', 'A', 'B', 'C', 'D', 'E'];
+const opts = b.alevel.map((r) => ({ v: `${r.series}|${r.option}`, label: `${r.series}, option ${r.option} (papers ${r.papers.replace(/\//g, ', ')})` }));
+---
+<Base title="Cambridge A Level Sociology 9699 grade thresholds 2021–2025 and grade calculator" description="Every Cambridge International AS and A Level Sociology (9699) overall grade threshold since 2021, March, June and November, with a calculator that turns your four paper marks into a total, a grade and the marks you need for the next one." context="grade-boundaries" leadLine="Short of the grade you need? A tutor can work out exactly where the marks are.">
+  <h1>Grade thresholds and grade calculator</h1>
+  <p>Cambridge calls its boundaries grade thresholds. At A Level the four papers are out of 60, 60, 50 and 70, and their marks add up to Cambridge's maximum of 240. Thresholds differ between series and between the time-zone variants (an "option" is one set of variants, for example AY is papers 12, 22, 32 and 42), so use the last few as a range, not a target.</p>
+  <h2>Grade calculator</h2>
+  <div class="calc" id="calc">
+    <label>Paper 1 mark (out of 60) <input type="number" min="0" max="60" id="p1" inputmode="numeric" /></label>
+    <label>Paper 2 mark (out of 60) <input type="number" min="0" max="60" id="p2" inputmode="numeric" /></label>
+    <label>Paper 3 mark (out of 50) <input type="number" min="0" max="50" id="p3" inputmode="numeric" /></label>
+    <label>Paper 4 mark (out of 70) <input type="number" min="0" max="70" id="p4" inputmode="numeric" /></label>
+    <label>Compare with <select id="series">{opts.map((o) => <option value={o.v}>{o.label}</option>)}</select></label>
+    <div class="result" id="result">Enter your marks</div>
+    <div class="muted" id="next"></div>
+  </div>
+  <h2>A Level (9699), out of 240</h2>
+  <div class="table-wrap"><table><thead><tr><th>Series</th><th>Option (papers)</th>{grades.map((g) => <th>{g}</th>)}</tr></thead>
+    <tbody>{b.alevel.map((r) => <tr><td>{r.series}</td><td>{r.option} ({r.papers.replace(/\//g, ', ')})</td>{grades.map((g) => <td>{r[g]}</td>)}</tr>)}</tbody></table></div>
+  <p class="muted">{b.source}</p>
+  <h2>AS Level (Papers 1 and 2), out of 120</h2>
+  <div class="table-wrap"><table><thead><tr><th>Series</th><th>Option (papers)</th>{grades.slice(1).map((g) => <th>{g}</th>)}</tr></thead>
+    <tbody>{b.as.map((r) => <tr><td>{r.series}</td><td>{r.option} ({r.papers.replace(/\//g, ', ')})</td>{grades.slice(1).map((g) => <td>{r[g]}</td>)}</tr>)}</tbody></table></div>
+  <p class="muted">Each series also has options for candidates who carry forward an AS result or take the A Level in stages; they are in Cambridge's threshold documents and are not repeated here. The June 2026 thresholds will be added with the June 2026 papers.</p>
+  <script define:vars={{ rows: b.alevel }}>
+    const ids = ['p1', 'p2', 'p3', 'p4'];
+    const out = document.getElementById('result'), next = document.getElementById('next'), sel = document.getElementById('series');
+    const grades = ['A*', 'A', 'B', 'C', 'D', 'E'];
+    function update() {
+      const marks = ids.map((i) => Number(document.getElementById(i).value));
+      if (marks.some((m) => Number.isNaN(m)) || marks.every((m) => m === 0)) { out.textContent = 'Enter your marks'; next.textContent = ''; return; }
+      const total = marks.reduce((a, c) => a + c, 0);
+      const [series, option] = sel.value.split('|');
+      const row = rows.find((r) => r.series === series && r.option === option);
+      let grade = 'U';
+      for (const g of grades) { if (total >= row[g]) { grade = g; break; } }
+      const label = `${row.series} option ${row.option}`;
+      if (grade === 'A*') { out.textContent = `${total}/240: grade A* on ${label} thresholds`; next.textContent = `${total - row['A*']} marks above the A* threshold.`; return; }
+      const idx = grades.indexOf(grade); const nextGrade = idx === -1 ? 'E' : grades[idx - 1]; const need = row[nextGrade] - total;
+      out.textContent = `${total}/240: grade ${grade} on ${label} thresholds`;
+      next.textContent = `${need} more mark${need === 1 ? '' : 's'} for ${/^[AE]/.test(nextGrade) ? 'an' : 'a'} ${nextGrade}.`;
+    }
+    [...ids.map((i) => document.getElementById(i)), sel].forEach((el) => el.addEventListener('input', update));
+  </script>
+</Base>

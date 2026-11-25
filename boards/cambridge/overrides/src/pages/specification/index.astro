@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hint from '../../components/Hint.astro';
+import spec from '../../data/spec.json';
+const sections = spec.filter((s) => s.statements.length);
+const topicsByCode = Object.fromEntries(spec.filter((s) => !s.code.includes('.')).map((s) => [s.code, s.title]));
+const total = sections.reduce((n, s) => n + s.statements.length, 0);
+const papers = [[1, 'Paper 1: Socialisation, Identity and Methods of Research (AS Level)', [1, 2]], [2, 'Paper 2: The Family (AS Level)', [3, 4]], [3, 'Paper 3: Education (A Level)', [5, 6]], [4, 'Paper 4: Globalisation, Media and Religion (A Level)', [7, 8, 9, 10, 11, 12]]];
+---
+<Base title="Cambridge International AS & A Level Sociology 9699 syllabus checklist, tickable" description="Every content point of the Cambridge International AS and A Level Sociology (9699) syllabus for 2024 to 2026 as a tickable checklist, with links to the past-paper questions for each sub-topic." context="specification" leadLine="Big gaps on the checklist? A tutor can plan the order to close them.">
+  <h1>Syllabus checklist</h1>
+  <p>Every content point in the Cambridge International AS and A Level Sociology syllabus (9699, for 2024, 2025 and 2026), in Cambridge's own words. Tick what you're confident with; ticks are saved in this browser only. Topics 1 to 4 are the AS Level (Papers 1 and 2); topics 5 to 12 are the A Level papers. On Paper 4, candidates answer two essays from different sections, so most students revise two of Globalisation, Media and Religion in depth.</p>
+  <p class="muted">The 2027–2028 syllabus has the same content. Cambridge's updates to the 2024–2026 syllabus added guidance on family forms (3.2) and changed the weighting of Papers 3 and 4 (21% and 29% of the A Level).</p>
+  <Hint id="ticks" text="Ticks are saved in this browser only. The revision planner uses them to pick your weak topics." />
+  <p class="muted"><span id="done">0</span> of {total} ticked · <button class="chip" type="button" id="clear">Clear my ticks</button></p>
+  {papers.map(([n, h, tops]) => (
+    <>
+      <h2 class="strand-head">{h}</h2>
+      {tops.map((t) => (
+        <>
+          <h3>Topic {t}: {topicsByCode[String(t)].replace(/ \(Paper.*$/, '')}</h3>
+          {sections.filter((s) => s.code.split('.')[0] === String(t)).map((s) => (
+            <section>
+              <h4>{s.code} {s.title} {s.topic && <a class="small-text" href={`/questions/${s.topic}/`}>questions</a>}</h4>
+              <ul class="spec-list">
+                {s.statements.map((st) => (
+                  <li><label><input type="checkbox" data-spec={st.id} /><span><strong>{st.id.replace(/^[\d.]+/, '')}</strong> {st.text}{st.guidance && <span class="muted small-text"> {st.guidance}</span>}</span></label></li>
+                ))}
+              </ul>
+            </section>
+          ))}
+        </>
+      ))}
+    </>
+  ))}
+  <script>
+    const KEY = 'malt-cie-spec';
+    const boxes = document.querySelectorAll('input[data-spec]');
+    const done = document.getElementById('done');
+    let state = {};
+    try { state = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch {}
+    const paint = () => { let n = 0; boxes.forEach((b) => { b.checked = !!state[b.dataset.spec]; if (b.checked) n++; }); done.textContent = String(n); };
+    boxes.forEach((b) => b.addEventListener('change', () => { state[b.dataset.spec] = b.checked; try { localStorage.setItem(KEY, JSON.stringify(state)); } catch {} paint(); }));
+    document.getElementById('clear').addEventListener('click', () => { state = {}; try { localStorage.removeItem(KEY); } catch {} paint(); });
+    paint();
+  </script>
+</Base>

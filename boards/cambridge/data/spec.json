@@ -1,0 +1,1619 @@
+[
+{
+"code": "1",
+"title": "Socialisation and the creation of social identity (Paper 1)",
+"paper": 1,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "2",
+"title": "Methods of research (Paper 1)",
+"paper": 1,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "3",
+"title": "Theories of the family and social change (Paper 2)",
+"paper": 2,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "4",
+"title": "Family roles and changing relationships (Paper 2)",
+"paper": 2,
+"aLevelOnly": false,
+"topic": null,
+"statements": []
+},
+{
+"code": "5",
+"title": "Education and society (Paper 3)",
+"paper": 3,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "6",
+"title": "Education and inequality (Paper 3)",
+"paper": 3,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "7",
+"title": "Key debates, concepts and perspectives (Paper 4, Globalisation)",
+"paper": 4,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "8",
+"title": "Contemporary issues (Paper 4, Globalisation)",
+"paper": 4,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "9",
+"title": "Ownership and control of media (Paper 4, Media)",
+"paper": 4,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "10",
+"title": "Media representation and effects (Paper 4, Media)",
+"paper": 4,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "11",
+"title": "Religion and social order (Paper 4, Religion)",
+"paper": 4,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "12",
+"title": "The influence of religion (Paper 4, Religion)",
+"paper": 4,
+"aLevelOnly": true,
+"topic": null,
+"statements": []
+},
+{
+"code": "1.1",
+"title": "The process of learning and socialisation",
+"paper": 1,
+"aLevelOnly": false,
+"topic": "socialisation-and-culture",
+"statements": [
+{
+"id": "1.1(a)",
+"text": "Culture, roles, norms, values, beliefs, customs, ideology, power and status as elements in the social construction of reality.",
+"guidance": "",
+"as": true,
+"topics": [
+"socialisation-and-culture"
+]
+},
+{
+"id": "1.1(b)",
+"text": "The importance of socialisation in influencing human behaviour, including the nurture versus nature debate.",
+"guidance": "",
+"as": true,
+"topics": [
+"socialisation-and-culture"
+]
+},
+{
+"id": "1.1(c)",
+"text": "Agencies of socialisation and social control, including family, education, peer group, media and religion.",
+"guidance": "",
+"as": true,
+"topics": [
+"socialisation-and-culture"
+]
+}
+]
+},
+{
+"code": "1.2",
+"title": "Social control, conformity and resistance",
+"paper": 1,
+"aLevelOnly": false,
+"topic": "social-control-and-deviance",
+"statements": [
+{
+"id": "1.2(a)",
+"text": "The role of structure and agency in shaping the relationship between the individual and society, including an awareness of the differences between structuralist and interactionist views.",
+"guidance": "",
+"as": true,
+"topics": [
+"social-control-and-deviance"
+]
+},
+{
+"id": "1.2(b)",
+"text": "Factors explaining why individuals conform to social expectations, including sanctions, social pressure, self-interest and social exchange.",
+"guidance": "",
+"as": true,
+"topics": [
+"social-control-and-deviance"
+]
+},
+{
+"id": "1.2(c)",
+"text": "The mechanisms through which order is maintained, including power, ideology, force and consensus.",
+"guidance": "",
+"as": true,
+"topics": [
+"social-control-and-deviance"
+]
+},
+{
+"id": "1.2(d)",
+"text": "How sociologists explain deviance and non-conformity, including subcultures, under-socialisation, marginalisation, cultural deprivation and social resistance.",
+"guidance": "",
+"as": true,
+"topics": [
+"social-control-and-deviance"
+]
+}
+]
+},
+{
+"code": "1.3",
+"title": "Social identity and change",
+"paper": 1,
+"aLevelOnly": false,
+"topic": "social-identity",
+"statements": [
+{
+"id": "1.3(a)",
+"text": "Social class, gender, ethnicity and age as elements in the construction of social identity.",
+"guidance": "",
+"as": true,
+"topics": [
+"social-identity"
+]
+},
+{
+"id": "1.3(b)",
+"text": "How social class, gender, ethnicity and age identities may be changing due to globalisation, increased choice and the creation of new/hybrid identities.",
+"guidance": "",
+"as": true,
+"topics": [
+"social-identity"
+]
+}
+]
+},
+{
+"code": "2.1",
+"title": "Types of data, methods and research design",
+"paper": 1,
+"aLevelOnly": false,
+"topic": "research-methods",
+"statements": [
+{
+"id": "2.1(a)",
+"text": "The differences between primary and secondary sources of data and between quantitative and qualitative data.",
+"guidance": "",
+"as": true,
+"topics": [
+"research-methods"
+]
+},
+{
+"id": "2.1(b)",
+"text": "The strengths and limitations of different secondary sources of data, including official statistics, personal documents, digital content and media sources.",
+"guidance": "",
+"as": true,
+"topics": [
+"research-methods"
+]
+},
+{
+"id": "2.1(c)",
+"text": "The strengths and limitations of different quantitative research methods, including questionnaires, structured interviews, experiments and content analysis.",
+"guidance": "",
+"as": true,
+"topics": [
+"research-methods"
+]
+},
+{
+"id": "2.1(d)",
+"text": "The strengths and limitations of different qualitative research methods, including overt and covert participant and non-participant observation, unstructured interviews, semi-structured interviews and group interviews.",
+"guidance": "",
+"as": true,
+"topics": [
+"research-methods"
+]
+},
+{
+"id": "2.1(e)",
+"text": "Stages of research design, including deciding on research strategy, formulating research questions and hypotheses, sampling frames, sampling techniques, pilot studies, operationalisation, conducting research and interpreting results.",
+"guidance": "",
+"as": true,
+"topics": [
+"research-methods"
+]
+}
+]
+},
+{
+"code": "2.2",
+"title": "Approaches to sociological research",
+"paper": 1,
+"aLevelOnly": false,
+"topic": "positivism-and-interpretivism",
+"statements": [
+{
+"id": "2.2(a)",
+"text": "The use of approaches drawing on different research methods, including case studies, social surveys, ethnography and longitudinal studies.",
+"guidance": "",
+"as": true,
+"topics": [
+"positivism-and-interpretivism"
+]
+},
+{
+"id": "2.2(b)",
+"text": "The mixed methods approach to research, including triangulation and methodological pluralism.",
+"guidance": "",
+"as": true,
+"topics": [
+"positivism-and-interpretivism"
+]
+},
+{
+"id": "2.2(c)",
+"text": "The positivist approach, with reference to scientific method, objectivity, reliability and value-freedom.",
+"guidance": "",
+"as": true,
+"topics": [
+"positivism-and-interpretivism"
+]
+},
+{
+"id": "2.2(d)",
+"text": "The interpretivist approach, with reference to verstehen, meaning, subjectivity and validity.",
+"guidance": "",
+"as": true,
+"topics": [
+"positivism-and-interpretivism"
+]
+},
+{
+"id": "2.2(e)",
+"text": "The debates about whether sociology can/should be based on the methods and procedures of the natural sciences and the role of values in sociological research.",
+"guidance": "",
+"as": true,
+"topics": [
+"positivism-and-interpretivism"
+]
+}
+]
+},
+{
+"code": "2.3",
+"title": "Research issues",
+"paper": 1,
+"aLevelOnly": false,
+"topic": "research-issues",
+"statements": [
+{
+"id": "2.3(a)",
+"text": "The theoretical, practical and ethical considerations influencing the choice of topic, choice of method(s) and conduct of research.",
+"guidance": "",
+"as": true,
+"topics": [
+"research-issues"
+]
+},
+{
+"id": "2.3(b)",
+"text": "How research findings may be biased by the actions and values of the sociologist and by choices made in funding, designing and conducting the research.",
+"guidance": "",
+"as": true,
+"topics": [
+"research-issues"
+]
+},
+{
+"id": "2.3(c)",
+"text": "Validity, reliability, objectivity, representativeness and ethics as important concepts in assessing the value of different research methods.",
+"guidance": "",
+"as": true,
+"topics": [
+"research-issues"
+]
+}
+]
+},
+{
+"code": "3.1",
+"title": "Perspectives on the role of the family",
+"paper": 2,
+"aLevelOnly": false,
+"topic": "perspectives-on-the-family",
+"statements": [
+{
+"id": "3.1(a)",
+"text": "Functionalist accounts of how the family benefits its members and society and how the functions of families have changed over time, including the ‘loss of functions’ debate.",
+"guidance": "",
+"as": true,
+"topics": [
+"perspectives-on-the-family"
+]
+},
+{
+"id": "3.1(b)",
+"text": "Marxist accounts of how the family benefits capitalism, including ideological control, reproduction of labour and consumption.",
+"guidance": "",
+"as": true,
+"topics": [
+"perspectives-on-the-family"
+]
+},
+{
+"id": "3.1(c)",
+"text": "Feminist responses to functionalist and Marxist accounts of the role of the family.",
+"guidance": "",
+"as": true,
+"topics": [
+"perspectives-on-the-family"
+]
+}
+]
+},
+{
+"code": "3.2",
+"title": "Diversity and social change",
+"paper": 2,
+"aLevelOnly": false,
+"topic": "family-diversity-and-change",
+"statements": [
+{
+"id": "3.2(a)",
+"text": "The causes and consequences of changing patterns of marriage, cohabitation, divorce and separation.",
+"guidance": "",
+"as": true,
+"topics": [
+"family-diversity-and-change"
+]
+},
+{
+"id": "3.2(b)",
+"text": "Different family and household forms, including nuclear, extended, lone-parent, reconstituted and single- person households. If appropriate to the local context and not restricted by law or regulation, other family and household forms may also be taught, such as same-sex families and families of choice.",
+"guidance": "",
+"as": true,
+"topics": [
+"family-diversity-and-change"
+]
+},
+{
+"id": "3.2(c)",
+"text": "Dimensions of family diversity, including organisational, cultural and class diversity.",
+"guidance": "",
+"as": true,
+"topics": [
+"family-diversity-and-change"
+]
+},
+{
+"id": "3.2(d)",
+"text": "The debate about the extent of family diversity and the dominance of the nuclear family.",
+"guidance": "",
+"as": true,
+"topics": [
+"family-diversity-and-change"
+]
+},
+{
+"id": "3.2(e)",
+"text": "New Right and postmodernist perspectives on family diversity.",
+"guidance": "",
+"as": true,
+"topics": [
+"family-diversity-and-change"
+]
+},
+{
+"id": "3.2(f)",
+"text": "The state and social policy as influences on the family.",
+"guidance": "",
+"as": true,
+"topics": [
+"family-diversity-and-change"
+]
+}
+]
+},
+{
+"code": "4.1",
+"title": "Gender equality and experiences of family life",
+"paper": 2,
+"aLevelOnly": false,
+"topic": "gender-roles-and-family-life",
+"statements": [
+{
+"id": "4.1(a)",
+"text": "Different feminist perspectives on equality and power in the family, including liberal, radical and Marxist feminist.",
+"guidance": "",
+"as": true,
+"topics": [
+"gender-roles-and-family-life"
+]
+},
+{
+"id": "4.1(b)",
+"text": "Conjugal roles and debates about gender equality in the family, including housework, childcare, power and emotion work.",
+"guidance": "",
+"as": true,
+"topics": [
+"gender-roles-and-family-life"
+]
+},
+{
+"id": "4.1(c)",
+"text": "Debates about whether the experience of family life is positive or negative for family members.",
+"guidance": "",
+"as": true,
+"topics": [
+"gender-roles-and-family-life"
+]
+}
+]
+},
+{
+"code": "4.2",
+"title": "Age and family life",
+"paper": 2,
+"aLevelOnly": false,
+"topic": "childhood-and-age",
+"statements": [
+{
+"id": "4.2(a)",
+"text": "The social construction of childhood, and changes in the role and social position of children in the family.",
+"guidance": "",
+"as": true,
+"topics": [
+"childhood-and-age"
+]
+},
+{
+"id": "4.2(b)",
+"text": "The role and social position of grandparents in the family, including cross-cultural comparisons and the impact of changing life expectancy upon the family.",
+"guidance": "",
+"as": true,
+"topics": [
+"childhood-and-age"
+]
+},
+{
+"id": "4.2(c)",
+"text": "Social class, gender and ethnicity as factors affecting the experiences of children in the family.",
+"guidance": "",
+"as": true,
+"topics": [
+"childhood-and-age"
+]
+},
+{
+"id": "4.2(d)",
+"text": "Changes in the concepts of motherhood and fatherhood.",
+"guidance": "",
+"as": true,
+"topics": [
+"childhood-and-age"
+]
+}
+]
+},
+{
+"code": "5.1",
+"title": "Theories about the role of education",
+"paper": 3,
+"aLevelOnly": true,
+"topic": "role-of-education",
+"statements": [
+{
+"id": "5.1(a)",
+"text": "Functionalist views about how education contributes to value consensus and social solidarity.",
+"guidance": "",
+"as": false,
+"topics": [
+"role-of-education"
+]
+},
+{
+"id": "5.1(b)",
+"text": "Education and role allocation.",
+"guidance": "",
+"as": false,
+"topics": [
+"role-of-education"
+]
+},
+{
+"id": "5.1(c)",
+"text": "Marxist views about how education contributes to the maintenance of the capitalist economic system.",
+"guidance": "",
+"as": false,
+"topics": [
+"role-of-education"
+]
+},
+{
+"id": "5.1(d)",
+"text": "Education as an instrument of ideological control and cultural reproduction.",
+"guidance": "",
+"as": false,
+"topics": [
+"role-of-education"
+]
+},
+{
+"id": "5.1(e)",
+"text": "New Right and social democratic views on the relationship between education and the economy.",
+"guidance": "",
+"as": false,
+"topics": [
+"role-of-education"
+]
+}
+]
+},
+{
+"code": "5.2",
+"title": "Education and social mobility",
+"paper": 3,
+"aLevelOnly": true,
+"topic": "education-and-social-mobility",
+"statements": [
+{
+"id": "5.2(a)",
+"text": "Equal opportunity and the idea of meritocracy.",
+"guidance": "",
+"as": false,
+"topics": [
+"education-and-social-mobility"
+]
+},
+{
+"id": "5.2(b)",
+"text": "The extent to which education systems are meritocratic today.",
+"guidance": "",
+"as": false,
+"topics": [
+"education-and-social-mobility"
+]
+},
+{
+"id": "5.2(c)",
+"text": "The importance of education in influencing life chances, and the consequences of educational under- achievement for the individual and for society.",
+"guidance": "",
+"as": false,
+"topics": [
+"education-and-social-mobility"
+]
+},
+{
+"id": "5.2(d)",
+"text": "Evidence and arguments about the links between education and social mobility.",
+"guidance": "",
+"as": false,
+"topics": [
+"education-and-social-mobility"
+]
+}
+]
+},
+{
+"code": "5.3",
+"title": "Influences on the curriculum",
+"paper": 3,
+"aLevelOnly": true,
+"topic": "curriculum",
+"statements": [
+{
+"id": "5.3(a)",
+"text": "The social construction of knowledge.",
+"guidance": "",
+"as": false,
+"topics": [
+"curriculum"
+]
+},
+{
+"id": "5.3(b)",
+"text": "Factors influencing the content of the curriculum, including power, status, culture, economic demands, and gender.",
+"guidance": "",
+"as": false,
+"topics": [
+"curriculum"
+]
+},
+{
+"id": "5.3(c)",
+"text": "Education and cultural reproduction, including the ethnocentric curriculum, the gendered curriculum, and the hidden curriculum.",
+"guidance": "",
+"as": false,
+"topics": [
+"curriculum"
+]
+},
+{
+"id": "5.3(d)",
+"text": "The curriculum and the concept of cultural capital.",
+"guidance": "",
+"as": false,
+"topics": [
+"curriculum"
+]
+}
+]
+},
+{
+"code": "6.1",
+"title": "Intelligence and educational attainment",
+"paper": 3,
+"aLevelOnly": true,
+"topic": "intelligence-and-attainment",
+"statements": [
+{
+"id": "6.1(a)",
+"text": "The difficulties in defining intelligence.",
+"guidance": "",
+"as": false,
+"topics": [
+"intelligence-and-attainment"
+]
+},
+{
+"id": "6.1(b)",
+"text": "IQ tests and the extent to which they are influenced by social factors.",
+"guidance": "",
+"as": false,
+"topics": [
+"intelligence-and-attainment"
+]
+},
+{
+"id": "6.1(c)",
+"text": "Intelligence as an influence on educational attainment.",
+"guidance": "",
+"as": false,
+"topics": [
+"intelligence-and-attainment"
+]
+}
+]
+},
+{
+"code": "6.2",
+"title": "Social class and educational attainment",
+"paper": 3,
+"aLevelOnly": true,
+"topic": "social-class-and-attainment",
+"statements": [
+{
+"id": "6.2(a)",
+"text": "The relationship between material factors and educational attainment.",
+"guidance": "",
+"as": false,
+"topics": [
+"social-class-and-attainment"
+]
+},
+{
+"id": "6.2(b)",
+"text": "Cultural explanations for patterns in social class and educational attainment, including parental attitudes, values, speech codes, and cultural capital.",
+"guidance": "",
+"as": false,
+"topics": [
+"social-class-and-attainment"
+]
+},
+{
+"id": "6.2(c)",
+"text": "In-school factors, including labelling, ability grouping and pupil subcultures.",
+"guidance": "",
+"as": false,
+"topics": [
+"social-class-and-attainment"
+]
+},
+{
+"id": "6.2(d)",
+"text": "Compensatory education programmes.",
+"guidance": "",
+"as": false,
+"topics": [
+"social-class-and-attainment"
+]
+}
+]
+},
+{
+"code": "6.3",
+"title": "Ethnicity and educational attainment",
+"paper": 3,
+"aLevelOnly": true,
+"topic": "ethnicity-and-attainment",
+"statements": [
+{
+"id": "6.3(a)",
+"text": "Racism in schools.",
+"guidance": "",
+"as": false,
+"topics": [
+"ethnicity-and-attainment"
+]
+},
+{
+"id": "6.3(b)",
+"text": "Cultural explanations for patterns in ethnicity and educational attainment.",
+"guidance": "",
+"as": false,
+"topics": [
+"ethnicity-and-attainment"
+]
+},
+{
+"id": "6.3(c)",
+"text": "Ethnicity and subcultures.",
+"guidance": "",
+"as": false,
+"topics": [
+"ethnicity-and-attainment"
+]
+},
+{
+"id": "6.3(d)",
+"text": "The relationship between ethnicity, social class and gender.",
+"guidance": "",
+"as": false,
+"topics": [
+"ethnicity-and-attainment"
+]
+}
+]
+},
+{
+"code": "6.4",
+"title": "Gender and educational attainment",
+"paper": 3,
+"aLevelOnly": true,
+"topic": "gender-and-attainment",
+"statements": [
+{
+"id": "6.4(a)",
+"text": "The relationship between gender socialisation and educational attainment.",
+"guidance": "",
+"as": false,
+"topics": [
+"gender-and-attainment"
+]
+},
+{
+"id": "6.4(b)",
+"text": "Wider social changes and gendered educational achievement, including changing female expectations and the crisis of masculinity.",
+"guidance": "",
+"as": false,
+"topics": [
+"gender-and-attainment"
+]
+},
+{
+"id": "6.4(c)",
+"text": "Gender and subcultures.",
+"guidance": "",
+"as": false,
+"topics": [
+"gender-and-attainment"
+]
+},
+{
+"id": "6.4(d)",
+"text": "Teacher expectations and gendered behaviour in the classroom.",
+"guidance": "",
+"as": false,
+"topics": [
+"gender-and-attainment"
+]
+}
+]
+},
+{
+"code": "7.1",
+"title": "Perspectives on globalisation",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "perspectives-on-globalisation",
+"statements": [
+{
+"id": "7.1(a)",
+"text": "Key definitions and issues, including globalisation, glocalisation, global culture, and problems with defining globalisation.",
+"guidance": "",
+"as": false,
+"topics": [
+"perspectives-on-globalisation"
+]
+},
+{
+"id": "7.1(b)",
+"text": "Different dimensions of globalisation including cultural, political and economic.",
+"guidance": "",
+"as": false,
+"topics": [
+"perspectives-on-globalisation"
+]
+},
+{
+"id": "7.1(c)",
+"text": "Perspectives on who benefits from globalisation, including the Marxist, feminist, postmodernist, globalist, sceptic and transformationalist perspectives.",
+"guidance": "",
+"as": false,
+"topics": [
+"perspectives-on-globalisation"
+]
+}
+]
+},
+{
+"code": "7.2",
+"title": "Globalisation and identity",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "globalisation-and-identity",
+"statements": [
+{
+"id": "7.2(a)",
+"text": "The impact of globalisation on identity, including ethnic revitalisation, cultural defence and hybrid identity.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-identity"
+]
+},
+{
+"id": "7.2(b)",
+"text": "Cultural divergence versus cultural convergence/homogenisation.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-identity"
+]
+},
+{
+"id": "7.2(c)",
+"text": "The role of Western ideology in shaping identity and the concept of Westernisation.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-identity"
+]
+}
+]
+},
+{
+"code": "7.3",
+"title": "Globalisation, power and politics",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "globalisation-power-and-politics",
+"statements": [
+{
+"id": "7.3(a)",
+"text": "The spread of liberal democracy and human rights.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-power-and-politics"
+]
+},
+{
+"id": "7.3(b)",
+"text": "Global social movements and attempts to oppose globalisation.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-power-and-politics"
+]
+},
+{
+"id": "7.3(c)",
+"text": "Debates about the role of the nation state in tackling global social and environmental problems.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-power-and-politics"
+]
+}
+]
+},
+{
+"code": "8.1",
+"title": "Globalisation, poverty and inequalities",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "global-poverty-and-inequality",
+"statements": [
+{
+"id": "8.1(a)",
+"text": "Debates about the impact of globalisation on life chances in developing countries, in relation to education, income and health.",
+"guidance": "",
+"as": false,
+"topics": [
+"global-poverty-and-inequality"
+]
+},
+{
+"id": "8.1(b)",
+"text": "The role of transnational organisations in tackling global inequalities and the extent to which they have been successful.",
+"guidance": "",
+"as": false,
+"topics": [
+"global-poverty-and-inequality"
+]
+},
+{
+"id": "8.1(c)",
+"text": "Sociological explanations for global inequalities, including capitalism, colonialism, post-colonialism and patriarchy.",
+"guidance": "",
+"as": false,
+"topics": [
+"global-poverty-and-inequality"
+]
+}
+]
+},
+{
+"code": "8.2",
+"title": "Globalisation and migration",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "globalisation-and-migration",
+"statements": [
+{
+"id": "8.2(a)",
+"text": "The causes of global migration, including immigration, emigration, net migration, push and pull factors, global labour patterns and tourism.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-migration"
+]
+},
+{
+"id": "8.2(b)",
+"text": "The consequences of global migration, positive and negative, including cultural diversity, economic benefits, concerns over scarce resources and negative perceptions of migration.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-migration"
+]
+},
+{
+"id": "8.2(c)",
+"text": "Debates about who benefits from migration.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-migration"
+]
+}
+]
+},
+{
+"code": "8.3",
+"title": "Globalisation and crime",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "globalisation-and-crime",
+"statements": [
+{
+"id": "8.3(a)",
+"text": "Reasons for the emergence of global crimes, such as human trafficking, corporate crime and crimes against the environment.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-crime"
+]
+},
+{
+"id": "8.3(b)",
+"text": "Explanations of who benefits from global crime, including Marxist and feminist perspectives.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-crime"
+]
+},
+{
+"id": "8.3(c)",
+"text": "Policing and prosecuting global crime, including the benefits and challenges resulting from globalisation and new technology.",
+"guidance": "",
+"as": false,
+"topics": [
+"globalisation-and-crime"
+]
+}
+]
+},
+{
+"code": "9.1",
+"title": "Traditional media and the new media",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "traditional-and-new-media",
+"statements": [
+{
+"id": "9.1(a)",
+"text": "Trends affecting the organisation of the media, including cross-media ownership, digitalisation, media conglomerates and social media.",
+"guidance": "",
+"as": false,
+"topics": [
+"traditional-and-new-media"
+]
+},
+{
+"id": "9.1(b)",
+"text": "Debates about who controls the media.",
+"guidance": "",
+"as": false,
+"topics": [
+"traditional-and-new-media"
+]
+},
+{
+"id": "9.1(c)",
+"text": "Differences between the traditional media and the new media.",
+"guidance": "",
+"as": false,
+"topics": [
+"traditional-and-new-media"
+]
+},
+{
+"id": "9.1(d)",
+"text": "The debate about whether the traditional media has been undermined by the growth of the new media.",
+"guidance": "",
+"as": false,
+"topics": [
+"traditional-and-new-media"
+]
+}
+]
+},
+{
+"code": "9.2",
+"title": "Theories of the media and influences on media content",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "media-ownership-and-control",
+"statements": [
+{
+"id": "9.2(a)",
+"text": "Pluralist theories of the media.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-ownership-and-control"
+]
+},
+{
+"id": "9.2(b)",
+"text": "Marxist and neo-Marxist theories of the media.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-ownership-and-control"
+]
+},
+{
+"id": "9.2(c)",
+"text": "Factors that influence the selection and presentation of news.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-ownership-and-control"
+]
+},
+{
+"id": "9.2(d)",
+"text": "The concepts of mass manipulation and hegemony as different ways of understanding the production of media content.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-ownership-and-control"
+]
+},
+{
+"id": "9.2(e)",
+"text": "The postmodernist contribution to understanding the media.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-ownership-and-control"
+]
+},
+{
+"id": "9.2(f)",
+"text": "Censorship as a factor influencing media content.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-ownership-and-control"
+]
+},
+{
+"id": "9.2(g)",
+"text": "How the media may influence the political process, including agenda setting, opinion polls, and news reporting.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-ownership-and-control"
+]
+}
+]
+},
+{
+"code": "9.3",
+"title": "The impact of the new media",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "impact-of-new-media",
+"statements": [
+{
+"id": "9.3(a)",
+"text": "How the new media is contributing to globalisation.",
+"guidance": "",
+"as": false,
+"topics": [
+"impact-of-new-media"
+]
+},
+{
+"id": "9.3(b)",
+"text": "The new media as a challenge to existing power structures.",
+"guidance": "",
+"as": false,
+"topics": [
+"impact-of-new-media"
+]
+},
+{
+"id": "9.3(c)",
+"text": "The debate about digital optimism versus digital pessimism.",
+"guidance": "",
+"as": false,
+"topics": [
+"impact-of-new-media"
+]
+},
+{
+"id": "9.3(d)",
+"text": "The impact of the new media on social identities and interpersonal relationships.",
+"guidance": "",
+"as": false,
+"topics": [
+"impact-of-new-media"
+]
+}
+]
+},
+{
+"code": "10.1",
+"title": "Media representations of class, gender, ethnicity, and age groups",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "media-representations",
+"statements": [
+{
+"id": "10.1(a)",
+"text": "How different groups are represented in the media.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-representations"
+]
+},
+{
+"id": "10.1(b)",
+"text": "Ways that the media contributes to gender socialisation.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-representations"
+]
+},
+{
+"id": "10.1(c)",
+"text": "Moral panics around class, gender, ethnicity and age groups.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-representations"
+]
+},
+{
+"id": "10.1(d)",
+"text": "The relationship between the media and popular culture.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-representations"
+]
+}
+]
+},
+{
+"code": "10.2",
+"title": "Different models of media effects",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "media-effects",
+"statements": [
+{
+"id": "10.2(a)",
+"text": "Direct effects models of media influence, including the hypodermic syringe model.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-effects"
+]
+},
+{
+"id": "10.2(b)",
+"text": "Indirect effects models of media influence, including the uses and gratification model, the two-step flow model, the normative model and the cultural effects model.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-effects"
+]
+},
+{
+"id": "10.2(c)",
+"text": "Debates about the strengths and limitations of the different models of media effects.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-effects"
+]
+},
+{
+"id": "10.2(d)",
+"text": "Arguments and evidence about the extent to which human behaviour is influenced by the media.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-effects"
+]
+}
+]
+},
+{
+"code": "10.3",
+"title": "The impact of the media on behaviour",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "media-and-behaviour",
+"statements": [
+{
+"id": "10.3(a)",
+"text": "Arguments and evidence about the extent to which violent media leads to violent behaviour.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-and-behaviour"
+]
+},
+{
+"id": "10.3(b)",
+"text": "The impact of the media on crime, including deviance amplification and moral panics.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-and-behaviour"
+]
+},
+{
+"id": "10.3(c)",
+"text": "Ways in which the media might have a positive impact on human behaviour.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-and-behaviour"
+]
+},
+{
+"id": "10.3(d)",
+"text": "Ways in which people may be affected by media sensationalism and stereotyping.",
+"guidance": "",
+"as": false,
+"topics": [
+"media-and-behaviour"
+]
+}
+]
+},
+{
+"code": "11.1",
+"title": "Religion and society",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "religion-and-society",
+"statements": [
+{
+"id": "11.1(a)",
+"text": "Ways of defining religion.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-society"
+]
+},
+{
+"id": "11.1(b)",
+"text": "Difficulties in measuring religious belief.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-society"
+]
+},
+{
+"id": "11.1(c)",
+"text": "Social groups and religiosity, including class, gender, ethnicity and age.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-society"
+]
+},
+{
+"id": "11.1(d)",
+"text": "Religion and other belief systems.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-society"
+]
+}
+]
+},
+{
+"code": "11.2",
+"title": "Religion and social order",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "religion-and-social-order",
+"statements": [
+{
+"id": "11.2(a)",
+"text": "Functionalist accounts of how religion contributes to social order and social solidarity.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-social-order"
+]
+},
+{
+"id": "11.2(b)",
+"text": "Marxist accounts of the relationship between religion, oppression and capitalism.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-social-order"
+]
+},
+{
+"id": "11.2(c)",
+"text": "Debates about the strengths and limitations of functionalist and Marxist perspectives on religion.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-social-order"
+]
+}
+]
+},
+{
+"code": "11.3",
+"title": "Religion as a source of social change",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "religion-and-social-change",
+"statements": [
+{
+"id": "11.3(a)",
+"text": "Weber’s theory of the role of religion in the rise of capitalism.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-social-change"
+]
+},
+{
+"id": "11.3(b)",
+"text": "Alternative views about the relationship between religion and the origins of capitalism.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-social-change"
+]
+},
+{
+"id": "11.3(c)",
+"text": "Liberation theology as an example of religion acting as a vehicle for social change.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-social-change"
+]
+},
+{
+"id": "11.3(d)",
+"text": "The influence of religious movements on political debates and struggles, examined through case studies such as the Evangelical movement in US politics or the influence of the Ayatollahs in the Iranian revolution.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-social-change"
+]
+}
+]
+},
+{
+"code": "12.1",
+"title": "The secularisation debate",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "secularisation",
+"statements": [
+{
+"id": "12.1(a)",
+"text": "The secularisation thesis.",
+"guidance": "",
+"as": false,
+"topics": [
+"secularisation"
+]
+},
+{
+"id": "12.1(b)",
+"text": "Evidence for a decline in religious belief.",
+"guidance": "",
+"as": false,
+"topics": [
+"secularisation"
+]
+},
+{
+"id": "12.1(c)",
+"text": "Discussions about whether rationalisation is leading to a decline in religious belief.",
+"guidance": "",
+"as": false,
+"topics": [
+"secularisation"
+]
+},
+{
+"id": "12.1(d)",
+"text": "Debates about whether religion has lost its social significance.",
+"guidance": "",
+"as": false,
+"topics": [
+"secularisation"
+]
+}
+]
+},
+{
+"code": "12.2",
+"title": "Gender, feminism and religion",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "gender-feminism-and-religion",
+"statements": [
+{
+"id": "12.2(a)",
+"text": "Feminist perspectives on religion.",
+"guidance": "",
+"as": false,
+"topics": [
+"gender-feminism-and-religion"
+]
+},
+{
+"id": "12.2(b)",
+"text": "Explanations for patriarchy and gender inequality in religion.",
+"guidance": "",
+"as": false,
+"topics": [
+"gender-feminism-and-religion"
+]
+},
+{
+"id": "12.2(c)",
+"text": "Moves towards gender equality in religious organisations and evidence that religious practices may benefit women.",
+"guidance": "",
+"as": false,
+"topics": [
+"gender-feminism-and-religion"
+]
+}
+]
+},
+{
+"code": "12.3",
+"title": "Religion and post-modernity",
+"paper": 4,
+"aLevelOnly": true,
+"topic": "religion-and-postmodernity",
+"statements": [
+{
+"id": "12.3(a)",
+"text": "Discussions about whether there has been a growth in privatised religion.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-postmodernity"
+]
+},
+{
+"id": "12.3(b)",
+"text": "The concept of spiritual shopping and its contribution to understanding religiosity today.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-postmodernity"
+]
+},
+{
+"id": "12.3(c)",
+"text": "Debates about whether resacrilisation is a feature of post-modernity.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-postmodernity"
+]
+},
+{
+"id": "12.3(d)",
+"text": "The significance of new religious movements (NRMs) and New Age ideas for understanding the meaning and significance of religion today.",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-postmodernity"
+]
+},
+{
+"id": "12.3(e)",
+"text": "Different explanations for the growth in fundamentalist religions, including cultural defence, cultural transition, disengagement, marginality, and religious revival. 4",
+"guidance": "",
+"as": false,
+"topics": [
+"religion-and-postmodernity"
+]
+}
+]
+}
+]

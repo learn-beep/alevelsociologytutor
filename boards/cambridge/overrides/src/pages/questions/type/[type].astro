@@ -1,0 +1,40 @@
+---
+import Base from '../../../layouts/Base.astro';
+import QuestionCard from '../../../components/QuestionCard.astro';
+import { allQuestions, seriesRank } from '../../../lib/data';
+export function getStaticPaths() {
+  // [slug, matcher, title, intro]. A matcher is a format name, or "feature:<name>" for a feature flag from the bank.
+  const T = [
+    ['describe-two', 'Describe two', 'Describe two (4 marks)', 'Question 1 on Papers 1, 2 and 3: two points, each worth 2 marks (1 for identifying it, 1 for describing it). No evaluation is needed, and the mark schemes credit only the first two points, so a list of four earns no more.'],
+    ['explain-two', 'Explain two', 'Explain two (6 and 8 marks)', 'Question 2 on Papers 1 and 2 and Question 2 on Paper 3. In the 8-markers each reason earns up to 4: the point, its explanation, relevant sociological material, and how that material supports the point. In the 6-markers each strength or limitation earns up to 3.'],
+    ['explain-a-view', 'Explain a view', '"Explain this view" (10 marks)', 'Question 3(a) on Papers 1 and 2: a quotation, then "explain this view". Two clear, developed points supported by concepts, theory or evidence reach Level 3 (8–10). Evaluation is not rewarded here; it belongs in 3(b).'],
+    ['against-a-view', 'Against a view', 'Arguments against a view (6 and 12 marks)', 'Question 3(b) on Papers 1 and 2 asks for one argument against the view in 3(a) (6 marks); Question 3 on Paper 3 asks for two (12 marks, each argument marked out of 6). One clear, developed argument with supporting material reaches the top level.'],
+    ['essays', 'Essay', 'Essays (26 and 35 marks)', 'Questions 4 and 5 on Papers 1 and 2 (answer one) and Question 4 on Paper 3 are 26-mark essays, marked AO by AO: knowledge and understanding 8, interpretation and application 8 (6 on Paper 3), analysis and evaluation 10. Paper 4 is six 35-mark essays, two per section, of which candidates answer two from different sections.'],
+  ];
+  return T.map(([slug, matcher, title, intro]) => ({ params: { type: slug }, props: { slug, matcher, title, intro, others: T.filter((t) => t[0] !== slug) } }));
+}
+const { slug, matcher, title, intro, others } = Astro.props;
+const match = (q) => q.format === matcher;
+const qs = allQuestions.filter((q) => match(q) && !q.notCurrentSpec).sort((a, b) => seriesRank(b.series) - seriesRank(a.series));
+const papers = [...new Set(qs.map((q) => q.paper))].sort();
+---
+<Base title={`${title}: Cambridge A Level Sociology 9699 past-paper questions`} description={`${qs.length} ${title.toLowerCase()} questions from Cambridge International AS and A Level Sociology (9699) papers since 2021, with mark schemes and examiners' report comments.`} context={`type:${slug}`}>
+  <h1>{title}</h1>
+  <p>{intro} {qs.length} questions.</p>
+  <p class="muted">Other types: {others.map((t, i) => <>{i ? ' · ' : ''}<a href={`/questions/type/${t[0]}/`}>{t[2]}</a></>)}</p>
+  <div class="filterbar"><div class="chips" role="group" aria-label="Filter">
+    <button class="chip" type="button" aria-pressed="true" data-filter="">All</button>
+    {papers.map((p) => <button class="chip" type="button" aria-pressed="false" data-filter={`paper:${p}`}>{p}</button>)}
+  </div><div class="count" id="count"></div></div>
+  {qs.map((q) => <div data-paper={q.paper}><QuestionCard q={q} showTopics={true} /></div>)}
+  <script>
+    const chips = document.querySelectorAll('.chip[data-filter]');
+    const wraps = document.querySelectorAll('[data-paper]');
+    chips.forEach((c) => c.addEventListener('click', () => {
+      chips.forEach((x) => x.setAttribute('aria-pressed', 'false')); c.setAttribute('aria-pressed', 'true');
+      const [key, val] = (c.getAttribute('data-filter') || '').split(':');
+      wraps.forEach((w) => { const card = w.querySelector('.qcard'); const v = key === 'paper' ? w.dataset.paper : card.getAttribute('data-' + key); w.hidden = !!key && v !== val; });
+      document.getElementById('count').textContent = `Showing ${[...wraps].filter((w) => !w.hidden).length} of ${wraps.length}`;
+    }));
+  </script>
+</Base>

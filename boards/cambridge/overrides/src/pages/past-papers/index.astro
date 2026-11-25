@@ -1,0 +1,31 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allPapers, AQA_MATERIALS, seriesRank } from '../../lib/data';
+const exams = allPapers.filter((p) => p.kind === 'exam');
+const seriesList = [...new Set(exams.map((p) => p.series))].sort((a, b) => seriesRank(b) - seriesRank(a));
+const cell = (series, n) => exams.filter((p) => p.series === series && p.paperNo === String(n)).sort((a, b) => a.comp.localeCompare(b.comp));
+const specimens = allPapers.filter((p) => p.kind === 'specimen');
+const reprinted = exams.filter((p) => p.reprints?.length);
+---
+<Base title="Cambridge International A Level Sociology 9699 past papers 2021–2025, question by question" description="Every Cambridge International AS and A Level Sociology (9699) paper since 2021: March, June and November, all time-zone variants, each with a question-by-question table, mark schemes and examiners' report comments." context="past-papers">
+  <h1>Cambridge 9699 Sociology past papers</h1>
+  <p>Every series since the current syllabus was first examined in 2021: March (sat in India), June and November, in every time-zone variant, plus Cambridge's specimen papers. Each paper page lists every question with its topic, marks, assessment objectives and type, and shows the questions with the mark scheme and the examiners' report. The papers are Cambridge's own; most of the copies used here were taken from past-paper archives online, as Cambridge publishes only a few recent papers on its public site.</p>
+  <p><a class="btn" href={AQA_MATERIALS} rel="noopener">Cambridge's 9699 syllabus page</a></p>
+  <p class="muted">The variant is the second digit of the paper code: 9699/12 is Paper 1, variant 2. Schools sit the variant set for their time zone, so the variants of one series are different papers on the same syllabus.</p>
+  <h2>A Level and AS Level (9699)</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Series</th><th>Paper 1</th><th>Paper 2</th><th>Paper 3</th><th>Paper 4</th></tr></thead>
+    <tbody>{seriesList.map((s) => <tr><td>{s}</td>{[1, 2, 3, 4].map((n) => { const ps = cell(s, n); return <td>{ps.length ? ps.map((p, i) => <>{i ? ' · ' : ''}<a href={`/past-papers/${p.slug}/`}>{p.spec}/{p.comp}</a></>) : '—'}</td>; })}</tr>)}</tbody>
+  </table></div>
+  <h2>Specimen papers</h2>
+  <p>{specimens.map((p, i) => <>{i ? ' · ' : ''}<a href={`/past-papers/${p.slug}/`}>{p.paper}: {p.name}</a></>)}</p>
+  <h2>Gaps and reprints</h2>
+  <ul class="muted">
+    <li>Papers 1 and 2 are the AS Level (60 marks each, 1 hour 30 minutes); Papers 3 (50 marks, 1 hour 15 minutes) and 4 (70 marks, 1 hour 45 minutes) complete the A Level.</li>
+    <li>In November, variant 3 has been a word-for-word reprint of variant 1 in every series so far, so it is listed once: {reprinted.length} papers carry a note on their page.</li>
+    <li>The June 2021 question papers 9699/21, 9699/31 and 9699/41 are not available online, so those papers are missing. June 2021 papers 9699/14, 24 and 34 were the last of the old syllabus and are left out.</li>
+    <li>Cambridge's own mark scheme for June 2022 9699/12 stops after Question 3, and the scheme for 9699/33 has no Question 3, so those questions show no mark scheme.</li>
+    <li>Examiners' reports after March 2024, except June 2024, are not public, so later questions have the mark scheme only.</li>
+    <li>The June 2026 papers will be added when they become public.</li>
+  </ul>
+</Base>

@@ -1,0 +1,3673 @@
+[
+{
+"id": "9699-11-W25",
+"bundle": "w25_11",
+"kind": "exam",
+"series": "November 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-W25-1",
+"9699-11-W25-2a",
+"9699-11-W25-2b",
+"9699-11-W25-3a",
+"9699-11-W25-3b",
+"9699-11-W25-4",
+"9699-11-W25-5"
+],
+"reprints": [
+"9699/13"
+],
+"slug": "november-2025-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 November/9699_w25_qp_11.pdf",
+"ms": "9699 (2021+)/2025 November/9699_w25_ms_11.pdf",
+"er": null
+}
+},
+{
+"id": "9699-12-W25",
+"bundle": "w25_12",
+"kind": "exam",
+"series": "November 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-W25-1",
+"9699-12-W25-2a",
+"9699-12-W25-2b",
+"9699-12-W25-3a",
+"9699-12-W25-3b",
+"9699-12-W25-4",
+"9699-12-W25-5"
+],
+"reprints": [],
+"slug": "november-2025-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 November/9699_w25_qp_12.pdf",
+"ms": "9699 (2021+)/2025 November/9699_w25_ms_12.pdf",
+"er": null
+}
+},
+{
+"id": "9699-21-W25",
+"bundle": "w25_21",
+"kind": "exam",
+"series": "November 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-W25-1",
+"9699-21-W25-2a",
+"9699-21-W25-2b",
+"9699-21-W25-3a",
+"9699-21-W25-3b",
+"9699-21-W25-4",
+"9699-21-W25-5"
+],
+"reprints": [
+"9699/23"
+],
+"slug": "november-2025-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 November/9699_w25_qp_21.pdf",
+"ms": "9699 (2021+)/2025 November/9699_w25_ms_21.pdf",
+"er": null
+}
+},
+{
+"id": "9699-22-W25",
+"bundle": "w25_22",
+"kind": "exam",
+"series": "November 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-W25-1",
+"9699-22-W25-2a",
+"9699-22-W25-2b",
+"9699-22-W25-3a",
+"9699-22-W25-3b",
+"9699-22-W25-4",
+"9699-22-W25-5"
+],
+"reprints": [],
+"slug": "november-2025-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 November/9699_w25_qp_22.pdf",
+"ms": "9699 (2021+)/2025 November/9699_w25_ms_22.pdf",
+"er": null
+}
+},
+{
+"id": "9699-31-W25",
+"bundle": "w25_31",
+"kind": "exam",
+"series": "November 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-W25-1",
+"9699-31-W25-2",
+"9699-31-W25-3",
+"9699-31-W25-4"
+],
+"reprints": [
+"9699/33"
+],
+"slug": "november-2025-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 November/9699_w25_qp_31.pdf",
+"ms": "9699 (2021+)/2025 November/9699_w25_ms_31.pdf",
+"er": null
+}
+},
+{
+"id": "9699-32-W25",
+"bundle": "w25_32",
+"kind": "exam",
+"series": "November 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-W25-1",
+"9699-32-W25-2",
+"9699-32-W25-3",
+"9699-32-W25-4"
+],
+"reprints": [],
+"slug": "november-2025-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 November/9699_w25_qp_32.pdf",
+"ms": "9699 (2021+)/2025 November/9699_w25_ms_32.pdf",
+"er": null
+}
+},
+{
+"id": "9699-41-W25",
+"bundle": "w25_41",
+"kind": "exam",
+"series": "November 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-W25-1",
+"9699-41-W25-2",
+"9699-41-W25-3",
+"9699-41-W25-4",
+"9699-41-W25-5",
+"9699-41-W25-6"
+],
+"reprints": [
+"9699/43"
+],
+"slug": "november-2025-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 November/9699_w25_qp_41.pdf",
+"ms": "9699 (2021+)/2025 November/9699_w25_ms_41.pdf",
+"er": null
+}
+},
+{
+"id": "9699-42-W25",
+"bundle": "w25_42",
+"kind": "exam",
+"series": "November 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-W25-1",
+"9699-42-W25-2",
+"9699-42-W25-3",
+"9699-42-W25-4",
+"9699-42-W25-5",
+"9699-42-W25-6"
+],
+"reprints": [],
+"slug": "november-2025-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 November/9699_w25_qp_42.pdf",
+"ms": "9699 (2021+)/2025 November/9699_w25_ms_42.pdf",
+"er": null
+}
+},
+{
+"id": "9699-11-S25",
+"bundle": "s25_11",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-S25-1",
+"9699-11-S25-2a",
+"9699-11-S25-2b",
+"9699-11-S25-3a",
+"9699-11-S25-3b",
+"9699-11-S25-4",
+"9699-11-S25-5"
+],
+"reprints": [],
+"slug": "june-2025-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_11.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_11.pdf",
+"er": null
+}
+},
+{
+"id": "9699-12-S25",
+"bundle": "s25_12",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-S25-1",
+"9699-12-S25-2a",
+"9699-12-S25-2b",
+"9699-12-S25-3a",
+"9699-12-S25-3b",
+"9699-12-S25-4",
+"9699-12-S25-5"
+],
+"reprints": [],
+"slug": "june-2025-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_12.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_12.pdf",
+"er": null
+}
+},
+{
+"id": "9699-13-S25",
+"bundle": "s25_13",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "13",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-13-S25-1",
+"9699-13-S25-2a",
+"9699-13-S25-2b",
+"9699-13-S25-3a",
+"9699-13-S25-3b",
+"9699-13-S25-4",
+"9699-13-S25-5"
+],
+"reprints": [],
+"slug": "june-2025-9699-13",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_13.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_13.pdf",
+"er": null
+}
+},
+{
+"id": "9699-21-S25",
+"bundle": "s25_21",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-S25-1",
+"9699-21-S25-2a",
+"9699-21-S25-2b",
+"9699-21-S25-3a",
+"9699-21-S25-3b",
+"9699-21-S25-4",
+"9699-21-S25-5"
+],
+"reprints": [],
+"slug": "june-2025-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_21.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_21.pdf",
+"er": null
+}
+},
+{
+"id": "9699-22-S25",
+"bundle": "s25_22",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-S25-1",
+"9699-22-S25-2a",
+"9699-22-S25-2b",
+"9699-22-S25-3a",
+"9699-22-S25-3b",
+"9699-22-S25-4",
+"9699-22-S25-5"
+],
+"reprints": [],
+"slug": "june-2025-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_22.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_22.pdf",
+"er": null
+}
+},
+{
+"id": "9699-23-S25",
+"bundle": "s25_23",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "23",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-23-S25-1",
+"9699-23-S25-2a",
+"9699-23-S25-2b",
+"9699-23-S25-3a",
+"9699-23-S25-3b",
+"9699-23-S25-4",
+"9699-23-S25-5"
+],
+"reprints": [],
+"slug": "june-2025-9699-23",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_23.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_23.pdf",
+"er": null
+}
+},
+{
+"id": "9699-31-S25",
+"bundle": "s25_31",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-S25-1",
+"9699-31-S25-2",
+"9699-31-S25-3",
+"9699-31-S25-4"
+],
+"reprints": [],
+"slug": "june-2025-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_31.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_31.pdf",
+"er": null
+}
+},
+{
+"id": "9699-32-S25",
+"bundle": "s25_32",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-S25-1",
+"9699-32-S25-2",
+"9699-32-S25-3",
+"9699-32-S25-4"
+],
+"reprints": [],
+"slug": "june-2025-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_32.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_32.pdf",
+"er": null
+}
+},
+{
+"id": "9699-33-S25",
+"bundle": "s25_33",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "33",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-33-S25-1",
+"9699-33-S25-2",
+"9699-33-S25-3",
+"9699-33-S25-4"
+],
+"reprints": [],
+"slug": "june-2025-9699-33",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_33.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_33.pdf",
+"er": null
+}
+},
+{
+"id": "9699-41-S25",
+"bundle": "s25_41",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-S25-1",
+"9699-41-S25-2",
+"9699-41-S25-3",
+"9699-41-S25-4",
+"9699-41-S25-5",
+"9699-41-S25-6"
+],
+"reprints": [],
+"slug": "june-2025-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_41.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_41.pdf",
+"er": null
+}
+},
+{
+"id": "9699-42-S25",
+"bundle": "s25_42",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-S25-1",
+"9699-42-S25-2",
+"9699-42-S25-3",
+"9699-42-S25-4",
+"9699-42-S25-5",
+"9699-42-S25-6"
+],
+"reprints": [],
+"slug": "june-2025-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_42.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_42.pdf",
+"er": null
+}
+},
+{
+"id": "9699-43-S25",
+"bundle": "s25_43",
+"kind": "exam",
+"series": "June 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "43",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-43-S25-1",
+"9699-43-S25-2",
+"9699-43-S25-3",
+"9699-43-S25-4",
+"9699-43-S25-5",
+"9699-43-S25-6"
+],
+"reprints": [],
+"slug": "june-2025-9699-43",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 June/9699_s25_qp_43.pdf",
+"ms": "9699 (2021+)/2025 June/9699_s25_ms_43.pdf",
+"er": null
+}
+},
+{
+"id": "9699-12-M25",
+"bundle": "m25_12",
+"kind": "exam",
+"series": "March 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-M25-1",
+"9699-12-M25-2a",
+"9699-12-M25-2b",
+"9699-12-M25-3a",
+"9699-12-M25-3b",
+"9699-12-M25-4",
+"9699-12-M25-5"
+],
+"reprints": [],
+"slug": "march-2025-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 March/9699_m25_qp_12.pdf",
+"ms": "9699 (2021+)/2025 March/9699_m25_ms_12.pdf",
+"er": "9699 (2021+)/2025 March/9699_m25_er.pdf"
+}
+},
+{
+"id": "9699-22-M25",
+"bundle": "m25_22",
+"kind": "exam",
+"series": "March 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-M25-1",
+"9699-22-M25-2a",
+"9699-22-M25-2b",
+"9699-22-M25-3a",
+"9699-22-M25-3b",
+"9699-22-M25-4",
+"9699-22-M25-5"
+],
+"reprints": [],
+"slug": "march-2025-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 March/9699_m25_qp_22.pdf",
+"ms": "9699 (2021+)/2025 March/9699_m25_ms_22.pdf",
+"er": "9699 (2021+)/2025 March/9699_m25_er.pdf"
+}
+},
+{
+"id": "9699-32-M25",
+"bundle": "m25_32",
+"kind": "exam",
+"series": "March 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-M25-1",
+"9699-32-M25-2",
+"9699-32-M25-3",
+"9699-32-M25-4"
+],
+"reprints": [],
+"slug": "march-2025-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 March/9699_m25_qp_32.pdf",
+"ms": "9699 (2021+)/2025 March/9699_m25_ms_32.pdf",
+"er": "9699 (2021+)/2025 March/9699_m25_er.pdf"
+}
+},
+{
+"id": "9699-42-M25",
+"bundle": "m25_42",
+"kind": "exam",
+"series": "March 2025",
+"year": 2025,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-M25-1",
+"9699-42-M25-2",
+"9699-42-M25-3",
+"9699-42-M25-4",
+"9699-42-M25-5",
+"9699-42-M25-6"
+],
+"reprints": [],
+"slug": "march-2025-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2025 March/9699_m25_qp_42.pdf",
+"ms": "9699 (2021+)/2025 March/9699_m25_ms_42.pdf",
+"er": "9699 (2021+)/2025 March/9699_m25_er.pdf"
+}
+},
+{
+"id": "9699-11-W24",
+"bundle": "w24_11",
+"kind": "exam",
+"series": "November 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-W24-1",
+"9699-11-W24-2a",
+"9699-11-W24-2b",
+"9699-11-W24-3a",
+"9699-11-W24-3b",
+"9699-11-W24-4",
+"9699-11-W24-5"
+],
+"reprints": [
+"9699/13"
+],
+"slug": "november-2024-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 November/9699_w24_qp_11.pdf",
+"ms": "9699 (2021+)/2024 November/9699_w24_ms_11.pdf",
+"er": null
+}
+},
+{
+"id": "9699-12-W24",
+"bundle": "w24_12",
+"kind": "exam",
+"series": "November 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-W24-1",
+"9699-12-W24-2a",
+"9699-12-W24-2b",
+"9699-12-W24-3a",
+"9699-12-W24-3b",
+"9699-12-W24-4",
+"9699-12-W24-5"
+],
+"reprints": [],
+"slug": "november-2024-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 November/9699_w24_qp_12.pdf",
+"ms": "9699 (2021+)/2024 November/9699_w24_ms_12.pdf",
+"er": null
+}
+},
+{
+"id": "9699-21-W24",
+"bundle": "w24_21",
+"kind": "exam",
+"series": "November 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-W24-1",
+"9699-21-W24-2a",
+"9699-21-W24-2b",
+"9699-21-W24-3a",
+"9699-21-W24-3b",
+"9699-21-W24-4",
+"9699-21-W24-5"
+],
+"reprints": [
+"9699/23"
+],
+"slug": "november-2024-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 November/9699_w24_qp_21.pdf",
+"ms": "9699 (2021+)/2024 November/9699_w24_ms_21.pdf",
+"er": null
+}
+},
+{
+"id": "9699-22-W24",
+"bundle": "w24_22",
+"kind": "exam",
+"series": "November 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-W24-1",
+"9699-22-W24-2a",
+"9699-22-W24-2b",
+"9699-22-W24-3a",
+"9699-22-W24-3b",
+"9699-22-W24-4",
+"9699-22-W24-5"
+],
+"reprints": [],
+"slug": "november-2024-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 November/9699_w24_qp_22.pdf",
+"ms": "9699 (2021+)/2024 November/9699_w24_ms_22.pdf",
+"er": null
+}
+},
+{
+"id": "9699-31-W24",
+"bundle": "w24_31",
+"kind": "exam",
+"series": "November 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-W24-1",
+"9699-31-W24-2",
+"9699-31-W24-3",
+"9699-31-W24-4"
+],
+"reprints": [
+"9699/33"
+],
+"slug": "november-2024-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 November/9699_w24_qp_31.pdf",
+"ms": "9699 (2021+)/2024 November/9699_w24_ms_31.pdf",
+"er": null
+}
+},
+{
+"id": "9699-32-W24",
+"bundle": "w24_32",
+"kind": "exam",
+"series": "November 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-W24-1",
+"9699-32-W24-2",
+"9699-32-W24-3",
+"9699-32-W24-4"
+],
+"reprints": [],
+"slug": "november-2024-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 November/9699_w24_qp_32.pdf",
+"ms": "9699 (2021+)/2024 November/9699_w24_ms_32.pdf",
+"er": null
+}
+},
+{
+"id": "9699-41-W24",
+"bundle": "w24_41",
+"kind": "exam",
+"series": "November 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-W24-1",
+"9699-41-W24-2",
+"9699-41-W24-3",
+"9699-41-W24-4",
+"9699-41-W24-5",
+"9699-41-W24-6"
+],
+"reprints": [
+"9699/43"
+],
+"slug": "november-2024-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 November/9699_w24_qp_41.pdf",
+"ms": "9699 (2021+)/2024 November/9699_w24_ms_41.pdf",
+"er": null
+}
+},
+{
+"id": "9699-42-W24",
+"bundle": "w24_42",
+"kind": "exam",
+"series": "November 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-W24-1",
+"9699-42-W24-2",
+"9699-42-W24-3",
+"9699-42-W24-4",
+"9699-42-W24-5",
+"9699-42-W24-6"
+],
+"reprints": [],
+"slug": "november-2024-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 November/9699_w24_qp_42.pdf",
+"ms": "9699 (2021+)/2024 November/9699_w24_ms_42.pdf",
+"er": null
+}
+},
+{
+"id": "9699-11-S24",
+"bundle": "s24_11",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-S24-1",
+"9699-11-S24-2a",
+"9699-11-S24-2b",
+"9699-11-S24-3a",
+"9699-11-S24-3b",
+"9699-11-S24-4",
+"9699-11-S24-5"
+],
+"reprints": [],
+"slug": "june-2024-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_11.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_11.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-12-S24",
+"bundle": "s24_12",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-S24-1",
+"9699-12-S24-2a",
+"9699-12-S24-2b",
+"9699-12-S24-3a",
+"9699-12-S24-3b",
+"9699-12-S24-4",
+"9699-12-S24-5"
+],
+"reprints": [],
+"slug": "june-2024-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_12.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_12.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-13-S24",
+"bundle": "s24_13",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "13",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-13-S24-1",
+"9699-13-S24-2a",
+"9699-13-S24-2b",
+"9699-13-S24-3a",
+"9699-13-S24-3b",
+"9699-13-S24-4",
+"9699-13-S24-5"
+],
+"reprints": [],
+"slug": "june-2024-9699-13",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_13.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_13.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-21-S24",
+"bundle": "s24_21",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-S24-1",
+"9699-21-S24-2a",
+"9699-21-S24-2b",
+"9699-21-S24-3a",
+"9699-21-S24-3b",
+"9699-21-S24-4",
+"9699-21-S24-5"
+],
+"reprints": [],
+"slug": "june-2024-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_21.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_21.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-22-S24",
+"bundle": "s24_22",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-S24-1",
+"9699-22-S24-2a",
+"9699-22-S24-2b",
+"9699-22-S24-3a",
+"9699-22-S24-3b",
+"9699-22-S24-4",
+"9699-22-S24-5"
+],
+"reprints": [],
+"slug": "june-2024-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_22.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_22.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-23-S24",
+"bundle": "s24_23",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "23",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-23-S24-1",
+"9699-23-S24-2a",
+"9699-23-S24-2b",
+"9699-23-S24-3a",
+"9699-23-S24-3b",
+"9699-23-S24-4",
+"9699-23-S24-5"
+],
+"reprints": [],
+"slug": "june-2024-9699-23",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_23.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_23.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-31-S24",
+"bundle": "s24_31",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-S24-1",
+"9699-31-S24-2",
+"9699-31-S24-3",
+"9699-31-S24-4"
+],
+"reprints": [],
+"slug": "june-2024-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_31.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_31.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-32-S24",
+"bundle": "s24_32",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-S24-1",
+"9699-32-S24-2",
+"9699-32-S24-3",
+"9699-32-S24-4"
+],
+"reprints": [],
+"slug": "june-2024-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_32.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_32.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-33-S24",
+"bundle": "s24_33",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "33",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-33-S24-1",
+"9699-33-S24-2",
+"9699-33-S24-3",
+"9699-33-S24-4"
+],
+"reprints": [],
+"slug": "june-2024-9699-33",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_33.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_33.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-41-S24",
+"bundle": "s24_41",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-S24-1",
+"9699-41-S24-2",
+"9699-41-S24-3",
+"9699-41-S24-4",
+"9699-41-S24-5",
+"9699-41-S24-6"
+],
+"reprints": [],
+"slug": "june-2024-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_41.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_41.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-42-S24",
+"bundle": "s24_42",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-S24-1",
+"9699-42-S24-2",
+"9699-42-S24-3",
+"9699-42-S24-4",
+"9699-42-S24-5",
+"9699-42-S24-6"
+],
+"reprints": [],
+"slug": "june-2024-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_42.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_42.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-43-S24",
+"bundle": "s24_43",
+"kind": "exam",
+"series": "June 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "43",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-43-S24-1",
+"9699-43-S24-2",
+"9699-43-S24-3",
+"9699-43-S24-4",
+"9699-43-S24-5",
+"9699-43-S24-6"
+],
+"reprints": [],
+"slug": "june-2024-9699-43",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 June/9699_s24_qp_43.pdf",
+"ms": "9699 (2021+)/2024 June/9699_s24_ms_43.pdf",
+"er": "9699 (2021+)/2024 June/9699_s24_er.pdf"
+}
+},
+{
+"id": "9699-12-M24",
+"bundle": "m24_12",
+"kind": "exam",
+"series": "March 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-M24-1",
+"9699-12-M24-2a",
+"9699-12-M24-2b",
+"9699-12-M24-3a",
+"9699-12-M24-3b",
+"9699-12-M24-4",
+"9699-12-M24-5"
+],
+"reprints": [],
+"slug": "march-2024-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 March/9699_m24_qp_12.pdf",
+"ms": "9699 (2021+)/2024 March/9699_m24_ms_12.pdf",
+"er": null
+}
+},
+{
+"id": "9699-22-M24",
+"bundle": "m24_22",
+"kind": "exam",
+"series": "March 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-M24-1",
+"9699-22-M24-2a",
+"9699-22-M24-2b",
+"9699-22-M24-3a",
+"9699-22-M24-3b",
+"9699-22-M24-4",
+"9699-22-M24-5"
+],
+"reprints": [],
+"slug": "march-2024-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 March/9699_m24_qp_22.pdf",
+"ms": "9699 (2021+)/2024 March/9699_m24_ms_22.pdf",
+"er": null
+}
+},
+{
+"id": "9699-32-M24",
+"bundle": "m24_32",
+"kind": "exam",
+"series": "March 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-M24-1",
+"9699-32-M24-2",
+"9699-32-M24-3",
+"9699-32-M24-4"
+],
+"reprints": [],
+"slug": "march-2024-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 March/9699_m24_qp_32.pdf",
+"ms": "9699 (2021+)/2024 March/9699_m24_ms_32.pdf",
+"er": null
+}
+},
+{
+"id": "9699-42-M24",
+"bundle": "m24_42",
+"kind": "exam",
+"series": "March 2024",
+"year": 2024,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-M24-1",
+"9699-42-M24-2",
+"9699-42-M24-3",
+"9699-42-M24-4",
+"9699-42-M24-5",
+"9699-42-M24-6"
+],
+"reprints": [],
+"slug": "march-2024-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2024 March/9699_m24_qp_42.pdf",
+"ms": "9699 (2021+)/2024 March/9699_m24_ms_42.pdf",
+"er": null
+}
+},
+{
+"id": "9699-11-W23",
+"bundle": "w23_11",
+"kind": "exam",
+"series": "November 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-W23-1",
+"9699-11-W23-2a",
+"9699-11-W23-2b",
+"9699-11-W23-3a",
+"9699-11-W23-3b",
+"9699-11-W23-4",
+"9699-11-W23-5"
+],
+"reprints": [
+"9699/13"
+],
+"slug": "november-2023-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 November/9699_w23_qp_11.pdf",
+"ms": "9699 (2021+)/2023 November/9699_w23_ms_11.pdf",
+"er": "9699 (2021+)/2023 November/9699_w23_er.pdf"
+}
+},
+{
+"id": "9699-12-W23",
+"bundle": "w23_12",
+"kind": "exam",
+"series": "November 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-W23-1",
+"9699-12-W23-2a",
+"9699-12-W23-2b",
+"9699-12-W23-3a",
+"9699-12-W23-3b",
+"9699-12-W23-4",
+"9699-12-W23-5"
+],
+"reprints": [],
+"slug": "november-2023-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 November/9699_w23_qp_12.pdf",
+"ms": "9699 (2021+)/2023 November/9699_w23_ms_12.pdf",
+"er": "9699 (2021+)/2023 November/9699_w23_er.pdf"
+}
+},
+{
+"id": "9699-21-W23",
+"bundle": "w23_21",
+"kind": "exam",
+"series": "November 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-W23-1",
+"9699-21-W23-2a",
+"9699-21-W23-2b",
+"9699-21-W23-3a",
+"9699-21-W23-3b",
+"9699-21-W23-4",
+"9699-21-W23-5"
+],
+"reprints": [
+"9699/23"
+],
+"slug": "november-2023-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 November/9699_w23_qp_21.pdf",
+"ms": "9699 (2021+)/2023 November/9699_w23_ms_21.pdf",
+"er": "9699 (2021+)/2023 November/9699_w23_er.pdf"
+}
+},
+{
+"id": "9699-22-W23",
+"bundle": "w23_22",
+"kind": "exam",
+"series": "November 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-W23-1",
+"9699-22-W23-2a",
+"9699-22-W23-2b",
+"9699-22-W23-3a",
+"9699-22-W23-3b",
+"9699-22-W23-4",
+"9699-22-W23-5"
+],
+"reprints": [],
+"slug": "november-2023-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 November/9699_w23_qp_22.pdf",
+"ms": "9699 (2021+)/2023 November/9699_w23_ms_22.pdf",
+"er": "9699 (2021+)/2023 November/9699_w23_er.pdf"
+}
+},
+{
+"id": "9699-31-W23",
+"bundle": "w23_31",
+"kind": "exam",
+"series": "November 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-W23-1",
+"9699-31-W23-2",
+"9699-31-W23-3",
+"9699-31-W23-4"
+],
+"reprints": [
+"9699/33"
+],
+"slug": "november-2023-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 November/9699_w23_qp_31.pdf",
+"ms": "9699 (2021+)/2023 November/9699_w23_ms_31.pdf",
+"er": "9699 (2021+)/2023 November/9699_w23_er.pdf"
+}
+},
+{
+"id": "9699-32-W23",
+"bundle": "w23_32",
+"kind": "exam",
+"series": "November 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-W23-1",
+"9699-32-W23-2",
+"9699-32-W23-3",
+"9699-32-W23-4"
+],
+"reprints": [],
+"slug": "november-2023-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 November/9699_w23_qp_32.pdf",
+"ms": "9699 (2021+)/2023 November/9699_w23_ms_32.pdf",
+"er": "9699 (2021+)/2023 November/9699_w23_er.pdf"
+}
+},
+{
+"id": "9699-41-W23",
+"bundle": "w23_41",
+"kind": "exam",
+"series": "November 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-W23-1",
+"9699-41-W23-2",
+"9699-41-W23-3",
+"9699-41-W23-4",
+"9699-41-W23-5",
+"9699-41-W23-6"
+],
+"reprints": [
+"9699/43"
+],
+"slug": "november-2023-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 November/9699_w23_qp_41.pdf",
+"ms": "9699 (2021+)/2023 November/9699_w23_ms_41.pdf",
+"er": "9699 (2021+)/2023 November/9699_w23_er.pdf"
+}
+},
+{
+"id": "9699-42-W23",
+"bundle": "w23_42",
+"kind": "exam",
+"series": "November 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-W23-1",
+"9699-42-W23-2",
+"9699-42-W23-3",
+"9699-42-W23-4",
+"9699-42-W23-5",
+"9699-42-W23-6"
+],
+"reprints": [],
+"slug": "november-2023-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 November/9699_w23_qp_42.pdf",
+"ms": "9699 (2021+)/2023 November/9699_w23_ms_42.pdf",
+"er": "9699 (2021+)/2023 November/9699_w23_er.pdf"
+}
+},
+{
+"id": "9699-11-S23",
+"bundle": "s23_11",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-S23-1",
+"9699-11-S23-2a",
+"9699-11-S23-2b",
+"9699-11-S23-3a",
+"9699-11-S23-3b",
+"9699-11-S23-4",
+"9699-11-S23-5"
+],
+"reprints": [],
+"slug": "june-2023-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_11.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_11.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-12-S23",
+"bundle": "s23_12",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-S23-1",
+"9699-12-S23-2a",
+"9699-12-S23-2b",
+"9699-12-S23-3a",
+"9699-12-S23-3b",
+"9699-12-S23-4",
+"9699-12-S23-5"
+],
+"reprints": [],
+"slug": "june-2023-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_12.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_12.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-13-S23",
+"bundle": "s23_13",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "13",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-13-S23-1",
+"9699-13-S23-2a",
+"9699-13-S23-2b",
+"9699-13-S23-3a",
+"9699-13-S23-3b",
+"9699-13-S23-4",
+"9699-13-S23-5"
+],
+"reprints": [],
+"slug": "june-2023-9699-13",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_13.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_13.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-21-S23",
+"bundle": "s23_21",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-S23-1",
+"9699-21-S23-2a",
+"9699-21-S23-2b",
+"9699-21-S23-3a",
+"9699-21-S23-3b",
+"9699-21-S23-4",
+"9699-21-S23-5"
+],
+"reprints": [],
+"slug": "june-2023-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_21.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_21.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-22-S23",
+"bundle": "s23_22",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-S23-1",
+"9699-22-S23-2a",
+"9699-22-S23-2b",
+"9699-22-S23-3a",
+"9699-22-S23-3b",
+"9699-22-S23-4",
+"9699-22-S23-5"
+],
+"reprints": [],
+"slug": "june-2023-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_22.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_22.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-23-S23",
+"bundle": "s23_23",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "23",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-23-S23-1",
+"9699-23-S23-2a",
+"9699-23-S23-2b",
+"9699-23-S23-3a",
+"9699-23-S23-3b",
+"9699-23-S23-4",
+"9699-23-S23-5"
+],
+"reprints": [],
+"slug": "june-2023-9699-23",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_23.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_23.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-31-S23",
+"bundle": "s23_31",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-S23-1",
+"9699-31-S23-2",
+"9699-31-S23-3",
+"9699-31-S23-4"
+],
+"reprints": [],
+"slug": "june-2023-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_31.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_31.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-32-S23",
+"bundle": "s23_32",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-S23-1",
+"9699-32-S23-2",
+"9699-32-S23-3",
+"9699-32-S23-4"
+],
+"reprints": [],
+"slug": "june-2023-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_32.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_32.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-33-S23",
+"bundle": "s23_33",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "33",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-33-S23-1",
+"9699-33-S23-2",
+"9699-33-S23-3",
+"9699-33-S23-4"
+],
+"reprints": [],
+"slug": "june-2023-9699-33",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_33.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_33.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-41-S23",
+"bundle": "s23_41",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-S23-1",
+"9699-41-S23-2",
+"9699-41-S23-3",
+"9699-41-S23-4",
+"9699-41-S23-5",
+"9699-41-S23-6"
+],
+"reprints": [],
+"slug": "june-2023-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_41.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_41.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-42-S23",
+"bundle": "s23_42",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-S23-1",
+"9699-42-S23-2",
+"9699-42-S23-3",
+"9699-42-S23-4",
+"9699-42-S23-5",
+"9699-42-S23-6"
+],
+"reprints": [],
+"slug": "june-2023-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_42.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_42.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-43-S23",
+"bundle": "s23_43",
+"kind": "exam",
+"series": "June 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "43",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-43-S23-1",
+"9699-43-S23-2",
+"9699-43-S23-3",
+"9699-43-S23-4",
+"9699-43-S23-5",
+"9699-43-S23-6"
+],
+"reprints": [],
+"slug": "june-2023-9699-43",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 June/9699_s23_qp_43.pdf",
+"ms": "9699 (2021+)/2023 June/9699_s23_ms_43.pdf",
+"er": "9699 (2021+)/2023 June/9699_s23_er.pdf"
+}
+},
+{
+"id": "9699-12-M23",
+"bundle": "m23_12",
+"kind": "exam",
+"series": "March 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-M23-1",
+"9699-12-M23-2a",
+"9699-12-M23-2b",
+"9699-12-M23-3a",
+"9699-12-M23-3b",
+"9699-12-M23-4",
+"9699-12-M23-5"
+],
+"reprints": [],
+"slug": "march-2023-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 March/9699_m23_qp_12.pdf",
+"ms": "9699 (2021+)/2023 March/9699_m23_ms_12.pdf",
+"er": "9699 (2021+)/2023 March/9699_m23_er.pdf"
+}
+},
+{
+"id": "9699-22-M23",
+"bundle": "m23_22",
+"kind": "exam",
+"series": "March 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-M23-1",
+"9699-22-M23-2a",
+"9699-22-M23-2b",
+"9699-22-M23-3a",
+"9699-22-M23-3b",
+"9699-22-M23-4",
+"9699-22-M23-5"
+],
+"reprints": [],
+"slug": "march-2023-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 March/9699_m23_qp_22.pdf",
+"ms": "9699 (2021+)/2023 March/9699_m23_ms_22.pdf",
+"er": "9699 (2021+)/2023 March/9699_m23_er.pdf"
+}
+},
+{
+"id": "9699-32-M23",
+"bundle": "m23_32",
+"kind": "exam",
+"series": "March 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-M23-1",
+"9699-32-M23-2",
+"9699-32-M23-3",
+"9699-32-M23-4"
+],
+"reprints": [],
+"slug": "march-2023-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 March/9699_m23_qp_32.pdf",
+"ms": "9699 (2021+)/2023 March/9699_m23_ms_32.pdf",
+"er": "9699 (2021+)/2023 March/9699_m23_er.pdf"
+}
+},
+{
+"id": "9699-42-M23",
+"bundle": "m23_42",
+"kind": "exam",
+"series": "March 2023",
+"year": 2023,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-M23-1",
+"9699-42-M23-2",
+"9699-42-M23-3",
+"9699-42-M23-4",
+"9699-42-M23-5",
+"9699-42-M23-6"
+],
+"reprints": [],
+"slug": "march-2023-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2023 March/9699_m23_qp_42.pdf",
+"ms": "9699 (2021+)/2023 March/9699_m23_ms_42.pdf",
+"er": "9699 (2021+)/2023 March/9699_m23_er.pdf"
+}
+},
+{
+"id": "9699-11-W22",
+"bundle": "w22_11",
+"kind": "exam",
+"series": "November 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-W22-1",
+"9699-11-W22-2a",
+"9699-11-W22-2b",
+"9699-11-W22-3a",
+"9699-11-W22-3b",
+"9699-11-W22-4",
+"9699-11-W22-5"
+],
+"reprints": [
+"9699/13"
+],
+"slug": "november-2022-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 November/9699_w22_qp_11.pdf",
+"ms": "9699 (2021+)/2022 November/9699_w22_ms_11.pdf",
+"er": "9699 (2021+)/2022 November/9699_w22_er.pdf"
+}
+},
+{
+"id": "9699-12-W22",
+"bundle": "w22_12",
+"kind": "exam",
+"series": "November 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-W22-1",
+"9699-12-W22-2a",
+"9699-12-W22-2b",
+"9699-12-W22-3a",
+"9699-12-W22-3b",
+"9699-12-W22-4",
+"9699-12-W22-5"
+],
+"reprints": [],
+"slug": "november-2022-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 November/9699_w22_qp_12.pdf",
+"ms": "9699 (2021+)/2022 November/9699_w22_ms_12.pdf",
+"er": "9699 (2021+)/2022 November/9699_w22_er.pdf"
+}
+},
+{
+"id": "9699-21-W22",
+"bundle": "w22_21",
+"kind": "exam",
+"series": "November 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-W22-1",
+"9699-21-W22-2a",
+"9699-21-W22-2b",
+"9699-21-W22-3a",
+"9699-21-W22-3b",
+"9699-21-W22-4",
+"9699-21-W22-5"
+],
+"reprints": [
+"9699/23"
+],
+"slug": "november-2022-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 November/9699_w22_qp_21.pdf",
+"ms": "9699 (2021+)/2022 November/9699_w22_ms_21.pdf",
+"er": "9699 (2021+)/2022 November/9699_w22_er.pdf"
+}
+},
+{
+"id": "9699-22-W22",
+"bundle": "w22_22",
+"kind": "exam",
+"series": "November 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-W22-1",
+"9699-22-W22-2a",
+"9699-22-W22-2b",
+"9699-22-W22-3a",
+"9699-22-W22-3b",
+"9699-22-W22-4",
+"9699-22-W22-5"
+],
+"reprints": [],
+"slug": "november-2022-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 November/9699_w22_qp_22.pdf",
+"ms": "9699 (2021+)/2022 November/9699_w22_ms_22.pdf",
+"er": "9699 (2021+)/2022 November/9699_w22_er.pdf"
+}
+},
+{
+"id": "9699-31-W22",
+"bundle": "w22_31",
+"kind": "exam",
+"series": "November 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-W22-1",
+"9699-31-W22-2",
+"9699-31-W22-3",
+"9699-31-W22-4"
+],
+"reprints": [
+"9699/33"
+],
+"slug": "november-2022-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 November/9699_w22_qp_31.pdf",
+"ms": "9699 (2021+)/2022 November/9699_w22_ms_31.pdf",
+"er": "9699 (2021+)/2022 November/9699_w22_er.pdf"
+}
+},
+{
+"id": "9699-32-W22",
+"bundle": "w22_32",
+"kind": "exam",
+"series": "November 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-W22-1",
+"9699-32-W22-2",
+"9699-32-W22-3",
+"9699-32-W22-4"
+],
+"reprints": [],
+"slug": "november-2022-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 November/9699_w22_qp_32.pdf",
+"ms": "9699 (2021+)/2022 November/9699_w22_ms_32.pdf",
+"er": "9699 (2021+)/2022 November/9699_w22_er.pdf"
+}
+},
+{
+"id": "9699-41-W22",
+"bundle": "w22_41",
+"kind": "exam",
+"series": "November 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-W22-1",
+"9699-41-W22-2",
+"9699-41-W22-3",
+"9699-41-W22-4",
+"9699-41-W22-5",
+"9699-41-W22-6"
+],
+"reprints": [
+"9699/43"
+],
+"slug": "november-2022-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 November/9699_w22_qp_41.pdf",
+"ms": "9699 (2021+)/2022 November/9699_w22_ms_41.pdf",
+"er": "9699 (2021+)/2022 November/9699_w22_er.pdf"
+}
+},
+{
+"id": "9699-42-W22",
+"bundle": "w22_42",
+"kind": "exam",
+"series": "November 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-W22-1",
+"9699-42-W22-2",
+"9699-42-W22-3",
+"9699-42-W22-4",
+"9699-42-W22-5",
+"9699-42-W22-6"
+],
+"reprints": [],
+"slug": "november-2022-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 November/9699_w22_qp_42.pdf",
+"ms": "9699 (2021+)/2022 November/9699_w22_ms_42.pdf",
+"er": "9699 (2021+)/2022 November/9699_w22_er.pdf"
+}
+},
+{
+"id": "9699-11-S22",
+"bundle": "s22_11",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-S22-1",
+"9699-11-S22-2a",
+"9699-11-S22-2b",
+"9699-11-S22-3a",
+"9699-11-S22-3b",
+"9699-11-S22-4",
+"9699-11-S22-5"
+],
+"reprints": [],
+"slug": "june-2022-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_11.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_11.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-12-S22",
+"bundle": "s22_12",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-S22-1",
+"9699-12-S22-2a",
+"9699-12-S22-2b",
+"9699-12-S22-3a",
+"9699-12-S22-3b",
+"9699-12-S22-4",
+"9699-12-S22-5"
+],
+"reprints": [],
+"slug": "june-2022-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_12.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_12.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-13-S22",
+"bundle": "s22_13",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "13",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-13-S22-1",
+"9699-13-S22-2a",
+"9699-13-S22-2b",
+"9699-13-S22-3a",
+"9699-13-S22-3b",
+"9699-13-S22-4",
+"9699-13-S22-5"
+],
+"reprints": [],
+"slug": "june-2022-9699-13",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_13.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_13.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-21-S22",
+"bundle": "s22_21",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-S22-1",
+"9699-21-S22-2a",
+"9699-21-S22-2b",
+"9699-21-S22-3a",
+"9699-21-S22-3b",
+"9699-21-S22-4",
+"9699-21-S22-5"
+],
+"reprints": [],
+"slug": "june-2022-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_21.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_21.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-22-S22",
+"bundle": "s22_22",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-S22-1",
+"9699-22-S22-2a",
+"9699-22-S22-2b",
+"9699-22-S22-3a",
+"9699-22-S22-3b",
+"9699-22-S22-4",
+"9699-22-S22-5"
+],
+"reprints": [],
+"slug": "june-2022-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_22.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_22.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-23-S22",
+"bundle": "s22_23",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "23",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-23-S22-1",
+"9699-23-S22-2a",
+"9699-23-S22-2b",
+"9699-23-S22-3a",
+"9699-23-S22-3b",
+"9699-23-S22-4",
+"9699-23-S22-5"
+],
+"reprints": [],
+"slug": "june-2022-9699-23",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_23.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_23.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-31-S22",
+"bundle": "s22_31",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-S22-1",
+"9699-31-S22-2",
+"9699-31-S22-3",
+"9699-31-S22-4"
+],
+"reprints": [],
+"slug": "june-2022-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_31.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_31.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-32-S22",
+"bundle": "s22_32",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-S22-1",
+"9699-32-S22-2",
+"9699-32-S22-3",
+"9699-32-S22-4"
+],
+"reprints": [],
+"slug": "june-2022-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_32.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_32.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-33-S22",
+"bundle": "s22_33",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "33",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-33-S22-1",
+"9699-33-S22-2",
+"9699-33-S22-3",
+"9699-33-S22-4"
+],
+"reprints": [],
+"slug": "june-2022-9699-33",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_33.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_33.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-41-S22",
+"bundle": "s22_41",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-S22-1",
+"9699-41-S22-2",
+"9699-41-S22-3",
+"9699-41-S22-4",
+"9699-41-S22-5",
+"9699-41-S22-6"
+],
+"reprints": [],
+"slug": "june-2022-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_41.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_41.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-42-S22",
+"bundle": "s22_42",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-S22-1",
+"9699-42-S22-2",
+"9699-42-S22-3",
+"9699-42-S22-4",
+"9699-42-S22-5",
+"9699-42-S22-6"
+],
+"reprints": [],
+"slug": "june-2022-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_42.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_42.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-43-S22",
+"bundle": "s22_43",
+"kind": "exam",
+"series": "June 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "43",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-43-S22-1",
+"9699-43-S22-2",
+"9699-43-S22-3",
+"9699-43-S22-4",
+"9699-43-S22-5",
+"9699-43-S22-6"
+],
+"reprints": [],
+"slug": "june-2022-9699-43",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 June/9699_s22_qp_43.pdf",
+"ms": "9699 (2021+)/2022 June/9699_s22_ms_43.pdf",
+"er": "9699 (2021+)/2022 June/9699_s22_er.pdf"
+}
+},
+{
+"id": "9699-12-M22",
+"bundle": "m22_12",
+"kind": "exam",
+"series": "March 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-M22-1",
+"9699-12-M22-2a",
+"9699-12-M22-2b",
+"9699-12-M22-3a",
+"9699-12-M22-3b",
+"9699-12-M22-4",
+"9699-12-M22-5"
+],
+"reprints": [],
+"slug": "march-2022-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 March/9699_m22_qp_12.pdf",
+"ms": "9699 (2021+)/2022 March/9699_m22_ms_12.pdf",
+"er": "9699 (2021+)/2022 March/9699_m22_er.pdf"
+}
+},
+{
+"id": "9699-22-M22",
+"bundle": "m22_22",
+"kind": "exam",
+"series": "March 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-M22-1",
+"9699-22-M22-2a",
+"9699-22-M22-2b",
+"9699-22-M22-3a",
+"9699-22-M22-3b",
+"9699-22-M22-4",
+"9699-22-M22-5"
+],
+"reprints": [],
+"slug": "march-2022-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 March/9699_m22_qp_22.pdf",
+"ms": "9699 (2021+)/2022 March/9699_m22_ms_22.pdf",
+"er": "9699 (2021+)/2022 March/9699_m22_er.pdf"
+}
+},
+{
+"id": "9699-32-M22",
+"bundle": "m22_32",
+"kind": "exam",
+"series": "March 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-M22-1",
+"9699-32-M22-2",
+"9699-32-M22-3",
+"9699-32-M22-4"
+],
+"reprints": [],
+"slug": "march-2022-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 March/9699_m22_qp_32.pdf",
+"ms": "9699 (2021+)/2022 March/9699_m22_ms_32.pdf",
+"er": "9699 (2021+)/2022 March/9699_m22_er.pdf"
+}
+},
+{
+"id": "9699-42-M22",
+"bundle": "m22_42",
+"kind": "exam",
+"series": "March 2022",
+"year": 2022,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-M22-1",
+"9699-42-M22-2",
+"9699-42-M22-3",
+"9699-42-M22-4",
+"9699-42-M22-5",
+"9699-42-M22-6"
+],
+"reprints": [],
+"slug": "march-2022-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2022 March/9699_m22_qp_42.pdf",
+"ms": "9699 (2021+)/2022 March/9699_m22_ms_42.pdf",
+"er": "9699 (2021+)/2022 March/9699_m22_er.pdf"
+}
+},
+{
+"id": "9699-11-W21",
+"bundle": "w21_11",
+"kind": "exam",
+"series": "November 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-W21-1",
+"9699-11-W21-2a",
+"9699-11-W21-2b",
+"9699-11-W21-3a",
+"9699-11-W21-3b",
+"9699-11-W21-4",
+"9699-11-W21-5"
+],
+"reprints": [
+"9699/13"
+],
+"slug": "november-2021-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 November/9699_w21_qp_11.pdf",
+"ms": "9699 (2021+)/2021 November/9699_w21_ms_11.pdf",
+"er": "9699 (2021+)/2021 November/9699_w21_er.pdf"
+}
+},
+{
+"id": "9699-12-W21",
+"bundle": "w21_12",
+"kind": "exam",
+"series": "November 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-W21-1",
+"9699-12-W21-2a",
+"9699-12-W21-2b",
+"9699-12-W21-3a",
+"9699-12-W21-3b",
+"9699-12-W21-4",
+"9699-12-W21-5"
+],
+"reprints": [],
+"slug": "november-2021-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 November/9699_w21_qp_12.pdf",
+"ms": "9699 (2021+)/2021 November/9699_w21_ms_12.pdf",
+"er": "9699 (2021+)/2021 November/9699_w21_er.pdf"
+}
+},
+{
+"id": "9699-21-W21",
+"bundle": "w21_21",
+"kind": "exam",
+"series": "November 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "21",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-21-W21-1",
+"9699-21-W21-2a",
+"9699-21-W21-2b",
+"9699-21-W21-3a",
+"9699-21-W21-3b",
+"9699-21-W21-4",
+"9699-21-W21-5"
+],
+"reprints": [
+"9699/23"
+],
+"slug": "november-2021-9699-21",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 November/9699_w21_qp_21.pdf",
+"ms": "9699 (2021+)/2021 November/9699_w21_ms_21.pdf",
+"er": "9699 (2021+)/2021 November/9699_w21_er.pdf"
+}
+},
+{
+"id": "9699-22-W21",
+"bundle": "w21_22",
+"kind": "exam",
+"series": "November 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-W21-1",
+"9699-22-W21-2a",
+"9699-22-W21-2b",
+"9699-22-W21-3a",
+"9699-22-W21-3b",
+"9699-22-W21-4",
+"9699-22-W21-5"
+],
+"reprints": [],
+"slug": "november-2021-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 November/9699_w21_qp_22.pdf",
+"ms": "9699 (2021+)/2021 November/9699_w21_ms_22.pdf",
+"er": "9699 (2021+)/2021 November/9699_w21_er.pdf"
+}
+},
+{
+"id": "9699-31-W21",
+"bundle": "w21_31",
+"kind": "exam",
+"series": "November 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "31",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-31-W21-1",
+"9699-31-W21-2",
+"9699-31-W21-3",
+"9699-31-W21-4"
+],
+"reprints": [
+"9699/33"
+],
+"slug": "november-2021-9699-31",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 November/9699_w21_qp_31.pdf",
+"ms": "9699 (2021+)/2021 November/9699_w21_ms_31.pdf",
+"er": "9699 (2021+)/2021 November/9699_w21_er.pdf"
+}
+},
+{
+"id": "9699-32-W21",
+"bundle": "w21_32",
+"kind": "exam",
+"series": "November 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-W21-1",
+"9699-32-W21-2",
+"9699-32-W21-3",
+"9699-32-W21-4"
+],
+"reprints": [],
+"slug": "november-2021-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 November/9699_w21_qp_32.pdf",
+"ms": "9699 (2021+)/2021 November/9699_w21_ms_32.pdf",
+"er": "9699 (2021+)/2021 November/9699_w21_er.pdf"
+}
+},
+{
+"id": "9699-41-W21",
+"bundle": "w21_41",
+"kind": "exam",
+"series": "November 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "41",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-41-W21-1",
+"9699-41-W21-2",
+"9699-41-W21-3",
+"9699-41-W21-4",
+"9699-41-W21-5",
+"9699-41-W21-6"
+],
+"reprints": [
+"9699/43"
+],
+"slug": "november-2021-9699-41",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 November/9699_w21_qp_41.pdf",
+"ms": "9699 (2021+)/2021 November/9699_w21_ms_41.pdf",
+"er": "9699 (2021+)/2021 November/9699_w21_er.pdf"
+}
+},
+{
+"id": "9699-42-W21",
+"bundle": "w21_42",
+"kind": "exam",
+"series": "November 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-W21-1",
+"9699-42-W21-2",
+"9699-42-W21-3",
+"9699-42-W21-4",
+"9699-42-W21-5",
+"9699-42-W21-6"
+],
+"reprints": [],
+"slug": "november-2021-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 November/9699_w21_qp_42.pdf",
+"ms": "9699 (2021+)/2021 November/9699_w21_ms_42.pdf",
+"er": "9699 (2021+)/2021 November/9699_w21_er.pdf"
+}
+},
+{
+"id": "9699-11-S21",
+"bundle": "s21_11",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "11",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-11-S21-1",
+"9699-11-S21-2a",
+"9699-11-S21-2b",
+"9699-11-S21-3a",
+"9699-11-S21-3b",
+"9699-11-S21-4",
+"9699-11-S21-5"
+],
+"reprints": [],
+"slug": "june-2021-9699-11",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_11.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_11.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-12-S21",
+"bundle": "s21_12",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-S21-1",
+"9699-12-S21-2a",
+"9699-12-S21-2b",
+"9699-12-S21-3a",
+"9699-12-S21-3b",
+"9699-12-S21-4",
+"9699-12-S21-5"
+],
+"reprints": [],
+"slug": "june-2021-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_12.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_12.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-13-S21",
+"bundle": "s21_13",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "13",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-13-S21-1",
+"9699-13-S21-2a",
+"9699-13-S21-2b",
+"9699-13-S21-3a",
+"9699-13-S21-3b",
+"9699-13-S21-4",
+"9699-13-S21-5"
+],
+"reprints": [],
+"slug": "june-2021-9699-13",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_13.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_13.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-22-S21",
+"bundle": "s21_22",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-S21-1",
+"9699-22-S21-2a",
+"9699-22-S21-2b",
+"9699-22-S21-3a",
+"9699-22-S21-3b",
+"9699-22-S21-4",
+"9699-22-S21-5"
+],
+"reprints": [],
+"slug": "june-2021-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_22.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_22.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-23-S21",
+"bundle": "s21_23",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "23",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-23-S21-1",
+"9699-23-S21-2a",
+"9699-23-S21-2b",
+"9699-23-S21-3a",
+"9699-23-S21-3b",
+"9699-23-S21-4",
+"9699-23-S21-5"
+],
+"reprints": [],
+"slug": "june-2021-9699-23",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_23.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_23.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-32-S21",
+"bundle": "s21_32",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-S21-1",
+"9699-32-S21-2",
+"9699-32-S21-3",
+"9699-32-S21-4"
+],
+"reprints": [],
+"slug": "june-2021-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_32.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_32.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-33-S21",
+"bundle": "s21_33",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "33",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-33-S21-1",
+"9699-33-S21-2",
+"9699-33-S21-3",
+"9699-33-S21-4"
+],
+"reprints": [],
+"slug": "june-2021-9699-33",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_33.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_33.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-42-S21",
+"bundle": "s21_42",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-S21-1",
+"9699-42-S21-2",
+"9699-42-S21-3",
+"9699-42-S21-4",
+"9699-42-S21-5",
+"9699-42-S21-6"
+],
+"reprints": [],
+"slug": "june-2021-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_42.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_42.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-43-S21",
+"bundle": "s21_43",
+"kind": "exam",
+"series": "June 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "43",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-43-S21-1",
+"9699-43-S21-2",
+"9699-43-S21-3",
+"9699-43-S21-4",
+"9699-43-S21-5",
+"9699-43-S21-6"
+],
+"reprints": [],
+"slug": "june-2021-9699-43",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 June/9699_s21_qp_43.pdf",
+"ms": "9699 (2021+)/2021 June/9699_s21_ms_43.pdf",
+"er": "9699 (2021+)/2021 June/9699_s21_er.pdf"
+}
+},
+{
+"id": "9699-12-M21",
+"bundle": "m21_12",
+"kind": "exam",
+"series": "March 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "12",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-12-M21-1",
+"9699-12-M21-2a",
+"9699-12-M21-2b",
+"9699-12-M21-3a",
+"9699-12-M21-3b",
+"9699-12-M21-4",
+"9699-12-M21-5"
+],
+"reprints": [],
+"slug": "march-2021-9699-12",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 March/9699_m21_qp_12.pdf",
+"ms": "9699 (2021+)/2021 March/9699_m21_ms_12.pdf",
+"er": "9699 (2021+)/2021 March/9699_m21_er.pdf"
+}
+},
+{
+"id": "9699-22-M21",
+"bundle": "m21_22",
+"kind": "exam",
+"series": "March 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "22",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-22-M21-1",
+"9699-22-M21-2a",
+"9699-22-M21-2b",
+"9699-22-M21-3a",
+"9699-22-M21-3b",
+"9699-22-M21-4",
+"9699-22-M21-5"
+],
+"reprints": [],
+"slug": "march-2021-9699-22",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 March/9699_m21_qp_22.pdf",
+"ms": "9699 (2021+)/2021 March/9699_m21_ms_22.pdf",
+"er": "9699 (2021+)/2021 March/9699_m21_er.pdf"
+}
+},
+{
+"id": "9699-32-M21",
+"bundle": "m21_32",
+"kind": "exam",
+"series": "March 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "32",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-32-M21-1",
+"9699-32-M21-2",
+"9699-32-M21-3",
+"9699-32-M21-4"
+],
+"reprints": [],
+"slug": "march-2021-9699-32",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 March/9699_m21_qp_32.pdf",
+"ms": "9699 (2021+)/2021 March/9699_m21_ms_32.pdf",
+"er": "9699 (2021+)/2021 March/9699_m21_er.pdf"
+}
+},
+{
+"id": "9699-42-M21",
+"bundle": "m21_42",
+"kind": "exam",
+"series": "March 2021",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "42",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-42-M21-1",
+"9699-42-M21-2",
+"9699-42-M21-3",
+"9699-42-M21-4",
+"9699-42-M21-5",
+"9699-42-M21-6"
+],
+"reprints": [],
+"slug": "march-2021-9699-42",
+"source": "Cambridge",
+"files": {
+"qp": "9699 (2021+)/2021 March/9699_m21_qp_42.pdf",
+"ms": "9699 (2021+)/2021 March/9699_m21_ms_42.pdf",
+"er": "9699 (2021+)/2021 March/9699_m21_er.pdf"
+}
+},
+{
+"id": "9699-1-SP",
+"bundle": "sp_1",
+"kind": "specimen",
+"series": "Specimen",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 1",
+"paperNo": "1",
+"comp": "1",
+"name": "Socialisation, Identity and Methods of Research",
+"total": 60,
+"questions": [
+"9699-1-SP-1",
+"9699-1-SP-2a",
+"9699-1-SP-2b",
+"9699-1-SP-3a",
+"9699-1-SP-3b",
+"9699-1-SP-4",
+"9699-1-SP-5"
+],
+"reprints": [],
+"slug": "specimen-9699-1",
+"source": "Cambridge",
+"files": {
+"qp": "Specimen papers (2021)/9699_specimen_qp_1.pdf",
+"ms": "Specimen papers (2021)/9699_specimen_ms_1.pdf",
+"er": null
+}
+},
+{
+"id": "9699-2-SP",
+"bundle": "sp_2",
+"kind": "specimen",
+"series": "Specimen",
+"year": 2021,
+"spec": "9699",
+"qual": "AS",
+"paper": "Paper 2",
+"paperNo": "2",
+"comp": "2",
+"name": "The Family",
+"total": 60,
+"questions": [
+"9699-2-SP-1",
+"9699-2-SP-2a",
+"9699-2-SP-2b",
+"9699-2-SP-3a",
+"9699-2-SP-3b",
+"9699-2-SP-4",
+"9699-2-SP-5"
+],
+"reprints": [],
+"slug": "specimen-9699-2",
+"source": "Cambridge",
+"files": {
+"qp": "Specimen papers (2021)/9699_specimen_qp_2.pdf",
+"ms": "Specimen papers (2021)/9699_specimen_ms_2.pdf",
+"er": null
+}
+},
+{
+"id": "9699-3-SP",
+"bundle": "sp_3",
+"kind": "specimen",
+"series": "Specimen",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 3",
+"paperNo": "3",
+"comp": "3",
+"name": "Education",
+"total": 50,
+"questions": [
+"9699-3-SP-1",
+"9699-3-SP-2",
+"9699-3-SP-3",
+"9699-3-SP-4"
+],
+"reprints": [],
+"slug": "specimen-9699-3",
+"source": "Cambridge",
+"files": {
+"qp": "Specimen papers (2021)/9699_specimen_qp_3.pdf",
+"ms": "Specimen papers (2021)/9699_specimen_ms_3.pdf",
+"er": null
+}
+},
+{
+"id": "9699-4-SP",
+"bundle": "sp_4",
+"kind": "specimen",
+"series": "Specimen",
+"year": 2021,
+"spec": "9699",
+"qual": "A level",
+"paper": "Paper 4",
+"paperNo": "4",
+"comp": "4",
+"name": "Globalisation, Media and Religion",
+"total": 70,
+"questions": [
+"9699-4-SP-1",
+"9699-4-SP-2",
+"9699-4-SP-3",
+"9699-4-SP-4",
+"9699-4-SP-5",
+"9699-4-SP-6"
+],
+"reprints": [],
+"slug": "specimen-9699-4",
+"source": "Cambridge",
+"files": {
+"qp": "Specimen papers (2021)/9699_specimen_qp_4.pdf",
+"ms": "Specimen papers (2021)/9699_specimen_ms_4.pdf",
+"er": null
+}
+}
+]

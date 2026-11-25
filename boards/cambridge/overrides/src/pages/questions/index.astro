@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allTopics, groupInfo } from '../../lib/data';
+import { GROUPS } from '../../lib/data';
+const groups = GROUPS.map((g) => [g[0] + ' · ' + g[4], g[0]]);
+---
+<Base title="Cambridge International A Level Sociology (9699) questions by topic, every paper since 2021" description="Every Cambridge International AS and A Level Sociology (9699) past-paper question since 2021 sorted into 35 syllabus topics, each with its mark schemes, examiners' report and every essay question set." context="questions-index">
+  <h1>Questions by topic</h1>
+  <p>Every Cambridge International AS and A Level Sociology (9699) past-paper question since the current syllabus was first examined in 2021, in every time-zone variant, sorted into the 35 sub-topics of the syllabus by the content each question assesses. Each topic page shows every question with the mark scheme (its levels of response, with the part's rows highlighted), the examiners' report on the question, every essay set on the topic, and filters by paper, year and question type.</p>
+  {groups.map(([h, key]) => (
+    <>
+      <h2 class="strand-head">{h}</h2>
+      <ul class="topic-list">
+        {allTopics.filter((t) => t.group === key).map((t) => <li><a href={`/questions/${t.slug}/`}><span>{t.name}</span><span class="strand"><span class={`badge badge-${groupInfo(t.group).badge}`}>{groupInfo(t.group).short}</span> {t.parts} parts</span></a></li>)}
+      </ul>
+    </>
+  ))}
+  <h2>By question type</h2>
+  <p>Or work on a kind of question across every topic: <a href="/questions/type/describe-two/">4-mark "describe two"</a>, <a href="/questions/type/explain-two/">6- and 8-mark "explain two"</a>, <a href="/questions/type/explain-a-view/">10-mark "explain this view"</a>, <a href="/questions/type/against-a-view/">arguments against a view (6 and 12 marks)</a>, <a href="/questions/type/essays/">26- and 35-mark essays</a>.</p>
+</Base>

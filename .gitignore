@@ -5,3 +5,4 @@ dist/
 .env
 /past-papers/
 *.zip
+/.build/

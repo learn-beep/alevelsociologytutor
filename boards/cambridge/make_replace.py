@@ -1,0 +1,62 @@
+"""Writes boards/cambridge/replace.json: the string replacements the Cambridge build applies to a copy of src/ (specific first, then generic).
+Whole pages that differ are in boards/cambridge/overrides/src/ and are copied over afterwards (no replacements are applied to them)."""
+import json, pathlib
+CIE_URL = 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-sociology-9699/'
+pairs = [
+    # footer, lead block, WhatsApp, titles
+    ['Past-paper questions, mark schemes and examiner reports are © AQA and are shown free for study.',
+     "Past-paper questions, mark schemes and examiners' reports are © Cambridge University Press &amp; Assessment and are shown free for study."],
+    ["line = 'Essays stuck in the middle band, or losing marks on the 10-markers? Book a trial lesson with Mark, a former AQA examiner.'",
+     "line = 'Essays stuck in the middle levels, or losing marks on the quotation questions? Book a trial lesson with Mark, an experienced A-level examiner who teaches the Cambridge syllabus.'"],
+    ['<h2>Work with an AQA sociology tutor</h2>', '<h2>Work with a Cambridge International sociology tutor</h2>'],
+    ["Hi, I'm looking for an AQA Sociology Tutor.", "Hi, I'm looking for a Cambridge International Sociology Tutor."],
+    ['return `${t} | AQA A-level Sociology`;', 'return `${t} | Cambridge A Level Sociology 9699`;'],
+    ["description = 'Free AQA A-level Sociology past-paper questions, mark schemes, examiner comments and practice, with AQA specialist tutors.'",
+     "description = 'Free Cambridge International AS and A Level Sociology (9699) past-paper questions, mark schemes, examiners\\' report comments and practice, with specialist online tutors.'"],
+    ["alternateName: ['alevelsociologytutor.com', 'AQA A-level Sociology Tutor']", "alternateName: ['alevelsociologytutor.com', 'Cambridge A Level Sociology Tutor']"],
+    # question card
+    ["Item for question {q.question.replace(/\\(.*$/, '')}", "Source for question {q.question.replace(/\\(.*$/, '')}"],
+    ["Open this paper on AQA's site", "See Cambridge's 9699 page"],
+    ["<Icon name=\"comment\" />Examiner's comment</button>", "<Icon name=\"comment\" />Examiners' report</button>"],
+    ["<h4>Examiner's comment</h4>", "<h4>Examiners' report on this question</h4>"],
+    ["{q.marks >= 8 ? ', including the levels grid and indicative content' : ''}", "{q.question.includes('(') ? ' for the whole question; this part\\'s rows are marked in orange' : ''}{q.marks >= 10 ? ', with the levels of response' : ''}"],
+    ['<h4>Notes from the mark scheme and report</h4>', '<h4>Notes from the mark scheme</h4>'],
+    # print pack
+    ['{topic.name}: AQA past-paper questions pack', '{topic.name}: Cambridge 9699 past-paper questions pack'],
+    ['AQA AS and A-level Sociology past-paper questions since 2016 · {qs.length} parts · mark schemes follow the questions · www.alevelsociologytutor.com · Questions and mark schemes © AQA',
+     'Cambridge International AS and A Level Sociology (9699) past-paper questions since 2021 · {qs.length} parts · mark schemes follow the questions · www.alevelsociologytutor.com · Questions and mark schemes © Cambridge University Press &amp; Assessment'],
+    # flashcards
+    ['On the AS papers a precise definition is worth 2 marks, and at A level the same precision is what lifts an outline point from 1 mark to 2.',
+     'On Cambridge\'s papers a precise term is what earns the ‘describing’ mark in Question 1 and the knowledge marks in every essay.'],
+    ['the <a href="/practice/define/">define-it drill</a> already covers every real definition question.', 'the <a href="/practice/define/">quick-fire round</a> already covers every real 4-mark ‘describe two’ question.'],
+    ['A definition that would score 2 marks in the exam is the target', 'A definition you could use in a ‘describe two’ answer is the target'],
+    ['and a define-it drill from real 2-mark questions.', 'and a quick-fire round of the real 4-mark ‘describe two’ questions.'],
+    ['<a href="/practice/define/">Define it</a>', '<a href="/practice/define/">Quick-fire</a>'],
+    ['<a class="btn" href="/practice/define/"><Icon name="target" />Define-it drill</a>', '<a class="btn" href="/practice/define/"><Icon name="target" />Quick-fire: describe two</a>'],
+    ['leadLine="Definitions fine but the 4-markers slipping? Message us."', 'leadLine="Key terms fine but the essays stuck? Message us."'],
+    # planner, today, timeline, search
+    ["const papers = allPapers.filter((p) => p.kind === 'exam').sort((a, b) => b.year - a.year || a.spec.localeCompare(b.spec) || a.paperNo - b.paperNo);",
+     "const rank = (s) => Number(s.split(' ')[1]) * 10 + ({ March: 1, June: 2, November: 3 }[s.split(' ')[0]] || 0);\nconst papers = allPapers.filter((p) => p.kind === 'exam').sort((a, b) => rank(b.series) - rank(a.series) || a.paperNo - b.paperNo || a.comp.localeCompare(b.comp));"],
+    ["{p.series.replace('June ', 'Jun ').replace('November ', 'Nov ')} {p.qual === 'AS' ? 'AS ' : ''}P{p.paperNo}", "{p.series.replace('June ', 'Jun ').replace('November ', 'Nov ').replace('March ', 'Mar ')} {p.comp}"],
+    ['Tap a block to open it. Paper 2 shows all eight topic blocks, of which students answer two; the 30-mark essays are the big blocks on Papers 1 and 3.',
+     'Tap a block to open it. Each row is one paper (9699/12 is Paper 1, variant 2). Papers 1 and 2 show both Section B essays, of which students answer one, and Paper 4 shows all six essays, of which students answer two.'],
+    ['Every AQA A-level Sociology paper as a timeline, 2016–2025', 'Every Cambridge A Level Sociology 9699 paper as a timeline, 2021–2025'],
+    ['{"t": "Methods in Context questions", "u": "/questions/type/methods-in-context/", "kind": "Tool"}, {"t": "Outline and explain (10-mark) questions", "u": "/questions/type/outline-and-explain/", "kind": "Tool"}, {"t": "Applying material from the Item: analyse questions", "u": "/questions/type/analyse/", "kind": "Tool"}',
+     '{"t": "Describe two (4-mark) questions", "u": "/questions/type/describe-two/", "kind": "Tool"}, {"t": "Explain this view (10-mark) questions", "u": "/questions/type/explain-a-view/", "kind": "Tool"}, {"t": "Arguments against a view", "u": "/questions/type/against-a-view/", "kind": "Tool"}'],
+    ['{"t": "Define it drill", "u": "/practice/define/", "kind": "Tool"}', '{"t": "Quick-fire: describe two", "u": "/practice/define/", "kind": "Tool"}'],
+    ['{"t": "Spec checklist", "u": "/specification/"', '{"t": "Syllabus checklist", "u": "/specification/"'],
+    ['{"t": "Grade boundaries and calculator"', '{"t": "Grade thresholds and calculator"'],
+    ["q.l === 'A level' && q.m >= 4 && q.m <= 15", "q.m >= 4 && q.m <= 12"],
+    ["with the mark scheme and the examiner's comment. Same question for everyone", "with the mark scheme and the examiners' report. Same question for everyone"],
+    # generic
+    ['AQA A-level Sociology', 'Cambridge A Level Sociology 9699'],
+    ['AQA AS and A-level Sociology', 'Cambridge International AS and A Level Sociology'],
+    ['AQA Sociology', 'Cambridge Sociology 9699'],
+    ["AQA's", "Cambridge's"],
+    ['AQA', 'Cambridge'],
+    ['7192', '9699'], ['7191', '9699'],
+    ['since 2016', 'since 2021'], ['2016–2025', '2021–2025'],
+    ["'malt-", "'malt-cie-"], ['`malt-', '`malt-cie-'], ['"malt-', '"malt-cie-'],
+]
+json.dump({'all': pairs, 'delete': ['src/data/decks']}, open(pathlib.Path(__file__).with_name('replace.json'), 'w'), indent=1, ensure_ascii=False)
+print(len(pairs))

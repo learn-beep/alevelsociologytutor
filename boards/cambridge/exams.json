@@ -1,0 +1,45 @@
+{
+  "series": "June 2027",
+  "source": "Cambridge Final Exam Timetable June 2027, administrative zone 3 (version 1, November 2026)",
+  "zoneNote": "These are the zone 3 papers (variant 2, the /12, /22, /32 and /42 papers), sat in the morning. Schools in other administrative zones sit the same paper on the same day in a different variant and session: check your own zone's timetable or ask your exams officer.",
+  "alevel": [
+    {
+      "code": "9699/12",
+      "name": "Paper 1: Socialisation, Identity and Methods of Research",
+      "date": "2027-05-11",
+      "session": "Morning",
+      "length": "1 hour 30 minutes",
+      "marks": 60,
+      "level": "AS"
+    },
+    {
+      "code": "9699/22",
+      "name": "Paper 2: The Family",
+      "date": "2027-05-14",
+      "session": "Morning",
+      "length": "1 hour 30 minutes",
+      "marks": 60,
+      "level": "AS"
+    },
+    {
+      "code": "9699/32",
+      "name": "Paper 3: Education",
+      "date": "2027-05-27",
+      "session": "Morning",
+      "length": "1 hour 15 minutes",
+      "marks": 50,
+      "level": "A level"
+    },
+    {
+      "code": "9699/42",
+      "name": "Paper 4: Globalisation, Media and Religion",
+      "date": "2027-06-01",
+      "session": "Morning",
+      "length": "1 hour 45 minutes",
+      "marks": 70,
+      "level": "A level"
+    }
+  ],
+  "as": [],
+  "asNote": "Papers 1 and 2 are the AS Level. A Level students sit all four papers, either in one series or with the AS in an earlier series (staged assessment)."
+}

@@ -1,0 +1,57 @@
+{
+ "topic": "media-effects",
+ "name": "Media effects",
+ "checked": false,
+ "terms": [
+  {
+   "term": "Hypodermic syringe model",
+   "definition": "The view that the media inject messages directly into a passive audience, with immediate effects.",
+   "examiner": "Bandura's Bobo doll experiments are the usual evidence; criticise the artificial setting."
+  },
+  {
+   "term": "Two-step flow model",
+   "definition": "The view that media messages reach people through opinion leaders, who interpret them for others.",
+   "examiner": "Katz and Lazarsfeld; shows the audience is not isolated."
+  },
+  {
+   "term": "Uses and gratifications",
+   "definition": "The view that audiences actively use the media to meet their own needs, such as information or escape.",
+   "examiner": "Blumler and McQuail; evaluate by asking whether people are always as active as claimed."
+  },
+  {
+   "term": "Cultivation theory",
+   "definition": "The view that long-term, repeated exposure to media gradually shapes people's view of reality.",
+   "examiner": "Gerbner; the \"mean world\" effect of heavy television viewing."
+  },
+  {
+   "term": "Reception analysis",
+   "definition": "The view that audiences interpret media texts in different ways: dominant, negotiated or oppositional readings.",
+   "examiner": "Hall's encoding and decoding; links to Morley's study of audiences."
+  },
+  {
+   "term": "Active audience",
+   "definition": "The idea that audiences select, interpret and resist media messages.",
+   "examiner": "The core counter-argument to effects models in an essay."
+  },
+  {
+   "term": "Desensitisation",
+   "definition": "The idea that repeated exposure to media violence makes people less sensitive to real violence.",
+   "examiner": "Use it with care: much of the evidence is from experiments."
+  },
+  {
+   "term": "Moral panic",
+   "definition": "An exaggerated public reaction, often driven by the media, to a group seen as a threat to society.",
+   "examiner": "Cohen's Folk Devils and Moral Panics; links media effects to deviance."
+  },
+  {
+   "term": "Deviancy amplification",
+   "definition": "The process by which media coverage increases the deviance it reports.",
+   "examiner": "Pairs with moral panic; show the cycle step by step."
+  },
+  {
+   "term": "Copycat behaviour",
+   "definition": "Imitation of acts seen in the media.",
+   "examiner": "Often reported but hard to prove; distinguish correlation from cause."
+  }
+ ]
+}

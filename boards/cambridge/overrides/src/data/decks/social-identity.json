@@ -1,0 +1,57 @@
+{
+ "topic": "social-identity",
+ "name": "Social identity",
+ "checked": false,
+ "terms": [
+  {
+   "term": "Social identity",
+   "definition": "How individuals see themselves and are seen by others, shaped by membership of social groups.",
+   "examiner": "Link identity to a specific characteristic (class, gender, ethnicity or age) rather than discussing it in general."
+  },
+  {
+   "term": "Gender role socialisation",
+   "definition": "The process by which people learn the behaviour expected of their sex in their society.",
+   "examiner": "Oakley's manipulation and canalisation are the classic mechanisms to name."
+  },
+  {
+   "term": "Hegemonic masculinity",
+   "definition": "The dominant, idealised form of masculinity in a society, against which other masculinities are judged.",
+   "examiner": "Connell. Useful for questions on changing male identities and the \"crisis of masculinity\"."
+  },
+  {
+   "term": "Ethnicity",
+   "definition": "A shared cultural identity based on factors such as language, religion, traditions and sense of common origin.",
+   "examiner": "Distinguish it from race, which is a socially constructed classification by physical features."
+  },
+  {
+   "term": "Hybrid identity",
+   "definition": "An identity that combines elements of more than one culture, common among second- and third-generation migrants.",
+   "examiner": "Postmodernists and globalisation theorists use it; give an example of mixing cultural styles."
+  },
+  {
+   "term": "Class identity",
+   "definition": "A sense of belonging to a social class, with shared lifestyles, values and life chances.",
+   "examiner": "Postmodernists argue class identity has weakened; Marxists that class still shapes life chances."
+  },
+  {
+   "term": "Age identity",
+   "definition": "How people see themselves and are treated according to their age group, e.g. youth or old age.",
+   "examiner": "Show that age categories are socially constructed: what counts as \"old\" varies between societies."
+  },
+  {
+   "term": "Youth subculture",
+   "definition": "A group of young people with distinctive norms, values and style that differ from the mainstream.",
+   "examiner": "Contrast the CCCS view of resistance with postmodern ideas of style without meaning."
+  },
+  {
+   "term": "Stereotype",
+   "definition": "An oversimplified, often negative generalisation about a group.",
+   "examiner": "Link to the media or education as sources, and to the effect on how groups are treated."
+  },
+  {
+   "term": "Agency",
+   "definition": "The capacity of individuals to make choices and shape their own identities.",
+   "examiner": "Use it to evaluate structural views of identity: people negotiate and resist the identities given to them."
+  }
+ ]
+}

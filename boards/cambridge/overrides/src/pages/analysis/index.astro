@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import Heatmap from '../../components/Heatmap.astro';
+import weighting from '../../data/weighting.json';
+import { allPapers, seriesRank } from '../../lib/data';
+const areas = Object.entries(weighting.areas).sort((a, b) => Number(a[0]) - Number(b[0])).map(([code, title]) => [code, `${code}. ${title.replace(/ \(Paper (\d)(, (\w+))?\)$/, (m, p, x, sec) => ` (P${p}${sec ? ' ' + sec : ''})`)}`]);
+// one variant per series (variant 2, the /12, /22, /32, /42 papers, which every series including March has), so each column is one sitting
+const v2 = allPapers.filter((p) => p.kind === 'exam' && p.comp.endsWith('2'));
+const series = [...new Set(v2.map((p) => p.series))].sort((a, b) => seriesRank(a) - seriesRank(b));
+const marks = (s, area) => v2.filter((p) => p.series === s).reduce((n, p) => n + (weighting.byPaper[p.id]?.[area] || 0), 0);
+---
+<Base title="What comes up in Cambridge A Level Sociology 9699: marks by topic, 2021–2025" description="Marks set on each of the twelve 9699 syllabus topics in every series since 2021, as a heat map, from the variant 2 papers." context="analysis">
+  <h1>What comes up, series by series</h1>
+  <p>Marks set on each of the twelve syllabus topics in each series, counted from the content each question assesses. Each column is the variant 2 papers (9699/12, 22, 32 and 42), the variant every series has, and every question on the paper is counted, including both Section B essays on Papers 1 and 2 (students answer one) and all six Paper 4 essays (students answer two). Darker cells carry more marks; the right-hand column is the total.</p>
+  <Heatmap areas={areas} series={series} value={marks} title="Marks by topic by series" short={(s) => s.replace('June ', 'Jun ').replace('November ', 'Nov ').replace('March ', 'Mar ').replace(' 20', ' ')} />
+  <p class="muted">The topics within each paper share the marks between them fairly evenly, so the useful reading is within a paper: which half of Paper 1 (socialisation and identity or research methods) carried the essays, and which Paper 4 topics came up in your two sections. November 2025 is the latest series here; the June 2026 papers will be added when they become public.</p>
+  <p><a href="/what-came-up/">What came up in the latest papers</a> · <a href="/timeline/">Every paper as a timeline</a></p>
+</Base>
